@@ -1,0 +1,131 @@
+{
+  "trainingModules": [
+    {
+      "id": "module-001",
+      "title": "The Opportunity",
+      "description": "Understand how you can make money as a reseller",
+      "icon": "trending_up",
+      "durationMinutes": 5,
+      "category": 0,
+      "level": 0,
+      "order": 1,
+      "isRequired": true,
+      "lessons": [
+        {
+          "id": "lesson-001",
+          "title": "How You Make Money",
+          "description": "Learn about the commission structure",
+          "type": 0,
+          "durationMinutes": 2,
+          "order": 1,
+          "videoUrl": "/videos/opportunity/how-you-make-money.mp4",
+          "content": "As a reseller, you earn recurring commission every month your clients stay with us..."
+        },
+        {
+          "id": "lesson-002",
+          "title": "Commission Tiers",
+          "description": "Understand the different commission levels",
+          "type": 1,
+          "durationMinutes": 3,
+          "order": 2,
+          "content": "Your commission rate increases based on your performance..."
+        }
+      ]
+    },
+    {
+      "id": "module-002",
+      "title": "The Products",
+      "description": "Learn about the software products you'll be selling",
+      "icon": "inventory_2",
+      "durationMinutes": 10,
+      "category": 1,
+      "level": 0,
+      "order": 2,
+      "isRequired": true,
+      "lessons": [
+        {
+          "id": "lesson-003",
+          "title": "School Management System",
+          "description": "Overview of our education software",
+          "type": 0,
+          "durationMinutes": 3,
+          "order": 1,
+          "videoUrl": "/videos/products/school-system.mp4",
+          "content": "Our School Management System helps schools manage student records, billing, and more..."
+        },
+        {
+          "id": "lesson-004",
+          "title": "Hospital Management System",
+          "description": "Overview of our healthcare software",
+          "type": 0,
+          "durationMinutes": 3,
+          "order": 2,
+          "videoUrl": "/videos/products/hospital-system.mp4",
+          "content": "The Hospital Management System streamlines patient records, appointments, and billing..."
+        },
+        {
+          "id": "lesson-005",
+          "title": "Accounting Software",
+          "description": "Overview of our accounting solution",
+          "type": 0,
+          "durationMinutes": 4,
+          "order": 3,
+          "videoUrl": "/videos/products/accounting.mp4",
+          "content": "Our Accounting Software provides comprehensive financial management for businesses..."
+        }
+      ]
+    },
+    {
+      "id": "module-003",
+      "title": "How to Sell",
+      "description": "Master the art of selling our software",
+      "icon": "point_of_sale",
+      "durationMinutes": 15,
+      "category": 2,
+      "level": 1,
+      "order": 3,
+      "isRequired": true,
+      "lessons": [
+        {
+          "id": "lesson-006",
+          "title": "Who to Target",
+          "description": "Identifying ideal customers",
+          "type": 0,
+          "durationMinutes": 3,
+          "order": 1,
+          "videoUrl": "/videos/sales/who-to-target.mp4",
+          "content": "Focus on small to medium businesses in specific industries..."
+        },
+        {
+          "id": "lesson-007",
+          "title": "What to Say",
+          "description": "Crafting your pitch",
+          "type": 0,
+          "durationMinutes": 4,
+          "order": 2,
+          "videoUrl": "/videos/sales/what-to-say.mp4",
+          "content": "Start by understanding their pain points before presenting the solution..."
+        },
+        {
+          "id": "lesson-008",
+          "title": "Handling Objections",
+          "description": "Common objections and how to address them",
+          "type": 1,
+          "durationMinutes": 4,
+          "order": 3,
+          "content": "Price concerns? Competition? Learn how to turn objections into opportunities..."
+        },
+        {
+          "id": "lesson-009",
+          "title": "Closing Techniques",
+          "description": "How to close the sale",
+          "type": 0,
+          "durationMinutes": 4,
+          "order": 4,
+          "videoUrl": "/videos/sales/closing.mp4",
+          "content": "Learn when and how to ask for the sale..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "onboardingTasks": [
+    {
+      "id": "task-001",
+      "title": "Complete Your Profile",
+      "description": "Add your photo, bio, and payment details to get started",
+      "stage": 0,
+      "order": 1,
+      "isCompleted": false,
+      "icon": "person",
+      "priority": 2,
+      "isRequired": true,
+      "actionUrl": "/reseller/profile"
+    },
+    {
+      "id": "task-002",
+      "title": "Watch Orientation Video",
+      "description": "Learn how the program works and what to expect",
+      "stage": 1,
+      "order": 2,
+      "isCompleted": false,
+      "icon": "play_circle",
+      "priority": 2,
+      "isRequired": true,
+      "actionUrl": "/reseller/training"
+    },
+    {
+      "id": "task-003",
+      "title": "Complete Sales Training",
+      "description": "Master the art of selling our software products",
+      "stage": 2,
+      "order": 3,
+      "isCompleted": false,
+      "icon": "school",
+      "priority": 2,
+      "isRequired": true,
+      "actionUrl": "/reseller/training"
+    },
+    {
+      "id": "task-004",
+      "title": "Get Your First Leads",
+      "description": "Request your first batch of potential clients",
+      "stage": 3,
+      "order": 4,
+      "isCompleted": false,
+      "icon": "contacts",
+      "priority": 2,
+      "isRequired": true,
+      "actionUrl": "/reseller/leads"
+    },
+    {
+      "id": "task-005",
+      "title": "Contact 10 Businesses",
+      "description": "Reach out using the provided scripts and leads",
+      "stage": 3,
+      "order": 5,
+      "isCompleted": false,
+      "icon": "call",
+      "priority": 3,
+      "isRequired": true,
+      "actionUrl": "/reseller/leads"
+    },
+    {
+      "id": "task-006",
+      "title": "Close Your First Deal",
+      "description": "Sign up your first paying customer",
+      "stage": 4,
+      "order": 6,
+      "isCompleted": false,
+      "icon": "handshake",
+      "priority": 3,
+      "isRequired": true,
+      "actionUrl": "/reseller/dashboard"
+    }
+  ]
+}

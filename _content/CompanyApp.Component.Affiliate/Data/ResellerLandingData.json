@@ -1,0 +1,68 @@
+{
+  "incomeExamples": [
+    {
+      "clientCount": 10,
+      "monthlyIncome": 210,
+      "description": "Start earning with just 10 clients"
+    },
+    {
+      "clientCount": 50,
+      "monthlyIncome": 1050,
+      "description": "Build a sustainable income stream"
+    },
+    {
+      "clientCount": 100,
+      "monthlyIncome": 2100,
+      "description": "Transform your revenue with a strong client base"
+    }
+  ],
+  "howItWorksSteps": [
+    {
+      "stepNumber": 1,
+      "title": "Join the Program",
+      "description": "Fill out a simple application and get approved within 24 hours",
+      "icon": "person_add"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Get Clients",
+      "description": "Use our tools, training, and leads to find businesses that need our software",
+      "icon": "groups"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Earn Recurring Income",
+      "description": "Get paid monthly for every client you bring on board",
+      "icon": "payments"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-001",
+      "name": "John Kamara",
+      "role": "IT Consultant",
+      "company": "Kamara Tech Solutions",
+      "content": "I started 6 months ago and already have 15 clients. The support from the team is amazing!",
+      "rating": 5,
+      "createdDate": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "test-002",
+      "name": "Sarah Johnson",
+      "role": "Accountant",
+      "company": "Johnson & Associates",
+      "content": "This program has transformed my practice. My clients love the software and I earn passive income every month.",
+      "rating": 5,
+      "createdDate": "2024-02-20T00:00:00Z"
+    },
+    {
+      "id": "test-003",
+      "name": "Michael Sesay",
+      "role": "Business Consultant",
+      "company": "Sesay Consulting",
+      "content": "The training was incredibly helpful. I closed my first deal within the first week!",
+      "rating": 5,
+      "createdDate": "2024-03-10T00:00:00Z"
+    }
+  ]
+}
