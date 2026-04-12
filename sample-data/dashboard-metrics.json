@@ -1,0 +1,20 @@
+{
+  "Influencer": {
+    "TotalReferrals": 124,
+    "ActiveLinks": 12,
+    "CommissionEarned": 1250.50,
+    "ConversionRate": 3.5
+  },
+  "Reseller": {
+    "TotalCustomers": 45,
+    "ActiveProjects": 8,
+    "MonthlyRevenue": 15400.00,
+    "SupportTickets": 3
+  },
+  "Partner": {
+    "TotalAffiliates": 210,
+    "GlobalRevenue": 850000.00,
+    "SystemUptime": 99.98,
+    "StrategicInitiatives": 5
+  }
+}

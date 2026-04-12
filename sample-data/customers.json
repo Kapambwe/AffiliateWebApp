@@ -1,0 +1,7 @@
+[
+  { "Name": "Central High School", "Email": "admin@centralhigh.edu", "Status": "Active", "Revenue": 4500, "SystemType": "School" },
+  { "Name": "City General Hospital", "Email": "it@cityhospital.org", "Status": "Active", "Revenue": 12000, "SystemType": "Hospital" },
+  { "Name": "Apex Law Chambers", "Email": "partners@apexlaw.com", "Status": "Pending", "Revenue": 0, "SystemType": "Law Firm" },
+  { "Name": "Global Mutual Fund", "Email": "compliance@globalmutual.com", "Status": "Active", "Revenue": 8500, "SystemType": "Mutual Fund" },
+  { "Name": "Sunshine Microfinance", "Email": "info@sunshine-mf.com", "Status": "Active", "Revenue": 3200, "SystemType": "Microfinance" }
+]

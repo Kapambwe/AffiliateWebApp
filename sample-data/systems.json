@@ -1,0 +1,233 @@
+[
+  {
+    "Type": "Accounting System",
+    "Label": "Accrual Accounting",
+    "RedirectUrl": "https://kapambwe.github.io/AccountingWebApp/",
+    "Fields": [
+      { "Name": "AccountingUserCount", "Label": "Number of Users", "Type": "Numeric" },
+      { "Name": "Industry", "Label": "Industry", "Type": "Text", "Placeholder": "e.g. Entertainment, Agriculture, SOE" }
+    ]
+  },
+  {
+    "Type": "Law Firm",
+    "Label": "Legal Practice",
+    "RedirectUrl": "https://kapambwe.github.io/LawyerWebApp",
+    "Fields": [
+      { "Name": "PartnerCount", "Label": "Number of Partners", "Type": "Numeric" },
+      { "Name": "PracticeAreas", "Label": "Practice Areas", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "School",
+    "Label": "Educational Institution",
+    "RedirectUrl": "https://kapambwe.github.io/SchoolWebApp/",
+    "Fields": [
+      { "Name": "SchoolLevel", "Label": "School Level", "Type": "Text", "Placeholder": "e.g. Primary, High School, University" },
+      { "Name": "StudentCount", "Label": "Estimated Student Count", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Political Party",
+    "Label": "Political Organization",
+    "RedirectUrl": "https://kapambwe.github.io/VotersWebApp",
+    "Fields": [
+      { "Name": "PartyLeader", "Label": "Party Leader", "Type": "Text" },
+      { "Name": "MemberCount", "Label": "Estimated Members", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Hospital",
+    "Label": "Healthcare Provider",
+    "RedirectUrl": "https://kapambwe.github.io/HospitalAdminWebApp/",
+    "Fields": [
+      { "Name": "BedCount", "Label": "Number of Beds", "Type": "Numeric" },
+      { "Name": "HospitalSpecialization", "Label": "Specialization", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Ministry of Finance",
+    "Label": "Government Ministry (Finance)",
+    "RedirectUrl": "https://kapambwe.github.io/MinistryFinanceWebApp/",
+    "Fields": [
+      { "Name": "Department", "Label": "Department/Agency", "Type": "Text" },
+      { "Name": "StaffCount", "Label": "Number of Staff", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Intelligence Agency",
+    "Label": "Intelligence & Investigations",
+    "RedirectUrl": "https://kapambwe.github.io/IntelligenceWebApp/",
+    "Fields": [
+      { "Name": "FocusArea", "Label": "Primary Focus", "Type": "Text", "Placeholder": "e.g. Network Analysis, Investigations" }
+    ]
+  },
+  {
+    "Type": "Financial Crime Unit",
+    "Label": "Financial Crime Investigation",
+    "RedirectUrl": "https://kapambwe.github.io/FinancialCrimeWebApp/",
+    "Fields": [
+      { "Name": "CaseVolume", "Label": "Estimated Monthly Cases", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Council",
+    "Label": "Local Authority / Council",
+    "RedirectUrl": "https://kapambwe.github.io/CouncilWebApp/",
+    "Fields": [
+      { "Name": "District", "Label": "District/Region", "Type": "Text" },
+      { "Name": "PopulationServed", "Label": "Population Served", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Ministry of Local Government",
+    "Label": "Government Ministry (Local Gov)",
+    "RedirectUrl": "https://github.com/Kapambwe/MinistryLocalGovWebApp",
+    "Fields": [
+      { "Name": "CouncilsMonitored", "Label": "Number of Councils to Monitor", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Mining Regulator",
+    "Label": "Mining Regulator",
+    "RedirectUrl": "https://kapambwe.github.io/MiningRegulatorWebApp/",
+    "Fields": [
+      { "Name": "Region", "Label": "Regulatory Region", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Police Department",
+    "Label": "Police Management",
+    "RedirectUrl": "https://kapambwe.github.io/PoliceWebTool/",
+    "Fields": [
+      { "Name": "StationCount", "Label": "Number of Stations", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Judiciary/Court",
+    "Label": "Court Management",
+    "RedirectUrl": "https://kapambwe.github.io/CourtWebApp/",
+    "Fields": [
+      { "Name": "CourtType", "Label": "Court Level", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Land Audit Office",
+    "Label": "Land Management & Auditing",
+    "RedirectUrl": "https://kapambwe.github.io/LandAuditWebApp/",
+    "Fields": [
+      { "Name": "AuditingScope", "Label": "Scope of Audit", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "SOE Monitor",
+    "Label": "State Owned Enterprise Monitoring",
+    "RedirectUrl": "https://kapambwe.github.io/SoeMonitorWebApp/",
+    "Fields": [
+      { "Name": "EnterprisesTracked", "Label": "Number of Enterprises", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Non-State Actor (Agric)",
+    "Label": "Agriculture Private Player",
+    "RedirectUrl": "https://kapambwe.github.io/NonStateActorWebApp/",
+    "Fields": [
+      { "Name": "FarmerCount", "Label": "Estimated Farmers Managed", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Ministry of Agriculture",
+    "Label": "Agriculture Command Center",
+    "RedirectUrl": "https://kapambwe.github.io/MinistryAgricWebApp/",
+    "Fields": [
+      { "Name": "Region", "Label": "Agricultural Region", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Mining Company",
+    "Label": "Mine Management",
+    "RedirectUrl": "https://kapambwe.github.io/SmallMinersWebApp/",
+    "Fields": [
+      { "Name": "MineScale", "Label": "Mine Scale", "Type": "Text", "Placeholder": "e.g. Small, Medium, Large" }
+    ]
+  },
+  {
+    "Type": "Electricity Utility",
+    "Label": "Electricity Management",
+    "RedirectUrl": "https://kapambwe.github.io/ElectricityWebApp/",
+    "Fields": [
+      { "Name": "GridRegion", "Label": "Service Grid/Region", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Customs/Border",
+    "Label": "Border Management",
+    "RedirectUrl": "https://kapambwe.github.io/CustomBorderWebApp/",
+    "Fields": [
+      { "Name": "BorderPost", "Label": "Primary Border Post", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Surveying Firm",
+    "Label": "Surveying Management",
+    "RedirectUrl": "https://kapambwe.github.io/SurveryingWebApp/",
+    "Fields": [
+      { "Name": "Specialization", "Label": "Surveying Specialization", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Government Auditor",
+    "Label": "Government Auditing",
+    "RedirectUrl": "https://kapambwe.github.io/GovernmentAuditingWebApp/",
+    "Fields": [
+      { "Name": "AuditLevel", "Label": "Auditing Authority Level", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Bank",
+    "Label": "Banking Institution",
+    "RedirectUrl": "https://kapambwe.github.io/BankingFinanceWebApp/",
+    "IsFinance": true,
+    "Fields": [
+      { "Name": "LicenseNumber", "Label": "License Number", "Type": "Text" },
+      { "Name": "RegulatoryBody", "Label": "Regulatory Body", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Pension Fund",
+    "Label": "Pension Fund Management",
+    "RedirectUrl": "https://kapambwe.github.io/BankingFinanceWebApp/",
+    "IsFinance": true,
+    "Fields": [
+      { "Name": "AUM", "Label": "Assets Under Management", "Type": "Numeric" },
+      { "Name": "RegulatoryBody", "Label": "Regulatory Body", "Type": "Text" }
+    ]
+  },
+  {
+    "Type": "Mortgage Company",
+    "Label": "Mortgage Provider",
+    "RedirectUrl": "https://kapambwe.github.io/BankingFinanceWebApp/",
+    "IsFinance": true,
+    "Fields": [
+      { "Name": "LoanPortfolio", "Label": "Loan Portfolio Size", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Citizen Empowerment Fund",
+    "Label": "Citizen Empowerment Fund",
+    "RedirectUrl": "https://kapambwe.github.io/BankingFinanceWebApp/",
+    "IsFinance": true,
+    "Fields": [
+      { "Name": "FundSize", "Label": "Fund Size", "Type": "Numeric" },
+      { "Name": "Beneficiaries", "Label": "Estimated Beneficiaries", "Type": "Numeric" }
+    ]
+  },
+  {
+    "Type": "Venture Fund",
+    "Label": "Venture Capital Fund",
+    "RedirectUrl": "https://kapambwe.github.io/BankingFinanceWebApp/",
+    "IsFinance": true,
+    "Fields": [
+      { "Name": "PortfolioCompanies", "Label": "Portfolio Companies", "Type": "Numeric" }
+    ]
+  }
+]

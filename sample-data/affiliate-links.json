@@ -1,0 +1,8 @@
+[
+  { "Name": "Banking & Finance Solution", "Url": "/register/FINANCE", "Clicks": 1240, "Conversions": 12 },
+  { "Name": "Accrual Accounting Suite", "Url": "/register/ACCOUNTING", "Clicks": 850, "Conversions": 5 },
+  { "Name": "School Management System", "Url": "/register/SCHOOL", "Clicks": 420, "Conversions": 8 },
+  { "Name": "Law Practice Management", "Url": "/register/LEGAL", "Clicks": 2100, "Conversions": 45 },
+  { "Name": "Voters Management Hub", "Url": "/register/VOTER", "Clicks": 150, "Conversions": 2 },
+  { "Name": "Hospital Admin Portal", "Url": "/register/MEDICAL", "Clicks": 300, "Conversions": 10 }
+]

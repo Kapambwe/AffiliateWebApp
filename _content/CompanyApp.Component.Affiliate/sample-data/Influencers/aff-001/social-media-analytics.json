@@ -1,0 +1,61 @@
+{
+  "platformMetrics": [
+    {
+      "platform": "YouTube",
+      "followers": 150000,
+      "engagementRate": 4.5,
+      "impressions": 780000,
+      "clickThroughRate": 1.35,
+      "conversions": 1200
+    },
+    {
+      "platform": "Instagram",
+      "followers": 90000,
+      "engagementRate": 5.4,
+      "impressions": 465000,
+      "clickThroughRate": 1.62,
+      "conversions": 750
+    },
+    {
+      "platform": "Twitter",
+      "followers": 60000,
+      "engagementRate": 3.6,
+      "impressions": 345000,
+      "clickThroughRate": 0.9,
+      "conversions": 300
+    }
+  ],
+  "topPerformingPosts": [
+    {
+      "id": "post-001",
+      "platform": "YouTube",
+      "contentPreview": "Check out our latest feature that helps businesses automate their accounting...",
+      "engagement": 12500,
+      "clicks": 1875,
+      "conversions": 225,
+      "postDate": "2026-03-25T10:30:00Z"
+    },
+    {
+      "id": "post-002",
+      "platform": "Instagram",
+      "contentPreview": "Behind the scenes of how we're helping thousands of businesses streamline their finances...",
+      "engagement": 10800,
+      "clicks": 1620,
+      "conversions": 194,
+      "postDate": "2026-03-22T14:15:00Z"
+    },
+    {
+      "id": "post-003",
+      "platform": "Twitter",
+      "contentPreview": "Just helped a client save 10 hours per week on bookkeeping with our software! #accounting #automation",
+      "engagement": 5400,
+      "clicks": 810,
+      "conversions": 97,
+      "postDate": "2026-03-26T09:00:00Z"
+    }
+  ],
+  "dateRange": {
+    "startDate": "2026-02-25T00:00:00Z",
+    "endDate": "2026-03-25T23:59:59Z"
+  }
+}
