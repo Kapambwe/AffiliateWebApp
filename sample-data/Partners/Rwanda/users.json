@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-rw-001-rcp",
+    "username": "jeanbaptiste.nkurunziza.rw",
+    "email": "jeanbaptiste.nkurunziza@rwanda-cloud-partners.rw",
+    "firstName": "Jean-Baptiste",
+    "lastName": "Nkurunziza",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Rwanda",
+    "company": "Rwanda Cloud Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-rw-002-kac",
+    "username": "diane.ingabire.rw",
+    "email": "diane.ingabire@kigali-accounting.rw",
+    "firstName": "Diane",
+    "lastName": "Ingabire",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Rwanda",
+    "company": "Kigali Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-rw-003-dihr",
+    "username": "patrick.habimana.rw",
+    "email": "patrick.habimana@digital-innovation-rwanda.rw",
+    "firstName": "Patrick",
+    "lastName": "Habimana",
+    "role": "Digital Innovation Partner",
+    "department": "Engineering",
+    "country": "Rwanda",
+    "company": "Digital Innovation Hub Rwanda",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

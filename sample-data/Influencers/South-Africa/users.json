@@ -1,0 +1,62 @@
+[
+  {
+    "id": "za001-thabo-mokena-0001",
+    "username": "thabo.mokena.za",
+    "email": "thabo.mokena@sacreators.za",
+    "firstName": "Thabo",
+    "lastName": "Mokena",
+    "role": "Business & Finance Influencer",
+    "department": "Marketing",
+    "country": "South Africa",
+    "company": "SA Digital Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "za002-naledi-van-der-berg-0002",
+    "username": "naledi.vanderberg.za",
+    "email": "naledi.vanderberg@capetownmedia.za",
+    "firstName": "Naledi",
+    "lastName": "Van Der Berg",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "South Africa",
+    "company": "Cape Town Influencers",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "za003-sipho-nkosi-0003",
+    "username": "sipho.nkosi.za",
+    "email": "sipho.nkosi@joburg.za",
+    "firstName": "Sipho",
+    "lastName": "Nkosi",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "South Africa",
+    "company": "Johannesburg Tech Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "za004-lesedi-mokoena-0004",
+    "username": "lesedi.mokoena.za",
+    "email": "lesedi.mokoena@southafricamedia.za",
+    "firstName": "Lesedi",
+    "lastName": "Mokoena",
+    "role": "Fashion Influencer",
+    "department": "Marketing",
+    "country": "South Africa",
+    "company": "SA Fashion Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "za005-zanele-dlamini-0005",
+    "username": "zanele.dlamini.za",
+    "email": "zanele.dlamini@sabusiness.za",
+    "firstName": "Zanele",
+    "lastName": "Dlamini",
+    "role": "Entrepreneurship Influencer",
+    "department": "Marketing",
+    "country": "South Africa",
+    "company": "Durban Business Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-zw-001-ati",
+    "username": "takudzwa.nhamo.zw",
+    "email": "takudzwa.nhamo@african-tech-integrators.zw",
+    "firstName": "Takudzwa",
+    "lastName": "Nhamo",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Zimbabwe",
+    "company": "African Tech Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-zw-002-zac",
+    "username": "rutendo.chigumba.zw",
+    "email": "rutendo.chigumba@zimbabwe-accounting.zw",
+    "firstName": "Rutendo",
+    "lastName": "Chigumba",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Zimbabwe",
+    "company": "Zimbabwe Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-zw-003-dth",
+    "username": "farai.moyo.zw",
+    "email": "farai.moyo@digital-transformation-hub.zw",
+    "firstName": "Farai",
+    "lastName": "Moyo",
+    "role": "Digital Transformation Partner",
+    "department": "Engineering",
+    "country": "Zimbabwe",
+    "company": "Digital Transformation Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

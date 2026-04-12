@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-bw-001-bci",
+    "username": "keabetswe.sithole.bw",
+    "email": "keabetswe.sithole@botswana-cloud-integrators.bw",
+    "firstName": "Keabetswe",
+    "lastName": "Sithole",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Botswana",
+    "company": "Botswana Cloud Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-bw-002-gac",
+    "username": "boitumelo.moagi.bw",
+    "email": "boitumelo.moagi@gaborone-accounting.bw",
+    "firstName": "Boitumelo",
+    "lastName": "Moagi",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Botswana",
+    "company": "Gaborone Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-bw-003-dsb",
+    "username": "thatayaone.kgari.bw",
+    "email": "thatayaone.kgari@digital-solutions-bw.bw",
+    "firstName": "Thatayaone",
+    "lastName": "Kgari",
+    "role": "Digital Partner Lead",
+    "department": "Engineering",
+    "country": "Botswana",
+    "company": "Digital Solutions Botswana",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

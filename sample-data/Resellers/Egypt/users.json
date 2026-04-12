@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-eg-001-ebs",
+    "username": "tarek.elsayed.eg",
+    "email": "tarek.elsayed@egypt-business-systems.eg",
+    "firstName": "Tarek",
+    "lastName": "El-Sayed",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Egypt",
+    "company": "Egypt Business Systems",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-eg-002-cts",
+    "username": "dina.rashad.eg",
+    "email": "dina.rashad@cairo-tech-solutions.eg",
+    "firstName": "Dina",
+    "lastName": "Rashad",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Egypt",
+    "company": "Cairo Tech Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-eg-003-ndp",
+    "username": "sherif.barakat.eg",
+    "email": "sherif.barakat@nile-digital-partners.eg",
+    "firstName": "Sherif",
+    "lastName": "Barakat",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Egypt",
+    "company": "Nile Digital Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

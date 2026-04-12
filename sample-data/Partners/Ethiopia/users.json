@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-et-001-eci",
+    "username": "bekele.haile.et",
+    "email": "bekele.haile@ethiopia-cloud-integrators.et",
+    "firstName": "Bekele",
+    "lastName": "Haile",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Ethiopia",
+    "company": "Ethiopia Cloud Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-et-002-aac",
+    "username": "selam.tesfaye.et",
+    "email": "selam.tesfaye@addis-accounting.et",
+    "firstName": "Selam",
+    "lastName": "Tesfaye",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Ethiopia",
+    "company": "Addis Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-et-003-dse",
+    "username": "girma.desta.et",
+    "email": "girma.desta@digital-solutions-ethiopia.et",
+    "firstName": "Girma",
+    "lastName": "Desta",
+    "role": "Digital Partner Lead",
+    "department": "Engineering",
+    "country": "Ethiopia",
+    "company": "Digital Solutions Ethiopia",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

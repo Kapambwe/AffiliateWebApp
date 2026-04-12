@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-mw-001-mbs",
+    "username": "felix.chirwa.mw",
+    "email": "felix.chirwa@malawi-business-solutions.mw",
+    "firstName": "Felix",
+    "lastName": "Chirwa",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Malawi",
+    "company": "Malawi Business Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-mw-002-stp",
+    "username": "grace.kamanga.mw",
+    "email": "grace.kamanga@southern-tech-partners.mw",
+    "firstName": "Grace",
+    "lastName": "Kamanga",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Malawi",
+    "company": "Southern Tech Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-mw-003-nds",
+    "username": "samuel.mkandawire.mw",
+    "email": "samuel.mkandawire@northern-digital-systems.mw",
+    "firstName": "Samuel",
+    "lastName": "Mkandawire",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Malawi",
+    "company": "Northern Digital Systems",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

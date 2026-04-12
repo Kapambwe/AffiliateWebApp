@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-ng-001-ncp",
+    "username": "emeka.okonkwo.ng",
+    "email": "emeka.okonkwo@nigeria-cloud-partners.ng",
+    "firstName": "Emeka",
+    "lastName": "Okonkwo",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Nigeria",
+    "company": "Nigeria Cloud Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-ng-002-lac",
+    "username": "chioma.nwosu.ng",
+    "email": "chioma.nwosu@lagos-accounting.ng",
+    "firstName": "Chioma",
+    "lastName": "Nwosu",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Nigeria",
+    "company": "Lagos Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-ng-003-ihn",
+    "username": "seun.adesola.ng",
+    "email": "seun.adesola@innovation-hub-nigeria.ng",
+    "firstName": "Seun",
+    "lastName": "Adesola",
+    "role": "Innovation Partner Lead",
+    "department": "Engineering",
+    "country": "Nigeria",
+    "company": "Innovation Hub Nigeria",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

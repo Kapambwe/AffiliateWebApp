@@ -1,0 +1,62 @@
+[
+  {
+    "id": "eg001-ahmed-hassan-0001",
+    "username": "ahmed.hassan.eg",
+    "email": "ahmed.hassan@egyptcreators.eg",
+    "firstName": "Ahmed",
+    "lastName": "Hassan",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Egypt",
+    "company": "Cairo Digital Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "eg002-fatima-ibrahim-0002",
+    "username": "fatima.ibrahim.eg",
+    "email": "fatima.ibrahim@egyptmedia.eg",
+    "firstName": "Fatima",
+    "lastName": "Ibrahim",
+    "role": "Fashion & Beauty Influencer",
+    "department": "Marketing",
+    "country": "Egypt",
+    "company": "Egypt Style Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "eg003-mohamed-ali-0003",
+    "username": "mohamed.ali.eg",
+    "email": "mohamed.ali@egypttech.eg",
+    "firstName": "Mohamed",
+    "lastName": "Ali",
+    "role": "Business & Finance Influencer",
+    "department": "Marketing",
+    "country": "Egypt",
+    "company": "Alexandria Business Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "eg004-nadia-mahmoud-0004",
+    "username": "nadia.mahmoud.eg",
+    "email": "nadia.mahmoud@cairoinfluence.eg",
+    "firstName": "Nadia",
+    "lastName": "Mahmoud",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Egypt",
+    "company": "Cairo Creators Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "eg005-omar-khalil-0005",
+    "username": "omar.khalil.eg",
+    "email": "omar.khalil@egyptentertainment.eg",
+    "firstName": "Omar",
+    "lastName": "Khalil",
+    "role": "Entertainment Influencer",
+    "department": "Marketing",
+    "country": "Egypt",
+    "company": "Egypt Entertainment Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

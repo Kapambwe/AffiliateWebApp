@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bw001-kgosi-modise-0001",
+    "username": "kgosi.modise.bw",
+    "email": "kgosi.modise@botswanacreators.bw",
+    "firstName": "Kgosi",
+    "lastName": "Modise",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Botswana",
+    "company": "Gaborone Digital Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "bw002-mpho-kgosana-0002",
+    "username": "mpho.kgosana.bw",
+    "email": "mpho.kgosana@botswanastyle.bw",
+    "firstName": "Mpho",
+    "lastName": "Kgosana",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Botswana",
+    "company": "Botswana Lifestyle Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "bw003-kagiso-mokoena-0003",
+    "username": "kagiso.mokoena.bw",
+    "email": "kagiso.mokoena@botswanatech.bw",
+    "firstName": "Kagiso",
+    "lastName": "Mokoena",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Botswana",
+    "company": "Botswana Tech Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "bw004-tshepang-mothibi-0004",
+    "username": "tshepang.mothibi.bw",
+    "email": "tshepang.mothibi@botswanamusic.bw",
+    "firstName": "Tshepang",
+    "lastName": "Mothibi",
+    "role": "Music & Entertainment Influencer",
+    "department": "Marketing",
+    "country": "Botswana",
+    "company": "Botswana Entertainment Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "bw005-lesego-seretse-0005",
+    "username": "lesego.seretse.bw",
+    "email": "lesego.seretse@botswanafashion.bw",
+    "firstName": "Lesego",
+    "lastName": "Seretse",
+    "role": "Fashion Influencer",
+    "department": "Marketing",
+    "country": "Botswana",
+    "company": "Botswana Fashion Icons",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  }
+]

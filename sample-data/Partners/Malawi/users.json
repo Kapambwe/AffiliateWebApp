@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-mw-001-mci",
+    "username": "dalitso.phiri.mw",
+    "email": "dalitso.phiri@malawi-cloud-integrators.mw",
+    "firstName": "Dalitso",
+    "lastName": "Phiri",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Malawi",
+    "company": "Malawi Cloud Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-mw-002-bac",
+    "username": "tamara.banda.mw",
+    "email": "tamara.banda@blantyre-accounting.mw",
+    "firstName": "Tamara",
+    "lastName": "Banda",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Malawi",
+    "company": "Blantyre Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-mw-003-dsmw",
+    "username": "wisdom.tembo.mw",
+    "email": "wisdom.tembo@digital-solutions-mw.mw",
+    "firstName": "Wisdom",
+    "lastName": "Tembo",
+    "role": "Digital Partner Lead",
+    "department": "Engineering",
+    "country": "Malawi",
+    "company": "Digital Solutions Malawi",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

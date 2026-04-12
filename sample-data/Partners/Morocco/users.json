@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-ma-001-mci",
+    "username": "hamid.lahmidi.ma",
+    "email": "hamid.lahmidi@morocco-cloud-integrators.ma",
+    "firstName": "Hamid",
+    "lastName": "Lahmidi",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Morocco",
+    "company": "Morocco Cloud Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-ma-002-cac",
+    "username": "nour.bensouda.ma",
+    "email": "nour.bensouda@casablanca-accounting.ma",
+    "firstName": "Nour",
+    "lastName": "Bensouda",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Morocco",
+    "company": "Casablanca Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-ma-003-dsm",
+    "username": "tariq.filali.ma",
+    "email": "tariq.filali@digital-solutions-morocco.ma",
+    "firstName": "Tariq",
+    "lastName": "Filali",
+    "role": "Digital Partner Lead",
+    "department": "Engineering",
+    "country": "Morocco",
+    "company": "Digital Solutions Morocco",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "zw001-tendai-mpofu-0001",
+    "username": "tendai.mpofu.zw",
+    "email": "tendai.mpofu@zimbabwecreators.zw",
+    "firstName": "Tendai",
+    "lastName": "Mpofu",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Zimbabwe",
+    "company": "Harare Digital Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "zw002-rudo-ncube-0002",
+    "username": "rudo.ncube.zw",
+    "email": "rudo.ncube@zimbabwemedia.zw",
+    "firstName": "Rudo",
+    "lastName": "Ncube",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Zimbabwe",
+    "company": "Zimbabwe Lifestyle Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "zw003-chipo-moyo-0003",
+    "username": "chipo.moyo.zw",
+    "email": "chipo.moyo@zimbabwetech.zw",
+    "firstName": "Chipo",
+    "lastName": "Moyo",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Zimbabwe",
+    "company": "Zimbabwe Tech Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "zw004-mukudzei-sibanda-0004",
+    "username": "mukudzei.sibanda.zw",
+    "email": "mukudzei.sibanda@zimbabwebiz.zw",
+    "firstName": "Mukudzei",
+    "lastName": "Sibanda",
+    "role": "Entrepreneurship Influencer",
+    "department": "Marketing",
+    "country": "Zimbabwe",
+    "company": "Bulawayo Business Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "zw005-tatenda-chikwanha-0005",
+    "username": "tatenda.chikwanha.zw",
+    "email": "tatenda.chikwanha@zimbafashion.zw",
+    "firstName": "Tatenda",
+    "lastName": "Chikwanha",
+    "role": "Fashion & Beauty Influencer",
+    "department": "Marketing",
+    "country": "Zimbabwe",
+    "company": "Zimbabwe Fashion Icons",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  }
+]

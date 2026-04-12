@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gh001-kwame-mensah-0001",
+    "username": "kwame.mensah.gh",
+    "email": "kwame.mensah@ghanacreators.gh",
+    "firstName": "Kwame",
+    "lastName": "Mensah",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Ghana",
+    "company": "Accra Digital Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "gh002-ama-boateng-0002",
+    "username": "ama.boateng.gh",
+    "email": "ama.boateng@ghanamedia.gh",
+    "firstName": "Ama",
+    "lastName": "Boateng",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Ghana",
+    "company": "Ghana Lifestyle Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "gh003-kofi-asante-0003",
+    "username": "kofi.asante.gh",
+    "email": "kofi.asante@ghanatech.gh",
+    "firstName": "Kofi",
+    "lastName": "Asante",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Ghana",
+    "company": "Accra Tech Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "gh004-akosua-appiah-0004",
+    "username": "akosua.appiah.gh",
+    "email": "akosua.appiah@ghanafashion.gh",
+    "firstName": "Akosua",
+    "lastName": "Appiah",
+    "role": "Fashion Influencer",
+    "department": "Marketing",
+    "country": "Ghana",
+    "company": "Ghana Fashion Icons",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "gh005-yaw-owusu-0005",
+    "username": "yaw.owusu.gh",
+    "email": "yaw.owusu@ghanaentertainment.gh",
+    "firstName": "Yaw",
+    "lastName": "Owusu",
+    "role": "Entertainment Influencer",
+    "department": "Marketing",
+    "country": "Ghana",
+    "company": "Ghana Entertainment Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

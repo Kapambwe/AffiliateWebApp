@@ -1,0 +1,26 @@
+[
+  {
+    "id": "par-zm-001-zia",
+    "username": "mulenga.kapumba.zm",
+    "email": "mulenga.kapumba@zambia-ict-authority.zm",
+    "firstName": "Mulenga",
+    "lastName": "Kapumba",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Zambia",
+    "company": "Zambia ICT Authority",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-zm-002-szi",
+    "username": "natasha.zulu.zm",
+    "email": "natasha.zulu@smart-zambia.zm",
+    "firstName": "Natasha",
+    "lastName": "Zulu",
+    "role": "Digital Innovation Partner",
+    "department": "Engineering",
+    "country": "Zambia",
+    "company": "SmartZambia Initiative",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

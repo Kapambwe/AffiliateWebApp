@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ke001-wanjiku-kariuki-0001",
+    "username": "wanjiku.kariuki.ke",
+    "email": "wanjiku.kariuki@kenyacreators.ke",
+    "firstName": "Wanjiku",
+    "lastName": "Kariuki",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Kenya",
+    "company": "Kenya Digital Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "ke002-kamau-omondi-0002",
+    "username": "kamau.omondi.ke",
+    "email": "kamau.omondi@kenyatech.ke",
+    "firstName": "Kamau",
+    "lastName": "Omondi",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Kenya",
+    "company": "Nairobi Tech Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "ke003-akinyi-maina-0003",
+    "username": "akinyi.maina.ke",
+    "email": "akinyi.maina@kenyamedia.ke",
+    "firstName": "Akinyi",
+    "lastName": "Maina",
+    "role": "Social Media Influencer",
+    "department": "Marketing",
+    "country": "Kenya",
+    "company": "East Africa Media Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "ke004-mwangi-wambui-0004",
+    "username": "mwangi.wambui.ke",
+    "email": "mwangi.wambui@kenyabusiness.ke",
+    "firstName": "Mwangi",
+    "lastName": "Wambui",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Kenya",
+    "company": "Kenya Business Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "ke005-njeri-kipchoge-0005",
+    "username": "njeri.kipchoge.ke",
+    "email": "njeri.kipchoge@kenyasports.ke",
+    "firstName": "Njeri",
+    "lastName": "Kipchoge",
+    "role": "Sports & Fitness Influencer",
+    "department": "Marketing",
+    "country": "Kenya",
+    "company": "Kenya Sports Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

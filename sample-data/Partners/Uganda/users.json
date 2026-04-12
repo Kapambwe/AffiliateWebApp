@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-ug-001-ucp",
+    "username": "moses.ssekandi.ug",
+    "email": "moses.ssekandi@uganda-cloud-partners.ug",
+    "firstName": "Moses",
+    "lastName": "Ssekandi",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Uganda",
+    "company": "Uganda Cloud Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-ug-002-kac",
+    "username": "betty.namutebi.ug",
+    "email": "betty.namutebi@kampala-accounting.ug",
+    "firstName": "Betty",
+    "lastName": "Namutebi",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Uganda",
+    "company": "Kampala Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-ug-003-eaih",
+    "username": "richard.kizza.ug",
+    "email": "richard.kizza@east-africa-integration-hub.ug",
+    "firstName": "Richard",
+    "lastName": "Kizza",
+    "role": "Integration Partner Lead",
+    "department": "Engineering",
+    "country": "Uganda",
+    "company": "East Africa Integration Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

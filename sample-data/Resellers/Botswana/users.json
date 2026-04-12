@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-bw-001-bbs",
+    "username": "otsile.gaefele.bw",
+    "email": "otsile.gaefele@botswana-business-solutions.bw",
+    "firstName": "Otsile",
+    "lastName": "Gaefele",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Botswana",
+    "company": "Botswana Business Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-bw-002-gts",
+    "username": "phenyo.matlapeng.bw",
+    "email": "phenyo.matlapeng@gaborone-tech-systems.bw",
+    "firstName": "Phenyo",
+    "lastName": "Matlapeng",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Botswana",
+    "company": "Gaborone Tech Systems",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-bw-003-kdp",
+    "username": "kabo.molefe.bw",
+    "email": "kabo.molefe@kalahari-digital-partners.bw",
+    "firstName": "Kabo",
+    "lastName": "Molefe",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Botswana",
+    "company": "Kalahari Digital Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

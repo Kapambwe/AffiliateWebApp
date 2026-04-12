@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ug001-okello-mukasa-0001",
+    "username": "okello.mukasa.ug",
+    "email": "okello.mukasa@ugandacreators.ug",
+    "firstName": "Okello",
+    "lastName": "Mukasa",
+    "role": "Social Media Influencer",
+    "department": "Marketing",
+    "country": "Uganda",
+    "company": "Kampala Digital Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "ug002-nakato-ssemakula-0002",
+    "username": "nakato.ssemakula.ug",
+    "email": "nakato.ssemakula@kampalalive.ug",
+    "firstName": "Nakato",
+    "lastName": "Ssemakula",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Uganda",
+    "company": "Uganda Lifestyle Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "ug003-wasswa-kato-0003",
+    "username": "wasswa.kato.ug",
+    "email": "wasswa.kato@ugandatech.ug",
+    "firstName": "Wasswa",
+    "lastName": "Kato",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Uganda",
+    "company": "Uganda Tech Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "ug004-nambi-lubega-0004",
+    "username": "nambi.lubega.ug",
+    "email": "nambi.lubega@ugandafashion.ug",
+    "firstName": "Nambi",
+    "lastName": "Lubega",
+    "role": "Fashion Influencer",
+    "department": "Marketing",
+    "country": "Uganda",
+    "company": "Uganda Fashion Icons",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "ug005-kizito-mubiru-0005",
+    "username": "kizito.mubiru.ug",
+    "email": "kizito.mubiru@ugandamusic.ug",
+    "firstName": "Kizito",
+    "lastName": "Mubiru",
+    "role": "Music Influencer",
+    "department": "Marketing",
+    "country": "Uganda",
+    "company": "Uganda Entertainment Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

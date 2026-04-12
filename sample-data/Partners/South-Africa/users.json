@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-za-001-aci",
+    "username": "thandi.mthembu.za",
+    "email": "thandi.mthembu@africa-cloud-integrators.za",
+    "firstName": "Thandi",
+    "lastName": "Mthembu",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "South Africa",
+    "company": "Africa Cloud Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-za-002-sac",
+    "username": "pieter.vanwyk.za",
+    "email": "pieter.vanwyk@southern-accounting.za",
+    "firstName": "Pieter",
+    "lastName": "Van Wyk",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "South Africa",
+    "company": "Southern Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-za-003-esg",
+    "username": "ayanda.dlamini.za",
+    "email": "ayanda.dlamini@enterprise-solutions-group.za",
+    "firstName": "Ayanda",
+    "lastName": "Dlamini",
+    "role": "Enterprise Partner Lead",
+    "department": "Engineering",
+    "country": "South Africa",
+    "company": "Enterprise Solutions Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

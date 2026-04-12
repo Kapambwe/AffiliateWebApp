@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mw001-chimwemwe-phiri-0001",
+    "username": "chimwemwe.phiri.mw",
+    "email": "chimwemwe.phiri@malawicreators.mw",
+    "firstName": "Chimwemwe",
+    "lastName": "Phiri",
+    "role": "Social Media Influencer",
+    "department": "Marketing",
+    "country": "Malawi",
+    "company": "Lilongwe Digital Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "mw002-thoko-banda-0002",
+    "username": "thoko.banda.mw",
+    "email": "thoko.banda@malawimedia.mw",
+    "firstName": "Thoko",
+    "lastName": "Banda",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Malawi",
+    "company": "Malawi Lifestyle Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "mw003-kondwani-tembo-0003",
+    "username": "kondwani.tembo.mw",
+    "email": "kondwani.tembo@malawitech.mw",
+    "firstName": "Kondwani",
+    "lastName": "Tembo",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Malawi",
+    "company": "Malawi Tech Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "mw004-mphatso-mbewe-0004",
+    "username": "mphatso.mbewe.mw",
+    "email": "mphatso.mbewe@malawibusiness.mw",
+    "firstName": "Mphatso",
+    "lastName": "Mbewe",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Malawi",
+    "company": "Malawi Business Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "mw005-yankho-nyirenda-0005",
+    "username": "yankho.nyirenda.mw",
+    "email": "yankho.nyirenda@malawimusic.mw",
+    "firstName": "Yankho",
+    "lastName": "Nyirenda",
+    "role": "Music Influencer",
+    "department": "Marketing",
+    "country": "Malawi",
+    "company": "Malawi Music Promoters",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

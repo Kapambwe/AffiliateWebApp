@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-gh-001-gci",
+    "username": "kweku.acheampong.gh",
+    "email": "kweku.acheampong@ghana-cloud-integrators.gh",
+    "firstName": "Kweku",
+    "lastName": "Acheampong",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Ghana",
+    "company": "Ghana Cloud Integrators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-gh-002-aac",
+    "username": "efua.mensah.gh",
+    "email": "efua.mensah@accra-accounting.gh",
+    "firstName": "Efua",
+    "lastName": "Mensah",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Ghana",
+    "company": "Accra Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-gh-003-dsg",
+    "username": "nana.boateng.gh",
+    "email": "nana.boateng@digital-solutions-ghana.gh",
+    "firstName": "Nana",
+    "lastName": "Boateng",
+    "role": "Digital Partner Lead",
+    "department": "Engineering",
+    "country": "Ghana",
+    "company": "Digital Solutions Ghana",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

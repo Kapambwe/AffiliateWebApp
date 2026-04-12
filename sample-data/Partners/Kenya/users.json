@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-ke-001-eacp",
+    "username": "david.ochieng.ke",
+    "email": "david.ochieng@east-african-cloud.ke",
+    "firstName": "David",
+    "lastName": "Ochieng",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Kenya",
+    "company": "East African Cloud Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-ke-002-kac",
+    "username": "grace.waweru.ke",
+    "email": "grace.waweru@kenya-accounting.ke",
+    "firstName": "Grace",
+    "lastName": "Waweru",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Kenya",
+    "company": "Kenya Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-ke-003-ihk",
+    "username": "brian.otieno.ke",
+    "email": "brian.otieno@innovation-hub-kenya.ke",
+    "firstName": "Brian",
+    "lastName": "Otieno",
+    "role": "Innovation Partner Lead",
+    "department": "Engineering",
+    "country": "Kenya",
+    "company": "Innovation Hub Kenya",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

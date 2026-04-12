@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rw001-uwase-mugabo-0001",
+    "username": "uwase.mugabo.rw",
+    "email": "uwase.mugabo@rwandacreators.rw",
+    "firstName": "Uwase",
+    "lastName": "Mugabo",
+    "role": "Social Media Influencer",
+    "department": "Marketing",
+    "country": "Rwanda",
+    "company": "Kigali Digital Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "rw002-nsengimana-habimana-0002",
+    "username": "nsengimana.habimana.rw",
+    "email": "nsengimana.habimana@rwandatech.rw",
+    "firstName": "Nsengimana",
+    "lastName": "Habimana",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Rwanda",
+    "company": "Rwanda Innovation Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "rw003-mukamana-nkurunziza-0003",
+    "username": "mukamana.nkurunziza.rw",
+    "email": "mukamana.nkurunziza@kigalimedia.rw",
+    "firstName": "Mukamana",
+    "lastName": "Nkurunziza",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Rwanda",
+    "company": "Kigali Media House",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "rw004-habiyambere-bizimana-0004",
+    "username": "habiyambere.bizimana.rw",
+    "email": "habiyambere.bizimana@rwandabusiness.rw",
+    "firstName": "Habiyambere",
+    "lastName": "Bizimana",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Rwanda",
+    "company": "Rwanda Business Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "rw005-umuhoza-uwineza-0005",
+    "username": "umuhoza.uwineza.rw",
+    "email": "umuhoza.uwineza@rwandainfluence.rw",
+    "firstName": "Umuhoza",
+    "lastName": "Uwineza",
+    "role": "Fashion Influencer",
+    "department": "Marketing",
+    "country": "Rwanda",
+    "company": "Rwanda Style Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

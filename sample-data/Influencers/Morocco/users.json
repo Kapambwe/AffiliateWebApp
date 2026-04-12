@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ma001-youssef-benali-0001",
+    "username": "youssef.benali.ma",
+    "email": "youssef.benali@moroccocreators.ma",
+    "firstName": "Youssef",
+    "lastName": "Benali",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Morocco",
+    "company": "Casablanca Digital Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "ma002-amina-el-fassi-0002",
+    "username": "amina.elfassi.ma",
+    "email": "amina.elfassi@marrakechmedia.ma",
+    "firstName": "Amina",
+    "lastName": "El Fassi",
+    "role": "Fashion & Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Morocco",
+    "company": "Marrakech Style Icons",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "ma003-karim-alaoui-0003",
+    "username": "karim.alaoui.ma",
+    "email": "karim.alaoui@moroccotechma",
+    "firstName": "Karim",
+    "lastName": "Alaoui",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Morocco",
+    "company": "Rabat Tech Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "ma004-leila-zahiri-0004",
+    "username": "leila.zahiri.ma",
+    "email": "leila.zahiri@moroccomedia.ma",
+    "firstName": "Leila",
+    "lastName": "Zahiri",
+    "role": "Social Media Influencer",
+    "department": "Marketing",
+    "country": "Morocco",
+    "company": "Morocco Influence Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "ma005-rachid-amrani-0005",
+    "username": "rachid.amrani.ma",
+    "email": "rachid.amrani@casacreators.ma",
+    "firstName": "Rachid",
+    "lastName": "Amrani",
+    "role": "Entertainment Influencer",
+    "department": "Marketing",
+    "country": "Morocco",
+    "company": "Casa Entertainment Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

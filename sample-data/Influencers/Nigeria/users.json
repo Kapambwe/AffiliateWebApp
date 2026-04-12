@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ng001-chukwudi-okafor-0001",
+    "username": "chukwudi.okafor.ng",
+    "email": "chukwudi.okafor@nigeriacreators.ng",
+    "firstName": "Chukwudi",
+    "lastName": "Okafor",
+    "role": "Entertainment Influencer",
+    "department": "Marketing",
+    "country": "Nigeria",
+    "company": "Lagos Digital Stars",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "ng002-ngozi-adeleke-0002",
+    "username": "ngozi.adeleke.ng",
+    "email": "ngozi.adeleke@naijainfluence.ng",
+    "firstName": "Ngozi",
+    "lastName": "Adeleke",
+    "role": "Fashion & Beauty Influencer",
+    "department": "Marketing",
+    "country": "Nigeria",
+    "company": "Naija Style Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "ng003-adebayo-williams-0003",
+    "username": "adebayo.williams.ng",
+    "email": "adebayo.williams@abujamedia.ng",
+    "firstName": "Adebayo",
+    "lastName": "Williams",
+    "role": "Tech & Business Influencer",
+    "department": "Marketing",
+    "country": "Nigeria",
+    "company": "Abuja Tech Media",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "ng004-funmi-balogun-0004",
+    "username": "funmi.balogun.ng",
+    "email": "funmi.balogun@nigeriamedia.ng",
+    "firstName": "Funmi",
+    "lastName": "Balogun",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Nigeria",
+    "company": "Nigeria Lifestyle Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "ng005-tunde-adeyemi-0005",
+    "username": "tunde.adeyemi.ng",
+    "email": "tunde.adeyemi@lagostech.ng",
+    "firstName": "Tunde",
+    "lastName": "Adeyemi",
+    "role": "Music Influencer",
+    "department": "Marketing",
+    "country": "Nigeria",
+    "company": "Lagos Entertainment Group",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics","View.Releases"]
+  }
+]

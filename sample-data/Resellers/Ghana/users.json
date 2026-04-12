@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-gh-001-gbs",
+    "username": "kojo.darko.gh",
+    "email": "kojo.darko@ghana-business-solutions.gh",
+    "firstName": "Kojo",
+    "lastName": "Darko",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Ghana",
+    "company": "Ghana Business Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-gh-002-ats",
+    "username": "abena.ofori.gh",
+    "email": "abena.ofori@accra-tech-systems.gh",
+    "firstName": "Abena",
+    "lastName": "Ofori",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Ghana",
+    "company": "Accra Tech Systems",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-gh-003-gcdp",
+    "username": "kwabena.asare.gh",
+    "email": "kwabena.asare@gold-coast-digital.gh",
+    "firstName": "Kwabena",
+    "lastName": "Asare",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Ghana",
+    "company": "Gold Coast Digital Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

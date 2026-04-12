@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-et-001-ebs",
+    "username": "mulugeta.wolde.et",
+    "email": "mulugeta.wolde@ethiopia-business-solutions.et",
+    "firstName": "Mulugeta",
+    "lastName": "Wolde",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Ethiopia",
+    "company": "Ethiopia Business Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-et-002-ats",
+    "username": "hiwot.alemu.et",
+    "email": "hiwot.alemu@addis-tech-systems.et",
+    "firstName": "Hiwot",
+    "lastName": "Alemu",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Ethiopia",
+    "company": "Addis Tech Systems",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-et-003-hdp",
+    "username": "tesfaye.mekonnen.et",
+    "email": "tesfaye.mekonnen@horn-digital-partners.et",
+    "firstName": "Tesfaye",
+    "lastName": "Mekonnen",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Ethiopia",
+    "company": "Horn Digital Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

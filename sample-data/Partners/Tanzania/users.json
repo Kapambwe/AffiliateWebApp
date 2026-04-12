@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-tz-001-eacs",
+    "username": "hassan.mwamba.tz",
+    "email": "hassan.mwamba@east-africa-cloud-solutions.tz",
+    "firstName": "Hassan",
+    "lastName": "Mwamba",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Tanzania",
+    "company": "East Africa Cloud Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-tz-002-tap",
+    "username": "zuhura.mgaya.tz",
+    "email": "zuhura.mgaya@tanzania-accounting-partners.tz",
+    "firstName": "Zuhura",
+    "lastName": "Mgaya",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Tanzania",
+    "company": "Tanzania Accounting Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-tz-003-dihtz",
+    "username": "goodluck.msigwa.tz",
+    "email": "goodluck.msigwa@digital-innovation-tz.tz",
+    "firstName": "Goodluck",
+    "lastName": "Msigwa",
+    "role": "Digital Innovation Partner",
+    "department": "Engineering",
+    "country": "Tanzania",
+    "company": "Digital Innovation Hub Tanzania",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "et001-abebe-tadesse-0001",
+    "username": "abebe.tadesse.et",
+    "email": "abebe.tadesse@ethiopiacreators.et",
+    "firstName": "Abebe",
+    "lastName": "Tadesse",
+    "role": "Sports Influencer",
+    "department": "Marketing",
+    "country": "Ethiopia",
+    "company": "Addis Ababa Digital Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "et002-mekdes-alemayehu-0002",
+    "username": "mekdes.alemayehu.et",
+    "email": "mekdes.alemayehu@ethiopiamedia.et",
+    "firstName": "Mekdes",
+    "lastName": "Alemayehu",
+    "role": "Fashion & Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Ethiopia",
+    "company": "Ethiopia Style Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "et003-yohannes-bekele-0003",
+    "username": "yohannes.bekele.et",
+    "email": "yohannes.bekele@ethiopiatech.et",
+    "firstName": "Yohannes",
+    "lastName": "Bekele",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Ethiopia",
+    "company": "Ethiopia Innovation Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "et004-tigist-haile-0004",
+    "username": "tigist.haile.et",
+    "email": "tigist.haile@ethiopiaentertain.et",
+    "firstName": "Tigist",
+    "lastName": "Haile",
+    "role": "Music Influencer",
+    "department": "Marketing",
+    "country": "Ethiopia",
+    "company": "Ethiopia Music & Arts",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "et005-dawit-gebre-0005",
+    "username": "dawit.gebre.et",
+    "email": "dawit.gebre@ethiopiabusiness.et",
+    "firstName": "Dawit",
+    "lastName": "Gebre",
+    "role": "Business Influencer",
+    "department": "Marketing",
+    "country": "Ethiopia",
+    "company": "Addis Business Creators",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics"]
+  }
+]

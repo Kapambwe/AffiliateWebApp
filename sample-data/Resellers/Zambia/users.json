@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-zm-001-tcz",
+    "username": "henry.mutale.zm",
+    "email": "henry.mutale@techconnect-zambia.zm",
+    "firstName": "Henry",
+    "lastName": "Mutale",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Zambia",
+    "company": "TechConnect Zambia",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-zm-002-lts",
+    "username": "mwansa.chipimo.zm",
+    "email": "mwansa.chipimo@lusaka-tech-solutions.zm",
+    "firstName": "Mwansa",
+    "lastName": "Chipimo",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Zambia",
+    "company": "LusakaTech Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-zm-003-cbd",
+    "username": "emmanuel.banda.zm",
+    "email": "emmanuel.banda@copperbelt-digital.zm",
+    "firstName": "Emmanuel",
+    "lastName": "Banda",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Zambia",
+    "company": "CopperBelt Digital",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

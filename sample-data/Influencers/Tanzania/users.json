@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tz001-juma-mwangi-0001",
+    "username": "juma.mwangi.tz",
+    "email": "juma.mwangi@tanzaniacreators.tz",
+    "firstName": "Juma",
+    "lastName": "Mwangi",
+    "role": "Social Media Influencer",
+    "department": "Marketing",
+    "country": "Tanzania",
+    "company": "Dar es Salaam Digital",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerFeedback","View.CustomerSatisfaction","View.UsageAnalytics"]
+  },
+  {
+    "id": "tz002-amina-hassan-0002",
+    "username": "amina.hassan.tz",
+    "email": "amina.hassan@tanzaniamedia.tz",
+    "firstName": "Amina",
+    "lastName": "Hassan",
+    "role": "Lifestyle Influencer",
+    "department": "Marketing",
+    "country": "Tanzania",
+    "company": "Tanzania Lifestyle Network",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics"]
+  },
+  {
+    "id": "tz003-hassan-ndege-0003",
+    "username": "hassan.ndege.tz",
+    "email": "hassan.ndege@tanzaniatech.tz",
+    "firstName": "Hassan",
+    "lastName": "Ndege",
+    "role": "Tech Influencer",
+    "department": "Marketing",
+    "country": "Tanzania",
+    "company": "Tanzania Innovation Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.TechnicalDebt","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "tz004-neema-mpemba-0004",
+    "username": "neema.mpemba.tz",
+    "email": "neema.mpemba@eastafricamedia.tz",
+    "firstName": "Neema",
+    "lastName": "Mpemba",
+    "role": "Fashion & Beauty Influencer",
+    "department": "Marketing",
+    "country": "Tanzania",
+    "company": "East Africa Beauty Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.CustomerSatisfaction","View.CustomerFeedback","View.UsageAnalytics","View.Releases"]
+  },
+  {
+    "id": "tz005-baraka-lutalo-0005",
+    "username": "baraka.lutalo.tz",
+    "email": "baraka.lutalo@tanzaniamusic.tz",
+    "firstName": "Baraka",
+    "lastName": "Lutalo",
+    "role": "Music Influencer",
+    "department": "Marketing",
+    "country": "Tanzania",
+    "company": "Tanzania Music Promoters",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.UsageAnalytics","View.Releases"]
+  }
+]

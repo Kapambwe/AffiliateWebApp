@@ -1,0 +1,38 @@
+[
+  {
+    "id": "res-rw-001-rbs",
+    "username": "eric.mugisha.rw",
+    "email": "eric.mugisha@rwanda-business-solutions.rw",
+    "firstName": "Eric",
+    "lastName": "Mugisha",
+    "role": "Reseller Account Manager",
+    "department": "Sales",
+    "country": "Rwanda",
+    "company": "Rwanda Business Solutions",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerFeedback","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Releases","Manage.CustomerHealth"]
+  },
+  {
+    "id": "res-rw-002-kts",
+    "username": "alice.uwimana.rw",
+    "email": "alice.uwimana@kigali-tech-systems.rw",
+    "firstName": "Alice",
+    "lastName": "Uwimana",
+    "role": "Senior Reseller Manager",
+    "department": "Sales",
+    "country": "Rwanda",
+    "company": "Kigali Tech Systems",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.SupportTickets","Manage.SupportTickets","View.Releases","View.UsageAnalytics"]
+  },
+  {
+    "id": "res-rw-003-lathd",
+    "username": "claude.nshimiyimana.rw",
+    "email": "claude.nshimiyimana@thousand-hills-digital.rw",
+    "firstName": "Claude",
+    "lastName": "Nshimiyimana",
+    "role": "Reseller Sales Executive",
+    "department": "Sales",
+    "country": "Rwanda",
+    "company": "Land Of A Thousand Hills Digital",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","View.Releases"]
+  }
+]

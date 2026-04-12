@@ -1,0 +1,38 @@
+[
+  {
+    "id": "par-eg-001-ecp",
+    "username": "khaled.mansour.eg",
+    "email": "khaled.mansour@egypt-cloud-partners.eg",
+    "firstName": "Khaled",
+    "lastName": "Mansour",
+    "role": "Partnership Director",
+    "department": "Partnerships",
+    "country": "Egypt",
+    "company": "Egypt Cloud Partners",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports","Export.Reports"]
+  },
+  {
+    "id": "par-eg-002-cac",
+    "username": "sara.abdelaziz.eg",
+    "email": "sara.abdelaziz@cairo-accounting.eg",
+    "firstName": "Sara",
+    "lastName": "Abdel-Aziz",
+    "role": "Account Partner Manager",
+    "department": "Partnerships",
+    "country": "Egypt",
+    "company": "Cairo Accounting Consultants",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.CustomerHealth","View.CustomerSatisfaction","View.CustomerFeedback","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  },
+  {
+    "id": "par-eg-003-naih",
+    "username": "amr.naguib.eg",
+    "email": "amr.naguib@north-africa-integration.eg",
+    "firstName": "Amr",
+    "lastName": "Naguib",
+    "role": "Regional Integration Partner",
+    "department": "Engineering",
+    "country": "Egypt",
+    "company": "North Africa Integration Hub",
+    "permissions": ["View.Dashboard","View.Analytics","View.ProductPerformance","View.UptimeMetrics","View.Incidents","View.Releases","View.TechnicalDebt","View.CustomerHealth","View.SupportTickets","Manage.SupportTickets","View.UsageAnalytics","View.Reports"]
+  }
+]
