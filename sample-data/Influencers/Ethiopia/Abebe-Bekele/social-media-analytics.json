@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 490213,
+      "EngagementRate": 3.1,
+      "Impressions": 2549108,
+      "ClickThroughRate": 0.93,
+      "Conversions": 3922
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 294128,
+      "EngagementRate": 3.72,
+      "Impressions": 1519660,
+      "ClickThroughRate": 1.24,
+      "Conversions": 2941
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 196085,
+      "EngagementRate": 2.48,
+      "Impressions": 1127490,
+      "ClickThroughRate": 0.78,
+      "Conversions": 1961
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Ethiopia-0-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Abebe Bekele helps businesses automate accounting...",
+      "Engagement": 39217,
+      "Clicks": 5883,
+      "Conversions": 735,
+      "PostDate": "2026-08-25T14:16:51.6356189Z"
+    },
+    {
+      "Id": "post-inf-Ethiopia-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 58826,
+      "Clicks": 8824,
+      "Conversions": 980,
+      "PostDate": "2026-08-22T14:16:51.6358474Z"
+    },
+    {
+      "Id": "post-inf-Ethiopia-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 24511,
+      "Clicks": 3922,
+      "Conversions": 490,
+      "PostDate": "2026-08-26T14:16:51.6361179Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.6366954Z",
+    "EndDate": "2026-08-27T14:16:51.6368671Z"
+  }
+}

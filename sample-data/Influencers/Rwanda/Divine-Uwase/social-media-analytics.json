@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 392332,
+      "EngagementRate": 4.6,
+      "Impressions": 2040126,
+      "ClickThroughRate": 1.38,
+      "Conversions": 3139
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 235399,
+      "EngagementRate": 5.52,
+      "Impressions": 1216229,
+      "ClickThroughRate": 1.84,
+      "Conversions": 2354
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 156933,
+      "EngagementRate": 3.68,
+      "Impressions": 902364,
+      "ClickThroughRate": 1.15,
+      "Conversions": 1569
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Rwanda-3-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Divine Uwase helps businesses automate accounting...",
+      "Engagement": 31387,
+      "Clicks": 4708,
+      "Conversions": 588,
+      "PostDate": "2026-08-25T14:16:52.0116962Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 47080,
+      "Clicks": 7062,
+      "Conversions": 785,
+      "PostDate": "2026-08-22T14:16:52.0120860Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 19617,
+      "Clicks": 3139,
+      "Conversions": 392,
+      "PostDate": "2026-08-26T14:16:52.0123987Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.0130742Z",
+    "EndDate": "2026-08-27T14:16:52.0132454Z"
+  }
+}

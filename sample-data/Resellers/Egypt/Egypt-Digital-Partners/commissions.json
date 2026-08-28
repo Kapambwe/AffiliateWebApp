@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Egypt-1",
+  "resellerName": "Egypt Digital Partners",
+  "country": "Egypt",
+  "currency": "EGP",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1584055.0,
+  "totalCommissionEarned": 396013.75,
+  "paidCommission": 372252.92,
+  "pendingCommission": 23760.83,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 124084.31,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 506897.60,
+      "commission": 126724.40,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 538578.70,
+      "commission": 134644.68,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 538578.70,
+      "commission": 134644.68,
+      "status": "Pending"
+    }
+  ]
+}

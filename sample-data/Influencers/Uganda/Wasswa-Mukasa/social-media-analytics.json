@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 45076,
+      "EngagementRate": 4.8,
+      "Impressions": 234395,
+      "ClickThroughRate": 1.44,
+      "Conversions": 361
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 27046,
+      "EngagementRate": 5.76,
+      "Impressions": 139736,
+      "ClickThroughRate": 1.92,
+      "Conversions": 270
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 18030,
+      "EngagementRate": 3.84,
+      "Impressions": 103675,
+      "ClickThroughRate": 1.2,
+      "Conversions": 180
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Uganda-3-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Wasswa Mukasa helps businesses automate accounting...",
+      "Engagement": 3606,
+      "Clicks": 541,
+      "Conversions": 68,
+      "PostDate": "2026-08-25T14:16:52.2190219Z"
+    },
+    {
+      "Id": "post-inf-Uganda-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 5409,
+      "Clicks": 811,
+      "Conversions": 90,
+      "PostDate": "2026-08-22T14:16:52.2191412Z"
+    },
+    {
+      "Id": "post-inf-Uganda-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 2254,
+      "Clicks": 361,
+      "Conversions": 45,
+      "PostDate": "2026-08-26T14:16:52.2192181Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.2193862Z",
+    "EndDate": "2026-08-27T14:16:52.2194192Z"
+  }
+}

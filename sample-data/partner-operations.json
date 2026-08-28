@@ -1,0 +1,75 @@
+{
+  "initiatives": [
+    {
+      "id": "si-001",
+      "partnerId": "partner-001",
+      "title": "Regional Expansion — East Africa",
+      "description": "Grow certified partner coverage across Kenya, Uganda, and Tanzania.",
+      "status": "Active",
+      "budget": 120000,
+      "startDate": "2026-01-15T00:00:00Z",
+      "targetDate": "2026-12-31T00:00:00Z",
+      "progressPercent": 48
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "jc-001",
+      "partnerId": "partner-001",
+      "name": "Q3 Co-Marketing Webinar",
+      "channel": "Webinar",
+      "status": "Active",
+      "budget": 8500,
+      "leadsGenerated": 214,
+      "startDate": "2026-07-01T00:00:00Z",
+      "endDate": "2026-09-30T00:00:00Z"
+    },
+    {
+      "id": "jc-002",
+      "partnerId": "partner-001",
+      "name": "Accounting Suite Launch Bundle",
+      "channel": "Email + Social",
+      "status": "Planned",
+      "budget": 12000,
+      "leadsGenerated": 0,
+      "startDate": "2026-09-01T00:00:00Z",
+      "endDate": "2026-10-31T00:00:00Z"
+    }
+  ],
+  "healthReports": [
+    {
+      "partnerId": "partner-001",
+      "overallScore": 86,
+      "status": "Healthy",
+      "revenueGrowthPercent": 14.5,
+      "activeCampaigns": 2,
+      "openOpportunities": 5,
+      "summary": "Partner pipeline healthy with strong webinar conversion.",
+      "generatedAt": "2026-08-27T00:00:00Z"
+    }
+  ],
+  "coSellOpportunities": [
+    {
+      "id": "cs-001",
+      "partnerId": "partner-001",
+      "accountName": "City Hospital Group",
+      "product": "Hospital Admin Portal",
+      "stage": "Proposal",
+      "estimatedValue": 48000,
+      "probability": 60,
+      "expectedCloseDate": "2026-10-15T00:00:00Z",
+      "owner": "Maria Lee"
+    },
+    {
+      "id": "cs-002",
+      "partnerId": "partner-001",
+      "accountName": "Premier Law Firm",
+      "product": "Lawyer Practice Pro",
+      "stage": "Negotiation",
+      "estimatedValue": 18000,
+      "probability": 75,
+      "expectedCloseDate": "2026-09-20T00:00:00Z",
+      "owner": "Sam Khumalo"
+    }
+  ]
+}

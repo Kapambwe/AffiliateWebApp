@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 65880,
+      "EngagementRate": 4.4,
+      "Impressions": 342576,
+      "ClickThroughRate": 1.32,
+      "Conversions": 527
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 39528,
+      "EngagementRate": 5.28,
+      "Impressions": 204228,
+      "ClickThroughRate": 1.76,
+      "Conversions": 395
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 26352,
+      "EngagementRate": 3.52,
+      "Impressions": 151524,
+      "ClickThroughRate": 1.1,
+      "Conversions": 264
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Malawi-1-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Thoko Phiri helps businesses automate accounting...",
+      "Engagement": 5270,
+      "Clicks": 791,
+      "Conversions": 99,
+      "PostDate": "2026-08-25T14:16:51.8744056Z"
+    },
+    {
+      "Id": "post-inf-Malawi-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 7906,
+      "Clicks": 1186,
+      "Conversions": 132,
+      "PostDate": "2026-08-22T14:16:51.8747441Z"
+    },
+    {
+      "Id": "post-inf-Malawi-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 3294,
+      "Clicks": 527,
+      "Conversions": 66,
+      "PostDate": "2026-08-26T14:16:51.8750042Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8756055Z",
+    "EndDate": "2026-08-27T14:16:51.8757663Z"
+  }
+}

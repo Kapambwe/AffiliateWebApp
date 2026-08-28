@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 123912,
+      "EngagementRate": 7.8,
+      "Impressions": 644342,
+      "ClickThroughRate": 2.34,
+      "Conversions": 991
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 74347,
+      "EngagementRate": 9.36,
+      "Impressions": 384127,
+      "ClickThroughRate": 3.12,
+      "Conversions": 743
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 49565,
+      "EngagementRate": 6.24,
+      "Impressions": 284998,
+      "ClickThroughRate": 1.95,
+      "Conversions": 496
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Egypt-3-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Nour Khalil helps businesses automate accounting...",
+      "Engagement": 9913,
+      "Clicks": 1487,
+      "Conversions": 186,
+      "PostDate": "2026-08-25T14:16:51.6143858Z"
+    },
+    {
+      "Id": "post-inf-Egypt-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 14869,
+      "Clicks": 2230,
+      "Conversions": 248,
+      "PostDate": "2026-08-22T14:16:51.6145834Z"
+    },
+    {
+      "Id": "post-inf-Egypt-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 6196,
+      "Clicks": 991,
+      "Conversions": 124,
+      "PostDate": "2026-08-26T14:16:51.6146917Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.6148969Z",
+    "EndDate": "2026-08-27T14:16:51.6149582Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Uganda-2",
+  "resellerName": "Entebbe Systems",
+  "country": "Uganda",
+  "currency": "UGX",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1429632.0,
+  "totalCommissionEarned": 357408.0,
+  "paidCommission": 335963.52,
+  "pendingCommission": 21444.48,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 111987.84,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 457482.24,
+      "commission": 114370.56,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 486074.88,
+      "commission": 121518.72,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 486074.88,
+      "commission": 121518.72,
+      "status": "Pending"
+    }
+  ]
+}

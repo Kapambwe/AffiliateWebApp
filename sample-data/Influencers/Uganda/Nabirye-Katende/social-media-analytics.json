@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 59839,
+      "EngagementRate": 5.2,
+      "Impressions": 311163,
+      "ClickThroughRate": 1.56,
+      "Conversions": 479
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 35903,
+      "EngagementRate": 6.24,
+      "Impressions": 185501,
+      "ClickThroughRate": 2.08,
+      "Conversions": 359
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 23936,
+      "EngagementRate": 4.16,
+      "Impressions": 137630,
+      "ClickThroughRate": 1.3,
+      "Conversions": 239
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Uganda-4-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Nabirye Katende helps businesses automate accounting...",
+      "Engagement": 4787,
+      "Clicks": 718,
+      "Conversions": 90,
+      "PostDate": "2026-08-25T14:16:52.1967318Z"
+    },
+    {
+      "Id": "post-inf-Uganda-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 7181,
+      "Clicks": 1077,
+      "Conversions": 120,
+      "PostDate": "2026-08-22T14:16:52.1968378Z"
+    },
+    {
+      "Id": "post-inf-Uganda-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 2992,
+      "Clicks": 479,
+      "Conversions": 60,
+      "PostDate": "2026-08-26T14:16:52.1969026Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1970542Z",
+    "EndDate": "2026-08-27T14:16:52.1970840Z"
+  }
+}

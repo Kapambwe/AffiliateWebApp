@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 318249,
+      "EngagementRate": 6.5,
+      "Impressions": 1654895,
+      "ClickThroughRate": 1.95,
+      "Conversions": 2546
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 190949,
+      "EngagementRate": 7.8,
+      "Impressions": 986572,
+      "ClickThroughRate": 2.6,
+      "Conversions": 1909
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 127300,
+      "EngagementRate": 5.2,
+      "Impressions": 731973,
+      "ClickThroughRate": 1.62,
+      "Conversions": 1273
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Nigeria-4-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Tunde Adeyemi helps businesses automate accounting...",
+      "Engagement": 25460,
+      "Clicks": 3819,
+      "Conversions": 477,
+      "PostDate": "2026-08-25T14:16:51.9995787Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 38190,
+      "Clicks": 5728,
+      "Conversions": 636,
+      "PostDate": "2026-08-22T14:16:51.9997262Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 15912,
+      "Clicks": 2546,
+      "Conversions": 318,
+      "PostDate": "2026-08-26T14:16:51.9998017Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9999737Z",
+    "EndDate": "2026-08-27T14:16:52.0000115Z"
+  }
+}

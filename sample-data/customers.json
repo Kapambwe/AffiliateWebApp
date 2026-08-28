@@ -1,7 +1,7 @@
 [
-  { "Name": "Central High School", "Email": "admin@centralhigh.edu", "Status": "Active", "Revenue": 4500, "SystemType": "School" },
-  { "Name": "City General Hospital", "Email": "it@cityhospital.org", "Status": "Active", "Revenue": 12000, "SystemType": "Hospital" },
-  { "Name": "Apex Law Chambers", "Email": "partners@apexlaw.com", "Status": "Pending", "Revenue": 0, "SystemType": "Law Firm" },
-  { "Name": "Global Mutual Fund", "Email": "compliance@globalmutual.com", "Status": "Active", "Revenue": 8500, "SystemType": "Mutual Fund" },
-  { "Name": "Sunshine Microfinance", "Email": "info@sunshine-mf.com", "Status": "Active", "Revenue": 3200, "SystemType": "Microfinance" }
+  { "Name": "Central High School", "CompanyName": "Central Education Trust", "Email": "admin@centralhigh.edu", "PhoneNumber": "+260 211 555 101", "Country": "Zambia", "Status": "Active", "Revenue": 4500, "SystemType": "School", "AffiliateId": "11111111-2222-3333-4444-555555555551" },
+  { "Name": "City General Hospital", "CompanyName": "City General Health Services", "Email": "it@cityhospital.org", "PhoneNumber": "+260 211 555 102", "Country": "Zambia", "Status": "Active", "Revenue": 12000, "SystemType": "Hospital", "AffiliateId": "11111111-2222-3333-4444-555555555551" },
+  { "Name": "Apex Law Chambers", "CompanyName": "Apex Legal Group", "Email": "partners@apexlaw.com", "PhoneNumber": "+260 211 555 103", "Country": "Zambia", "Status": "Pending", "Revenue": 0, "SystemType": "Law Firm", "AffiliateId": "11111111-2222-3333-4444-555555555551" },
+  { "Name": "Global Mutual Fund", "CompanyName": "Global Mutual Fund Ltd", "Email": "compliance@globalmutual.com", "PhoneNumber": "+254 20 555 104", "Country": "Kenya", "Status": "Active", "Revenue": 8500, "SystemType": "Mutual Fund", "AffiliateId": "11111111-2222-3333-4444-555555555551" },
+  { "Name": "Sunshine Microfinance", "CompanyName": "Sunshine Financial Services", "Email": "info@sunshine-mf.com", "PhoneNumber": "+265 1 555 105", "Country": "Malawi", "Status": "Active", "Revenue": 3200, "SystemType": "Microfinance", "AffiliateId": "11111111-2222-3333-4444-555555555551" }
 ]

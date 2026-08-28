@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 428274,
+      "EngagementRate": 7.0,
+      "Impressions": 2227025,
+      "ClickThroughRate": 2.1,
+      "Conversions": 3426
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 256964,
+      "EngagementRate": 8.4,
+      "Impressions": 1327649,
+      "ClickThroughRate": 2.8,
+      "Conversions": 2570
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 171310,
+      "EngagementRate": 5.6,
+      "Impressions": 985030,
+      "ClickThroughRate": 1.75,
+      "Conversions": 1713
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Malawi-0-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Chisomo Banda helps businesses automate accounting...",
+      "Engagement": 34262,
+      "Clicks": 5139,
+      "Conversions": 642,
+      "PostDate": "2026-08-25T14:16:51.8437095Z"
+    },
+    {
+      "Id": "post-inf-Malawi-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 51393,
+      "Clicks": 7709,
+      "Conversions": 857,
+      "PostDate": "2026-08-22T14:16:51.8440468Z"
+    },
+    {
+      "Id": "post-inf-Malawi-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 21414,
+      "Clicks": 3426,
+      "Conversions": 428,
+      "PostDate": "2026-08-26T14:16:51.8443100Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8449181Z",
+    "EndDate": "2026-08-27T14:16:51.8450847Z"
+  }
+}

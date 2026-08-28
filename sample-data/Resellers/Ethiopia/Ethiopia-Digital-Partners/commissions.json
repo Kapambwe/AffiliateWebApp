@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Ethiopia-1",
+  "resellerName": "Ethiopia Digital Partners",
+  "country": "Ethiopia",
+  "currency": "ETB",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1750770.0,
+  "totalCommissionEarned": 437692.5,
+  "paidCommission": 411430.95,
+  "pendingCommission": 26261.55,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 137143.65,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 560246.40,
+      "commission": 140061.60,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 595261.80,
+      "commission": 148815.45,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 595261.80,
+      "commission": 148815.45,
+      "status": "Pending"
+    }
+  ]
+}

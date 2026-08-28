@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 0,
+      "EngagementRate": 0.0,
+      "Impressions": 0,
+      "ClickThroughRate": 0.0,
+      "Conversions": 1
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 0,
+      "EngagementRate": 0.0,
+      "Impressions": 0,
+      "ClickThroughRate": 0.0,
+      "Conversions": 1
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 0,
+      "EngagementRate": 0.0,
+      "Impressions": 0,
+      "ClickThroughRate": 0.0,
+      "Conversions": 1
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-INF-ZM-001-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Chizara Memory Phiri helps businesses automate accounting...",
+      "Engagement": 0,
+      "Clicks": 0,
+      "Conversions": 1,
+      "PostDate": "2026-08-25T14:16:52.2530506Z"
+    },
+    {
+      "Id": "post-INF-ZM-001-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 0,
+      "Clicks": 0,
+      "Conversions": 1,
+      "PostDate": "2026-08-22T14:16:52.2534227Z"
+    },
+    {
+      "Id": "post-INF-ZM-001-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 0,
+      "Clicks": 0,
+      "Conversions": 1,
+      "PostDate": "2026-08-26T14:16:52.2537678Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.2541424Z",
+    "EndDate": "2026-08-27T14:16:52.2541971Z"
+  }
+}

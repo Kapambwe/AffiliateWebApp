@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Morocco-1",
+  "resellerName": "Morocco Digital Solutions",
+  "country": "Morocco",
+  "currency": "MAD",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 479502.0,
+  "totalCommissionEarned": 119875.5,
+  "paidCommission": 112682.97,
+  "pendingCommission": 7192.53,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 37560.99,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 153440.64,
+      "commission": 38360.16,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 163030.68,
+      "commission": 40757.67,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 163030.68,
+      "commission": 40757.67,
+      "status": "Pending"
+    }
+  ]
+}

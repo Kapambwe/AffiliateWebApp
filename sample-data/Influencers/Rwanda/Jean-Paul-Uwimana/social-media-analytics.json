@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 197296,
+      "EngagementRate": 2.1,
+      "Impressions": 1025939,
+      "ClickThroughRate": 0.63,
+      "Conversions": 1578
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 118378,
+      "EngagementRate": 2.52,
+      "Impressions": 611618,
+      "ClickThroughRate": 0.84,
+      "Conversions": 1184
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 78918,
+      "EngagementRate": 1.68,
+      "Impressions": 453781,
+      "ClickThroughRate": 0.52,
+      "Conversions": 789
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Rwanda-0-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Jean Paul Uwimana helps businesses automate accounting...",
+      "Engagement": 15784,
+      "Clicks": 2368,
+      "Conversions": 296,
+      "PostDate": "2026-08-25T14:16:52.0543126Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 23676,
+      "Clicks": 3551,
+      "Conversions": 395,
+      "PostDate": "2026-08-22T14:16:52.0547174Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 9865,
+      "Clicks": 1578,
+      "Conversions": 197,
+      "PostDate": "2026-08-26T14:16:52.0550259Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.0557119Z",
+    "EndDate": "2026-08-27T14:16:52.0559023Z"
+  }
+}

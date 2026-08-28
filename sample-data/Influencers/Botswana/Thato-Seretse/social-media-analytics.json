@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 289017,
+      "EngagementRate": 6.4,
+      "Impressions": 1502888,
+      "ClickThroughRate": 1.92,
+      "Conversions": 2312
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 173410,
+      "EngagementRate": 7.68,
+      "Impressions": 895953,
+      "ClickThroughRate": 2.56,
+      "Conversions": 1734
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 115607,
+      "EngagementRate": 5.12,
+      "Impressions": 664739,
+      "ClickThroughRate": 1.6,
+      "Conversions": 1156
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Botswana-4-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Thato Seretse helps businesses automate accounting...",
+      "Engagement": 23121,
+      "Clicks": 3468,
+      "Conversions": 434,
+      "PostDate": "2026-08-25T14:16:51.5382116Z"
+    },
+    {
+      "Id": "post-inf-Botswana-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 34682,
+      "Clicks": 5202,
+      "Conversions": 578,
+      "PostDate": "2026-08-22T14:16:51.5384049Z"
+    },
+    {
+      "Id": "post-inf-Botswana-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 14451,
+      "Clicks": 2312,
+      "Conversions": 289,
+      "PostDate": "2026-08-26T14:16:51.5384623Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.5386554Z",
+    "EndDate": "2026-08-27T14:16:51.5386954Z"
+  }
+}

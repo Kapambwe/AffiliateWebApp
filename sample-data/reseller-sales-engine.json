@@ -1,0 +1,86 @@
+{
+  "resellerFunnelMetrics": {
+    "clicks": 9840,
+    "registrations": 1240,
+    "verifiedEmails": 1090,
+    "trialsStarted": 620,
+    "paidConversions": 210,
+    "monthlyRecurringRevenueAdded": 21000.00,
+    "pipelineValue": 105000.00
+  },
+  "resellerLeads": [
+    {
+      "prospectId": "L-201",
+      "prospectName": "Kabwe Transport Services",
+      "companyName": "Kabwe Freight Ltd",
+      "email": "contact@kabwefreight.co.zm",
+      "phone": "+260 97 789 0123",
+      "totalScore": 84,
+      "temperature": "Burning",
+      "institution": "TransportLogistics",
+      "recommendedAction": "Offer Fleet Management & Invoicing Add-on Demo",
+      "partnerId": "RESELLER-LUSAKA-01"
+    },
+    {
+      "prospectId": "L-202",
+      "prospectName": "Ndola Agro Processing",
+      "companyName": "Ndola Grains Co",
+      "email": "sales@ndolagrains.co.zm",
+      "phone": "+260 96 890 1234",
+      "totalScore": 72,
+      "temperature": "Hot",
+      "institution": "AgroProcessing",
+      "recommendedAction": "Send Agro Inventory & POS Automation PDF",
+      "partnerId": "RESELLER-NDOLA-02"
+    }
+  ],
+  "partnerDeals": [
+    {
+      "id": "DEAL-601",
+      "title": "Logistics Billing System Setup",
+      "contactName": "Kabwe Transport Services",
+      "companyName": "Kabwe Freight Ltd",
+      "monthlyRecurringRevenue": 1800.00,
+      "stage": "Negotiation",
+      "score": 84,
+      "primaryChannel": "WhatsApp",
+      "institution": "TransportLogistics",
+      "partnerId": "RESELLER-LUSAKA-01"
+    }
+  ],
+  "promotionalCampaigns": [
+    {
+      "id": "PR-201",
+      "name": "Partner Reseller Special 15%",
+      "promoCode": "RESELLER15",
+      "discountPercentage": 15.0,
+      "maxRedemptions": 300,
+      "currentRedemptions": 87,
+      "trigger": "SeasonalPromotion",
+      "institution": "Reseller",
+      "isActive": true
+    }
+  ],
+  "resellerContracts": [
+    {
+      "id": "CON-201",
+      "title": "Kabwe Freight Master Reseller Service Agreement",
+      "dealId": "DEAL-601",
+      "partyAName": "Lusaka Reseller Hub",
+      "partyBName": "Kabwe Transport Services",
+      "contractValue": 21600.00,
+      "status": "Active",
+      "institution": "TransportLogistics",
+      "clauses": [
+        {
+          "id": "CL-201",
+          "title": "Quarterly Service Delivery SLA",
+          "clauseText": "Reseller guarantees 48-hour response for fleet management support.",
+          "type": "SLAGuarantee",
+          "ruleExpression": "ResponseTimeHours <= 48"
+        }
+      ],
+      "violations": []
+    }
+  ]
+}

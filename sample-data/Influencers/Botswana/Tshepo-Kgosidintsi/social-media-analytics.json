@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 210612,
+      "EngagementRate": 2.5,
+      "Impressions": 1095182,
+      "ClickThroughRate": 0.75,
+      "Conversions": 1685
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 126367,
+      "EngagementRate": 3.0,
+      "Impressions": 652897,
+      "ClickThroughRate": 1.0,
+      "Conversions": 1264
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 84245,
+      "EngagementRate": 2.0,
+      "Impressions": 484408,
+      "ClickThroughRate": 0.62,
+      "Conversions": 842
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Botswana-2-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Tshepo Kgosidintsi helps businesses automate accounting...",
+      "Engagement": 16849,
+      "Clicks": 2527,
+      "Conversions": 316,
+      "PostDate": "2026-08-25T14:16:51.5459664Z"
+    },
+    {
+      "Id": "post-inf-Botswana-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 25273,
+      "Clicks": 3791,
+      "Conversions": 421,
+      "PostDate": "2026-08-22T14:16:51.5464689Z"
+    },
+    {
+      "Id": "post-inf-Botswana-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 10531,
+      "Clicks": 1685,
+      "Conversions": 211,
+      "PostDate": "2026-08-26T14:16:51.5468457Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.5475528Z",
+    "EndDate": "2026-08-27T14:16:51.5477421Z"
+  }
+}

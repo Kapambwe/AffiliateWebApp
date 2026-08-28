@@ -1,0 +1,152 @@
+{
+  "tags": [
+    { "id": "tag-vip", "name": "VIP", "color": "#7c3aed" },
+    { "id": "tag-trial", "name": "Trial", "color": "#2563eb" },
+    { "id": "tag-at-risk", "name": "At Risk", "color": "#dc2626" },
+    { "id": "tag-enterprise", "name": "Enterprise", "color": "#059669" }
+  ],
+  "notes": [
+    {
+      "id": "note-001",
+      "customerId": "cust-001",
+      "content": "Interested in payroll add-on for next quarter.",
+      "authorName": "Emma Jones",
+      "createdBy": "emma.jones",
+      "createdDate": "2026-08-20T10:00:00Z",
+      "isPinned": true
+    },
+    {
+      "id": "note-002",
+      "customerId": "cust-001",
+      "content": "Requested onboarding training for new finance team.",
+      "authorName": "John Smith",
+      "createdBy": "john.smith",
+      "createdDate": "2026-08-22T14:30:00Z",
+      "isPinned": false
+    },
+    {
+      "id": "note-003",
+      "customerId": "cust-002",
+      "content": "Renewal discussion scheduled for September.",
+      "authorName": "Maria Lee",
+      "createdBy": "maria.lee",
+      "createdDate": "2026-08-25T09:00:00Z",
+      "isPinned": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-001",
+      "customerId": "cust-001",
+      "fileName": "Master-Service-Agreement.pdf",
+      "type": "Contract",
+      "fileUrl": "/sample-data/documents/msa-cust-001.pdf",
+      "fileSize": 245760,
+      "uploadedDate": "2026-06-01T00:00:00Z"
+    },
+    {
+      "id": "doc-002",
+      "customerId": "cust-001",
+      "fileName": "INV-2026-0812.pdf",
+      "type": "Invoice",
+      "fileUrl": "/sample-data/documents/inv-2026-0812.pdf",
+      "fileSize": 81920,
+      "uploadedDate": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "doc-003",
+      "customerId": "cust-002",
+      "fileName": "Onboarding-Checklist.docx",
+      "type": "Onboarding",
+      "fileUrl": "/sample-data/documents/onboarding-cust-002.docx",
+      "fileSize": 40960,
+      "uploadedDate": "2026-07-18T00:00:00Z"
+    }
+  ],
+  "healthScores": [
+    {
+      "customerId": "cust-001",
+      "overallScore": 88,
+      "engagementScore": 90,
+      "financialScore": 85,
+      "supportScore": 92,
+      "adoptionScore": 84,
+      "insights": "Strong adoption with low support volume.",
+      "status": "Healthy",
+      "trend": "Up",
+      "lastCalculated": "2026-08-27T00:00:00Z",
+      "factors": [
+        { "name": "Login Frequency", "score": 92, "weight": "High", "description": "Daily active users above target" },
+        { "name": "Invoice Timeliness", "score": 80, "weight": "Medium", "description": "Payments within terms" }
+      ]
+    },
+    {
+      "customerId": "cust-002",
+      "overallScore": 64,
+      "engagementScore": 55,
+      "financialScore": 70,
+      "supportScore": 60,
+      "adoptionScore": 68,
+      "insights": "Engagement dipped after admin turnover.",
+      "status": "Moderate",
+      "trend": "Down",
+      "lastCalculated": "2026-08-27T00:00:00Z",
+      "factors": [
+        { "name": "Login Frequency", "score": 50, "weight": "High", "description": "Weekly usage declined" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-001",
+      "customerId": "cust-001",
+      "title": "Quarterly Business Review",
+      "activityDate": "2026-08-18T15:00:00Z",
+      "activityType": "Meeting",
+      "description": "Reviewed KPIs and expansion roadmap.",
+      "status": "Completed",
+      "performedBy": "Emma Jones"
+    },
+    {
+      "id": "act-002",
+      "customerId": "cust-002",
+      "title": "Support follow-up",
+      "activityDate": "2026-08-26T11:00:00Z",
+      "activityType": "Call",
+      "description": "Confirmed payroll fix deployed.",
+      "status": "Completed",
+      "performedBy": "David Moyo"
+    }
+  ],
+  "communications": [
+    {
+      "id": "comm-001",
+      "customerId": "cust-001",
+      "type": "Email",
+      "subject": "Welcome pack & getting started",
+      "content": "Shared onboarding links and training schedule.",
+      "communicationDate": "2026-08-10T08:00:00Z",
+      "status": "Sent",
+      "direction": "Outbound",
+      "performedBy": "John Smith",
+      "durationMinutes": 0
+    },
+    {
+      "id": "comm-002",
+      "customerId": "cust-001",
+      "type": "Phone",
+      "subject": "Implementation check-in",
+      "content": "Discussed chart of accounts mapping.",
+      "communicationDate": "2026-08-19T13:30:00Z",
+      "status": "Completed",
+      "direction": "Outbound",
+      "performedBy": "Emma Jones",
+      "durationMinutes": 25
+    }
+  ],
+  "relationships": {
+    "cust-001": ["cust-002", "cust-003"],
+    "cust-002": ["cust-001"],
+    "cust-003": ["cust-001"]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 230364,
+      "EngagementRate": 5.0,
+      "Impressions": 1197893,
+      "ClickThroughRate": 1.5,
+      "Conversions": 1843
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 138218,
+      "EngagementRate": 6.0,
+      "Impressions": 714128,
+      "ClickThroughRate": 2.0,
+      "Conversions": 1382
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 92146,
+      "EngagementRate": 4.0,
+      "Impressions": 529837,
+      "ClickThroughRate": 1.25,
+      "Conversions": 921
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Ethiopia-2-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Yohannes Haile helps businesses automate accounting...",
+      "Engagement": 18429,
+      "Clicks": 2764,
+      "Conversions": 346,
+      "PostDate": "2026-08-25T14:16:51.6975435Z"
+    },
+    {
+      "Id": "post-inf-Ethiopia-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 27644,
+      "Clicks": 4147,
+      "Conversions": 461,
+      "PostDate": "2026-08-22T14:16:51.6979488Z"
+    },
+    {
+      "Id": "post-inf-Ethiopia-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 11518,
+      "Clicks": 1843,
+      "Conversions": 230,
+      "PostDate": "2026-08-26T14:16:51.6983507Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.6990504Z",
+    "EndDate": "2026-08-27T14:16:51.6992356Z"
+  }
+}

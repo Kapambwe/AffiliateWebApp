@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 167542,
+      "EngagementRate": 4.1,
+      "Impressions": 871218,
+      "ClickThroughRate": 1.23,
+      "Conversions": 1340
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 100525,
+      "EngagementRate": 4.92,
+      "Impressions": 519380,
+      "ClickThroughRate": 1.64,
+      "Conversions": 1005
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 67017,
+      "EngagementRate": 3.28,
+      "Impressions": 385347,
+      "ClickThroughRate": 1.02,
+      "Conversions": 670
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Ghana-2-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Kofi Boateng helps businesses automate accounting...",
+      "Engagement": 13403,
+      "Clicks": 2011,
+      "Conversions": 251,
+      "PostDate": "2026-08-25T14:16:51.7329267Z"
+    },
+    {
+      "Id": "post-inf-Ghana-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 20105,
+      "Clicks": 3016,
+      "Conversions": 335,
+      "PostDate": "2026-08-22T14:16:51.7332325Z"
+    },
+    {
+      "Id": "post-inf-Ghana-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 8377,
+      "Clicks": 1340,
+      "Conversions": 168,
+      "PostDate": "2026-08-26T14:16:51.7334956Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.7340678Z",
+    "EndDate": "2026-08-27T14:16:51.7342221Z"
+  }
+}

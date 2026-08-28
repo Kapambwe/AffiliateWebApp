@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 35326,
+      "EngagementRate": 6.0,
+      "Impressions": 183695,
+      "ClickThroughRate": 1.8,
+      "Conversions": 283
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 21196,
+      "EngagementRate": 7.2,
+      "Impressions": 109511,
+      "ClickThroughRate": 2.4,
+      "Conversions": 212
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 14130,
+      "EngagementRate": 4.8,
+      "Impressions": 81250,
+      "ClickThroughRate": 1.5,
+      "Conversions": 141
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Egypt-2-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Ahmed Ibrahim helps businesses automate accounting...",
+      "Engagement": 2826,
+      "Clicks": 424,
+      "Conversions": 53,
+      "PostDate": "2026-08-25T14:16:51.5592417Z"
+    },
+    {
+      "Id": "post-inf-Egypt-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 4239,
+      "Clicks": 636,
+      "Conversions": 71,
+      "PostDate": "2026-08-22T14:16:51.5596427Z"
+    },
+    {
+      "Id": "post-inf-Egypt-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 1766,
+      "Clicks": 283,
+      "Conversions": 35,
+      "PostDate": "2026-08-26T14:16:51.5599295Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.5605967Z",
+    "EndDate": "2026-08-27T14:16:51.5607608Z"
+  }
+}

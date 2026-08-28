@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 273423,
+      "EngagementRate": 4.0,
+      "Impressions": 1421800,
+      "ClickThroughRate": 1.2,
+      "Conversions": 2187
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 164054,
+      "EngagementRate": 4.8,
+      "Impressions": 847611,
+      "ClickThroughRate": 1.6,
+      "Conversions": 1641
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 109369,
+      "EngagementRate": 3.2,
+      "Impressions": 628873,
+      "ClickThroughRate": 1.0,
+      "Conversions": 1094
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Ethiopia-3-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Mulu Tesfaye helps businesses automate accounting...",
+      "Engagement": 21874,
+      "Clicks": 3281,
+      "Conversions": 410,
+      "PostDate": "2026-08-25T14:16:51.6639623Z"
+    },
+    {
+      "Id": "post-inf-Ethiopia-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 32811,
+      "Clicks": 4922,
+      "Conversions": 547,
+      "PostDate": "2026-08-22T14:16:51.6644547Z"
+    },
+    {
+      "Id": "post-inf-Ethiopia-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 13671,
+      "Clicks": 2187,
+      "Conversions": 273,
+      "PostDate": "2026-08-26T14:16:51.6647551Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.6654975Z",
+    "EndDate": "2026-08-27T14:16:51.6656868Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 180507,
+      "EngagementRate": 7.5,
+      "Impressions": 938636,
+      "ClickThroughRate": 2.25,
+      "Conversions": 1444
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 108304,
+      "EngagementRate": 9.0,
+      "Impressions": 559572,
+      "ClickThroughRate": 3.0,
+      "Conversions": 1083
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 72203,
+      "EngagementRate": 6.0,
+      "Impressions": 415166,
+      "ClickThroughRate": 1.88,
+      "Conversions": 722
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zambia-3-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Mutale Banda helps businesses automate accounting...",
+      "Engagement": 14441,
+      "Clicks": 2166,
+      "Conversions": 271,
+      "PostDate": "2026-08-25T14:16:52.3248517Z"
+    },
+    {
+      "Id": "post-inf-Zambia-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 21661,
+      "Clicks": 3249,
+      "Conversions": 361,
+      "PostDate": "2026-08-22T14:16:52.3250180Z"
+    },
+    {
+      "Id": "post-inf-Zambia-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 9025,
+      "Clicks": 1444,
+      "Conversions": 181,
+      "PostDate": "2026-08-26T14:16:52.3251297Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3253034Z",
+    "EndDate": "2026-08-27T14:16:52.3253384Z"
+  }
+}

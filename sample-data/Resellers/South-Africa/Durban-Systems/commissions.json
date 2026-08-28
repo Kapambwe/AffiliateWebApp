@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-South-Africa-2",
+  "resellerName": "Durban Systems",
+  "country": "South-Africa",
+  "currency": "USD",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 201586.0,
+  "totalCommissionEarned": 50396.5,
+  "paidCommission": 47372.71,
+  "pendingCommission": 3023.79,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 15790.90,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 64507.52,
+      "commission": 16126.88,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 68539.24,
+      "commission": 17134.81,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 68539.24,
+      "commission": 17134.81,
+      "status": "Pending"
+    }
+  ]
+}

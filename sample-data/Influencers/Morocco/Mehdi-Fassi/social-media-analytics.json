@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 270759,
+      "EngagementRate": 6.9,
+      "Impressions": 1407947,
+      "ClickThroughRate": 2.07,
+      "Conversions": 2166
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 162455,
+      "EngagementRate": 8.28,
+      "Impressions": 839353,
+      "ClickThroughRate": 2.76,
+      "Conversions": 1625
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 108304,
+      "EngagementRate": 5.52,
+      "Impressions": 622746,
+      "ClickThroughRate": 1.72,
+      "Conversions": 1083
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Morocco-4-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Mehdi Fassi helps businesses automate accounting...",
+      "Engagement": 21661,
+      "Clicks": 3249,
+      "Conversions": 406,
+      "PostDate": "2026-08-25T14:16:51.9243147Z"
+    },
+    {
+      "Id": "post-inf-Morocco-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 32491,
+      "Clicks": 4874,
+      "Conversions": 542,
+      "PostDate": "2026-08-22T14:16:51.9246070Z"
+    },
+    {
+      "Id": "post-inf-Morocco-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 13538,
+      "Clicks": 2166,
+      "Conversions": 271,
+      "PostDate": "2026-08-26T14:16:51.9247561Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9250749Z",
+    "EndDate": "2026-08-27T14:16:51.9251522Z"
+  }
+}

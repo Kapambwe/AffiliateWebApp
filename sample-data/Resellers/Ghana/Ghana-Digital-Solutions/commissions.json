@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Ghana-1",
+  "resellerName": "Ghana Digital Solutions",
+  "country": "Ghana",
+  "currency": "GHS",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1365180.0,
+  "totalCommissionEarned": 341295.0,
+  "paidCommission": 320817.3,
+  "pendingCommission": 20477.7,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 106939.1,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 436857.60,
+      "commission": 109214.40,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 464161.20,
+      "commission": 116040.30,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 464161.20,
+      "commission": 116040.30,
+      "status": "Pending"
+    }
+  ]
+}

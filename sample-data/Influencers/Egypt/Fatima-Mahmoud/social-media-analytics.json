@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 358225,
+      "EngagementRate": 7.0,
+      "Impressions": 1862770,
+      "ClickThroughRate": 2.1,
+      "Conversions": 2866
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 214935,
+      "EngagementRate": 8.4,
+      "Impressions": 1110498,
+      "ClickThroughRate": 2.8,
+      "Conversions": 2149
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 143290,
+      "EngagementRate": 5.6,
+      "Impressions": 823917,
+      "ClickThroughRate": 1.75,
+      "Conversions": 1433
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Egypt-1-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Fatima Mahmoud helps businesses automate accounting...",
+      "Engagement": 28658,
+      "Clicks": 4299,
+      "Conversions": 537,
+      "PostDate": "2026-08-25T14:16:51.5972970Z"
+    },
+    {
+      "Id": "post-inf-Egypt-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 42987,
+      "Clicks": 6448,
+      "Conversions": 716,
+      "PostDate": "2026-08-22T14:16:51.5974310Z"
+    },
+    {
+      "Id": "post-inf-Egypt-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 17911,
+      "Clicks": 2866,
+      "Conversions": 358,
+      "PostDate": "2026-08-26T14:16:51.5974927Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.5977016Z",
+    "EndDate": "2026-08-27T14:16:51.5977529Z"
+  }
+}

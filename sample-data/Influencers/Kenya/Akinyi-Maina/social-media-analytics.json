@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 94152,
+      "EngagementRate": 3.6,
+      "Impressions": 489590,
+      "ClickThroughRate": 1.08,
+      "Conversions": 753
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 56491,
+      "EngagementRate": 4.32,
+      "Impressions": 291871,
+      "ClickThroughRate": 1.44,
+      "Conversions": 565
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 37661,
+      "EngagementRate": 2.88,
+      "Impressions": 216550,
+      "ClickThroughRate": 0.9,
+      "Conversions": 377
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Kenya-0-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Akinyi Maina helps businesses automate accounting...",
+      "Engagement": 7532,
+      "Clicks": 1130,
+      "Conversions": 141,
+      "PostDate": "2026-08-25T14:16:51.7727725Z"
+    },
+    {
+      "Id": "post-inf-Kenya-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 11298,
+      "Clicks": 1695,
+      "Conversions": 188,
+      "PostDate": "2026-08-22T14:16:51.7730876Z"
+    },
+    {
+      "Id": "post-inf-Kenya-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 4708,
+      "Clicks": 753,
+      "Conversions": 94,
+      "PostDate": "2026-08-26T14:16:51.7733391Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.7739230Z",
+    "EndDate": "2026-08-27T14:16:51.7740788Z"
+  }
+}

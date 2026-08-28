@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 470210,
+      "EngagementRate": 4.5,
+      "Impressions": 2445092,
+      "ClickThroughRate": 1.35,
+      "Conversions": 3762
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 282126,
+      "EngagementRate": 5.4,
+      "Impressions": 1457651,
+      "ClickThroughRate": 1.8,
+      "Conversions": 2821
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 188084,
+      "EngagementRate": 3.6,
+      "Impressions": 1081483,
+      "ClickThroughRate": 1.12,
+      "Conversions": 1881
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Uganda-2-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Namuli Okello helps businesses automate accounting...",
+      "Engagement": 37617,
+      "Clicks": 5643,
+      "Conversions": 705,
+      "PostDate": "2026-08-25T14:16:52.2107720Z"
+    },
+    {
+      "Id": "post-inf-Uganda-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 56425,
+      "Clicks": 8464,
+      "Conversions": 940,
+      "PostDate": "2026-08-22T14:16:52.2110435Z"
+    },
+    {
+      "Id": "post-inf-Uganda-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 23510,
+      "Clicks": 3762,
+      "Conversions": 470,
+      "PostDate": "2026-08-26T14:16:52.2112566Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.2117438Z",
+    "EndDate": "2026-08-27T14:16:52.2118589Z"
+  }
+}

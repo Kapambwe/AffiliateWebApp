@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 212220,
+      "EngagementRate": 5.1,
+      "Impressions": 1103544,
+      "ClickThroughRate": 1.53,
+      "Conversions": 1698
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 127332,
+      "EngagementRate": 6.12,
+      "Impressions": 657882,
+      "ClickThroughRate": 2.04,
+      "Conversions": 1273
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 84888,
+      "EngagementRate": 4.08,
+      "Impressions": 488106,
+      "ClickThroughRate": 1.27,
+      "Conversions": 849
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-South-Africa-0-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Thabo Molefe helps businesses automate accounting...",
+      "Engagement": 16978,
+      "Clicks": 2547,
+      "Conversions": 318,
+      "PostDate": "2026-08-25T14:16:52.1274788Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 25466,
+      "Clicks": 3820,
+      "Conversions": 424,
+      "PostDate": "2026-08-22T14:16:52.1278517Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 10611,
+      "Clicks": 1698,
+      "Conversions": 212,
+      "PostDate": "2026-08-26T14:16:52.1281430Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1288533Z",
+    "EndDate": "2026-08-27T14:16:52.1290390Z"
+  }
+}

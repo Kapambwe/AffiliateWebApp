@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 172262,
+      "EngagementRate": 6.6,
+      "Impressions": 895762,
+      "ClickThroughRate": 1.98,
+      "Conversions": 1378
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 103357,
+      "EngagementRate": 7.92,
+      "Impressions": 534012,
+      "ClickThroughRate": 2.64,
+      "Conversions": 1034
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 68905,
+      "EngagementRate": 5.28,
+      "Impressions": 396203,
+      "ClickThroughRate": 1.65,
+      "Conversions": 689
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Tanzania-4-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Hamisi Rashid helps businesses automate accounting...",
+      "Engagement": 13781,
+      "Clicks": 2067,
+      "Conversions": 258,
+      "PostDate": "2026-08-25T14:16:52.1731952Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 20671,
+      "Clicks": 3101,
+      "Conversions": 345,
+      "PostDate": "2026-08-22T14:16:52.1733178Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 8613,
+      "Clicks": 1378,
+      "Conversions": 172,
+      "PostDate": "2026-08-26T14:16:52.1733894Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1735506Z",
+    "EndDate": "2026-08-27T14:16:52.1736285Z"
+  }
+}

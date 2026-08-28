@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 424497,
+      "EngagementRate": 5.7,
+      "Impressions": 2207384,
+      "ClickThroughRate": 1.71,
+      "Conversions": 3396
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 254698,
+      "EngagementRate": 6.84,
+      "Impressions": 1315941,
+      "ClickThroughRate": 2.28,
+      "Conversions": 2547
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 169799,
+      "EngagementRate": 4.56,
+      "Impressions": 976343,
+      "ClickThroughRate": 1.42,
+      "Conversions": 1698
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Botswana-3-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Lorato Mogapi helps businesses automate accounting...",
+      "Engagement": 33960,
+      "Clicks": 5094,
+      "Conversions": 637,
+      "PostDate": "2026-08-25T14:16:51.5181796Z"
+    },
+    {
+      "Id": "post-inf-Botswana-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 50940,
+      "Clicks": 7641,
+      "Conversions": 849,
+      "PostDate": "2026-08-22T14:16:51.5182829Z"
+    },
+    {
+      "Id": "post-inf-Botswana-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 21225,
+      "Clicks": 3396,
+      "Conversions": 424,
+      "PostDate": "2026-08-26T14:16:51.5183346Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.5184645Z",
+    "EndDate": "2026-08-27T14:16:51.5184895Z"
+  }
+}

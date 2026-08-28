@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 215703,
+      "EngagementRate": 5.0,
+      "Impressions": 1121656,
+      "ClickThroughRate": 1.5,
+      "Conversions": 1726
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 129422,
+      "EngagementRate": 6.0,
+      "Impressions": 668679,
+      "ClickThroughRate": 2.0,
+      "Conversions": 1294
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 86281,
+      "EngagementRate": 4.0,
+      "Impressions": 496117,
+      "ClickThroughRate": 1.25,
+      "Conversions": 863
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Nigeria-1-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Ngozi Adeleke helps businesses automate accounting...",
+      "Engagement": 17256,
+      "Clicks": 2588,
+      "Conversions": 324,
+      "PostDate": "2026-08-25T14:16:51.9782208Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 25884,
+      "Clicks": 3883,
+      "Conversions": 431,
+      "PostDate": "2026-08-22T14:16:51.9784976Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 10785,
+      "Clicks": 1726,
+      "Conversions": 216,
+      "PostDate": "2026-08-26T14:16:51.9786656Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9790199Z",
+    "EndDate": "2026-08-27T14:16:51.9790993Z"
+  }
+}

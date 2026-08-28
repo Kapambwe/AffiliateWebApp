@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 353877,
+      "EngagementRate": 2.5,
+      "Impressions": 1840160,
+      "ClickThroughRate": 0.75,
+      "Conversions": 2831
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 212326,
+      "EngagementRate": 3.0,
+      "Impressions": 1097019,
+      "ClickThroughRate": 1.0,
+      "Conversions": 2123
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 141551,
+      "EngagementRate": 2.0,
+      "Impressions": 813917,
+      "ClickThroughRate": 0.62,
+      "Conversions": 1416
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zambia-4-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Kabwe Sakala helps businesses automate accounting...",
+      "Engagement": 28310,
+      "Clicks": 4247,
+      "Conversions": 531,
+      "PostDate": "2026-08-25T14:16:52.3049609Z"
+    },
+    {
+      "Id": "post-inf-Zambia-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 42465,
+      "Clicks": 6370,
+      "Conversions": 708,
+      "PostDate": "2026-08-22T14:16:52.3052364Z"
+    },
+    {
+      "Id": "post-inf-Zambia-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 17694,
+      "Clicks": 2831,
+      "Conversions": 354,
+      "PostDate": "2026-08-26T14:16:52.3053247Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3054891Z",
+    "EndDate": "2026-08-27T14:16:52.3055234Z"
+  }
+}

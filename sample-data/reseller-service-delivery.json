@@ -1,0 +1,70 @@
+{
+  "activeProjects": [
+    {
+      "id": "proj-001",
+      "projectName": "Acme Corp Implementation",
+      "customerName": "Acme Corporation",
+      "status": "In Progress",
+      "completionPercentage": 65,
+      "startDate": "2026-07-13T00:00:00Z",
+      "targetEndDate": "2026-09-26T00:00:00Z",
+      "milestones": [
+        { "name": "Discovery Complete", "targetDate": "2026-07-28T00:00:00Z", "completed": true, "completedDate": "2026-07-30T00:00:00Z" },
+        { "name": "Configuration Done", "targetDate": "2026-08-12T00:00:00Z", "completed": true, "completedDate": "2026-08-17T00:00:00Z" },
+        { "name": "User Training", "targetDate": "2026-09-11T00:00:00Z", "completed": false },
+        { "name": "Go Live", "targetDate": "2026-09-26T00:00:00Z", "completed": false }
+      ]
+    },
+    {
+      "id": "proj-002",
+      "projectName": "Global Tech Integration",
+      "customerName": "Global Tech Ltd",
+      "status": "Planning",
+      "completionPercentage": 25,
+      "startDate": "2026-08-17T00:00:00Z",
+      "targetEndDate": "2026-10-26T00:00:00Z",
+      "milestones": [
+        { "name": "Requirements Gathering", "targetDate": "2026-09-01T00:00:00Z", "completed": false },
+        { "name": "System Design", "targetDate": "2026-09-16T00:00:00Z", "completed": false },
+        { "name": "Development", "targetDate": "2026-10-06T00:00:00Z", "completed": false },
+        { "name": "Testing", "targetDate": "2026-10-16T00:00:00Z", "completed": false }
+      ]
+    }
+  ],
+  "serviceMetrics": [
+    { "label": "Avg Implementation Time", "value": 45 },
+    { "label": "Customer Satisfaction", "value": 4.8 },
+    { "label": "On-Time Delivery Rate", "value": 92.0 },
+    { "label": "Active Projects", "value": 2 },
+    { "label": "Completed This Month", "value": 3 }
+  ],
+  "recentActivities": [
+    {
+      "id": "act-001",
+      "activityDate": "2026-08-27T12:00:00Z",
+      "activityType": "Project Update",
+      "description": "Completed configuration phase for Acme Corp implementation",
+      "amount": 0,
+      "status": "Completed"
+    },
+    {
+      "id": "act-002",
+      "activityDate": "2026-08-27T06:00:00Z",
+      "activityType": "Milestone Reached",
+      "description": "Finished user training for Global Tech integration",
+      "amount": 0,
+      "status": "Completed"
+    },
+    {
+      "id": "act-003",
+      "activityDate": "2026-08-26T10:00:00Z",
+      "activityType": "New Project",
+      "description": "Started implementation for FinanceHub Inc",
+      "amount": 15000,
+      "status": "In Progress"
+    }
+  ],
+  "averageCompletionTime": 45,
+  "customerSatisfaction": 4.8,
+  "onTimeDeliveryRate": 92.0
+}

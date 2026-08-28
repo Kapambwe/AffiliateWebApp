@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Malawi-2",
+  "resellerName": "Blantyre Solutions",
+  "country": "Malawi",
+  "currency": "MWK",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1197340.0,
+  "totalCommissionEarned": 299335.0,
+  "paidCommission": 281374.9,
+  "pendingCommission": 17960.1,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 93791.63,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 383148.80,
+      "commission": 95787.20,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 407095.60,
+      "commission": 101773.90,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 407095.60,
+      "commission": 101773.90,
+      "status": "Pending"
+    }
+  ]
+}

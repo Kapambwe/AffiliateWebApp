@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Kenya-0",
+  "resellerName": "Nairobi Tech Solutions",
+  "country": "Kenya",
+  "currency": "KES",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 384090.0,
+  "totalCommissionEarned": 96022.5,
+  "paidCommission": 90261.15,
+  "pendingCommission": 5761.35,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 30087.05,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 122908.80,
+      "commission": 30727.20,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 130590.60,
+      "commission": 32647.65,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 130590.60,
+      "commission": 32647.65,
+      "status": "Pending"
+    }
+  ]
+}

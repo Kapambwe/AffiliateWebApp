@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 108544,
+      "EngagementRate": 5.1,
+      "Impressions": 564429,
+      "ClickThroughRate": 1.53,
+      "Conversions": 868
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 65126,
+      "EngagementRate": 6.12,
+      "Impressions": 336486,
+      "ClickThroughRate": 2.04,
+      "Conversions": 651
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 43418,
+      "EngagementRate": 4.08,
+      "Impressions": 249651,
+      "ClickThroughRate": 1.27,
+      "Conversions": 434
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Tanzania-1-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Amina Hassan helps businesses automate accounting...",
+      "Engagement": 8684,
+      "Clicks": 1303,
+      "Conversions": 163,
+      "PostDate": "2026-08-25T14:16:52.1504383Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 13025,
+      "Clicks": 1954,
+      "Conversions": 217,
+      "PostDate": "2026-08-22T14:16:52.1505668Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 5427,
+      "Clicks": 868,
+      "Conversions": 109,
+      "PostDate": "2026-08-26T14:16:52.1506875Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1508948Z",
+    "EndDate": "2026-08-27T14:16:52.1509317Z"
+  }
+}

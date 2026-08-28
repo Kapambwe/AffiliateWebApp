@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 467437,
+      "EngagementRate": 2.3,
+      "Impressions": 2430672,
+      "ClickThroughRate": 0.69,
+      "Conversions": 3739
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 280462,
+      "EngagementRate": 2.76,
+      "Impressions": 1449055,
+      "ClickThroughRate": 0.92,
+      "Conversions": 2805
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 186975,
+      "EngagementRate": 1.84,
+      "Impressions": 1075105,
+      "ClickThroughRate": 0.57,
+      "Conversions": 1870
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-South-Africa-4-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Mandla Mbatha helps businesses automate accounting...",
+      "Engagement": 37395,
+      "Clicks": 5609,
+      "Conversions": 701,
+      "PostDate": "2026-08-25T14:16:52.0838358Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 56092,
+      "Clicks": 8414,
+      "Conversions": 935,
+      "PostDate": "2026-08-22T14:16:52.0843121Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 23372,
+      "Clicks": 3739,
+      "Conversions": 467,
+      "PostDate": "2026-08-26T14:16:52.0847376Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.0856817Z",
+    "EndDate": "2026-08-27T14:16:52.0858848Z"
+  }
+}

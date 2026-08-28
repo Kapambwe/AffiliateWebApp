@@ -1,0 +1,44 @@
+{
+  "affiliateId": "INF-ZM-001",
+  "country": "Zambia",
+  "affiliateName": "Chizara Memory Phiri",
+  "affiliateType": "Influencer",
+  "performanceMetrics": {
+    "engagementRate": 0.0,
+    "followerCount": 0,
+    "averageOrderValue": 400,
+    "conversionRate": 1
+  },
+  "monthlyAccumulations": [
+    {
+      "status": "Paid",
+      "month": "2024-09",
+      "newCustomers": 13,
+      "revenue": 0.00,
+      "commission": 0.00
+    },
+    {
+      "status": "Paid",
+      "month": "2024-10",
+      "newCustomers": 14,
+      "revenue": 0.00,
+      "commission": 0.00
+    },
+    {
+      "status": "Pending",
+      "month": "2024-11",
+      "newCustomers": 14,
+      "revenue": 0.00,
+      "commission": 0.00
+    }
+  ],
+  "summary": {
+    "paidCommission": 0.0,
+    "totalRevenue": 0.0,
+    "commissionRate": 15,
+    "totalCommissionEarned": 0.0,
+    "totalRegistrations": 40,
+    "pendingCommission": 0.0,
+    "activeCustomers": 34
+  }
+}

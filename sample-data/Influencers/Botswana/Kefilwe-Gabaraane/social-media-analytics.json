@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 133433,
+      "EngagementRate": 3.0,
+      "Impressions": 693852,
+      "ClickThroughRate": 0.9,
+      "Conversions": 1067
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 80060,
+      "EngagementRate": 3.6,
+      "Impressions": 413642,
+      "ClickThroughRate": 1.2,
+      "Conversions": 801
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 53373,
+      "EngagementRate": 2.4,
+      "Impressions": 306896,
+      "ClickThroughRate": 0.75,
+      "Conversions": 534
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Botswana-1-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Kefilwe Gabaraane helps businesses automate accounting...",
+      "Engagement": 10675,
+      "Clicks": 1601,
+      "Conversions": 200,
+      "PostDate": "2026-08-25T14:16:51.4214184Z"
+    },
+    {
+      "Id": "post-inf-Botswana-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 16012,
+      "Clicks": 2402,
+      "Conversions": 267,
+      "PostDate": "2026-08-22T14:16:51.4314340Z"
+    },
+    {
+      "Id": "post-inf-Botswana-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 6672,
+      "Clicks": 1067,
+      "Conversions": 133,
+      "PostDate": "2026-08-26T14:16:51.4318539Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.4363610Z",
+    "EndDate": "2026-08-27T14:16:51.4366756Z"
+  }
+}

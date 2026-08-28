@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 107400,
+      "EngagementRate": 2.2,
+      "Impressions": 558480,
+      "ClickThroughRate": 0.66,
+      "Conversions": 859
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 64440,
+      "EngagementRate": 2.64,
+      "Impressions": 332940,
+      "ClickThroughRate": 0.88,
+      "Conversions": 644
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 42960,
+      "EngagementRate": 1.76,
+      "Impressions": 247020,
+      "ClickThroughRate": 0.55,
+      "Conversions": 430
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Uganda-0-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Nakato Musoke helps businesses automate accounting...",
+      "Engagement": 8592,
+      "Clicks": 1289,
+      "Conversions": 161,
+      "PostDate": "2026-08-25T14:16:52.2022081Z"
+    },
+    {
+      "Id": "post-inf-Uganda-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 12888,
+      "Clicks": 1933,
+      "Conversions": 215,
+      "PostDate": "2026-08-22T14:16:52.2023148Z"
+    },
+    {
+      "Id": "post-inf-Uganda-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 5370,
+      "Clicks": 859,
+      "Conversions": 107,
+      "PostDate": "2026-08-26T14:16:52.2024205Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.2025962Z",
+    "EndDate": "2026-08-27T14:16:52.2026301Z"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "affiliates": [
+    {
+      "id": "aff-001",
+      "name": "Tech Influencer Pro",
+      "email": "tech@example.com",
+      "type": "SocialMediaInfluencer",
+      "primaryPlatform": "YouTube",
+      "followerCount": 150000,
+      "engagementRate": 4.5,
+      "promoCode": "TECH15",
+      "commissionRate": 15,
+      "tier": "Gold",
+      "status": "Active",
+      "totalClicks": 5000,
+      "totalRegistrations": 250,
+      "activeCustomers": 180,
+      "conversionRate": 5.0,
+      "totalRevenue": 90000,
+      "totalCommissionEarned": 13500,
+      "pendingCommission": 450,
+      "paidCommission": 13050,
+      "joinedDate": "2024-08-27T00:00:00Z"
+    },
+    {
+      "id": "aff-002",
+      "name": "Business Solutions Ltd",
+      "email": "business@example.com",
+      "company": "Business Solutions Ltd",
+      "type": "Reseller",
+      "businessLicense": "BL-12345",
+      "taxNumber": "TAX-98765",
+      "yearsInBusiness": 5,
+      "targetMarket": "SMB",
+      "promoCode": "BIZ25",
+      "commissionRate": 25,
+      "partnerTier": "CertifiedPartner",
+      "status": "Active",
+      "activePayingCustomers": 45,
+      "totalRegistrations": 60,
+      "totalRevenue": 180000,
+      "totalCommissionEarned": 45000,
+      "joinedDate": "2023-08-27T00:00:00Z"
+    },
+    {
+      "id": "aff-003",
+      "name": "Strategic Tech Partners",
+      "email": "strategic@example.com",
+      "company": "Strategic Tech Partners Inc",
+      "type": "Partner",
+      "partnerTier": "StrategicPartner",
+      "hasDedicatedSalesTeam": true,
+      "hasDedicatedSupportTeam": true,
+      "hasCertifiedStaff": true,
+      "meetsSLACompliance": true,
+      "promoCode": "STRAT40",
+      "commissionRate": 40,
+      "activePayingCustomers": 120,
+      "status": "Active",
+      "joinedDate": "2022-08-27T00:00:00Z"
+    }
+  ],
+  "promoCodes": [
+    { "id": "pc-001", "code": "TECH15", "affiliateId": "aff-001", "affiliateName": "Tech Influencer Pro", "type": "Percentage", "discountValue": 15, "currentUses": 45, "isActive": true },
+    { "id": "pc-002", "code": "BIZ25", "affiliateId": "aff-002", "affiliateName": "Business Solutions Ltd", "type": "Percentage", "discountValue": 25, "currentUses": 30, "isActive": true },
+    { "id": "pc-003", "code": "LAUNCH30", "affiliateId": "aff-003", "affiliateName": "Strategic Tech Partners", "type": "Percentage", "discountValue": 30, "currentUses": 15, "isActive": true }
+  ],
+  "conversions": [
+    { "id": "conv-001", "affiliateId": "aff-001", "affiliateName": "Tech Influencer Pro", "customerName": "Acme Corp", "productName": "Accounting", "planType": "Premium", "orderValue": 80, "commissionRate": 15, "commissionAmount": 12, "conversionDate": "2026-07-28T00:00:00Z", "commissionStatus": "Paid" },
+    { "id": "conv-002", "affiliateId": "aff-001", "affiliateName": "Tech Influencer Pro", "customerName": "Global Tech", "productName": "School Management", "planType": "Enterprise", "orderValue": 200, "commissionRate": 15, "commissionAmount": 30, "conversionDate": "2026-08-12T00:00:00Z", "commissionStatus": "Pending" },
+    { "id": "conv-003", "affiliateId": "aff-002", "affiliateName": "Business Solutions Ltd", "customerName": "FinanceHub", "productName": "Accounting", "planType": "Professional", "orderValue": 120, "commissionRate": 25, "commissionAmount": 30, "conversionDate": "2026-07-13T00:00:00Z", "commissionStatus": "Paid" }
+  ],
+  "materials": [
+    { "id": "mat-001", "title": "Social Media Banner Pack", "description": "High-quality banner images for Instagram and Facebook", "type": "Banner", "platform": "Instagram", "downloadCount": 150 },
+    { "id": "mat-002", "title": "YouTube Intro Template", "description": "Professional intro template for YouTube videos", "type": "Video", "platform": "YouTube", "downloadCount": 89 },
+    { "id": "mat-003", "title": "Email Template Collection", "description": "Ready-to-use email templates for promotions", "type": "EmailTemplate", "downloadCount": 67 }
+  ],
+  "productLinks": [
+    { "id": "link-001", "affiliateId": "aff-001", "affiliateName": "Tech Influencer Pro", "linkToken": "tok-school-2024", "shortUrl": "https://short.ly/school2024", "product": "SchoolManagement", "productName": "School Management System", "campaignName": "Back to School 2024", "clickCount": 142, "conversionCount": 18 },
+    { "id": "link-002", "affiliateId": "aff-001", "affiliateName": "Tech Influencer Pro", "linkToken": "tok-acct-q4", "shortUrl": "https://short.ly/acctq4", "product": "Accounting", "productName": "Accounting Software", "campaignName": "Q4 Finance Drive", "clickCount": 67, "conversionCount": 9 }
+  ],
+  "payments": [
+    { "id": "pay-seed-001", "affiliateId": "aff-001", "affiliateName": "Tech Influencer Pro", "amount": 450, "currency": "USD", "paymentMethod": "PayPal", "status": "Completed", "paymentDate": "2026-08-15T00:00:00Z", "conversionCount": 12 }
+  ],
+  "acquisitions": [
+    { "id": "acq-001", "affiliateId": "aff-001", "method": "ReferralLink", "status": "Verified", "monthlyValue": 80, "commissionRate": 15 },
+    { "id": "acq-002", "affiliateId": "aff-002", "method": "DirectRegistration", "status": "Pending", "monthlyValue": 120, "commissionRate": 25 }
+  ],
+  "pricingTiers": [
+    { "name": "School", "monthlyFee": 40, "description": "Educational institutions" },
+    { "name": "Accounting SME", "monthlyFee": 80, "description": "Small/Medium accounting firms" },
+    { "name": "Law Firm", "monthlyFee": 100, "description": "Legal practices" },
+    { "name": "Enterprise", "monthlyFee": 200, "description": "Large organizations" }
+  ],
+  "influencerCommissionExamples": [
+    { "customerType": "School", "monthlyFee": 40, "commissionRate": 15, "monthlyCommission": 6, "scenario": "25 schools = $150/month" },
+    { "customerType": "Enterprise", "monthlyFee": 200, "commissionRate": 15, "monthlyCommission": 30, "scenario": "33 clients = $990/month" }
+  ],
+  "partnerTierConfigurations": [
+    { "tier": "ReferralPartner", "name": "Referral Partner", "commissionRate": 15, "description": "Bring leads only" },
+    { "tier": "RegisteredReseller", "name": "Registered Reseller", "commissionRate": 25, "description": "Sell + basic onboard" },
+    { "tier": "CertifiedPartner", "name": "Certified Partner", "commissionRate": 30, "description": "Full onboard + support" },
+    { "tier": "StrategicPartner", "name": "Strategic Partner", "commissionRate": 35, "commissionRangeMax": 40, "description": "Volume + first-line support" }
+  ],
+  "customerCommissionStructures": [
+    { "customerType": "School", "monthlyPrice": 40 },
+    { "customerType": "Accounting SME", "monthlyPrice": 80 },
+    { "customerType": "Legal Firm", "monthlyPrice": 100 },
+    { "customerType": "Enterprise", "monthlyPrice": 200 }
+  ],
+  "partnerCertifications": [
+    { "tier": "ReferralPartner", "hasAccessToPartnerPortal": false },
+    { "tier": "CertifiedPartner", "hasAccessToPartnerPortal": true }
+  ],
+  "partnerAuthorization": {
+    "authorized": ["Promote Company products", "Identify and close customers", "Assist with onboarding (based on tier)", "Earn commission on qualifying customers"],
+    "notAuthorized": ["Bind the Company contractually", "Change pricing or terms", "Offer discounts without written approval", "Represent itself as the Company"]
+  },
+  "bestPractices": {
+    "requiredDisclosures": ["This is an affiliate link", "I may earn a commission"],
+    "recommendedChannels": ["YouTube", "LinkedIn", "Email newsletter"]
+  },
+  "disclosuresByCountry": {
+    "default": ["This is an affiliate link", "I may earn a commission if you purchase"],
+    "US": ["Advertising Disclosure: This post contains affiliate links.", "I may earn a commission at no extra cost to you."],
+    "KE": ["This is a sponsored affiliate recommendation.", "Commission may be earned on qualifying purchases."],
+    "ZM": ["Affiliate disclosure: links may generate commission for the referrer."]
+  },
+  "paymentMethodsByCountry": {
+    "default": ["PayPal", "Bank Transfer"],
+    "KE": ["M-Pesa", "PayPal", "Bank Transfer"],
+    "ZM": ["Mobile Money", "Bank Transfer", "PayPal"],
+    "NG": ["Bank Transfer", "Paystack", "PayPal"],
+    "ZA": ["EFT", "PayPal", "Ozow"]
+  },
+  "countryRules": [
+    {
+      "countryCode": "US",
+      "countryName": "United States",
+      "requiredDisclosures": ["#ad or Affiliate Disclosure required"],
+      "prohibitedPractices": ["Undisclosed endorsement"],
+      "maxCommissionRate": 40,
+      "requiresTaxReporting": true,
+      "taxReportingThreshold": "$600",
+      "requiredDocuments": ["W-9"]
+    },
+    {
+      "countryCode": "KE",
+      "countryName": "Kenya",
+      "requiredDisclosures": ["Affiliate relationship disclosure"],
+      "prohibitedPractices": ["Misleading claims"],
+      "maxCommissionRate": 35,
+      "requiresTaxReporting": true,
+      "taxReportingThreshold": "KRA threshold",
+      "requiredDocuments": ["KRA PIN"]
+    },
+    {
+      "countryCode": "ZM",
+      "countryName": "Zambia",
+      "requiredDisclosures": ["Affiliate relationship disclosure"],
+      "prohibitedPractices": ["False pricing"],
+      "maxCommissionRate": 35,
+      "requiresTaxReporting": false,
+      "requiredDocuments": ["TPIN"]
+    }
+  ],
+  "recommendedCampaigns": ["Summer Sale", "Back to School", "Year-End Finance Drive", "Partner Co-Sell Sprint"],
+  "performanceData": [
+    { "month": "Jan", "conversions": 120, "revenue": 48000 },
+    { "month": "Feb", "conversions": 135, "revenue": 54000 },
+    { "month": "Mar", "conversions": 148, "revenue": 59200 },
+    { "month": "Apr", "conversions": 160, "revenue": 64000 },
+    { "month": "May", "conversions": 172, "revenue": 68800 },
+    { "month": "Jun", "conversions": 185, "revenue": 74000 }
+  ],
+  "linkClicks": [
+    { "id": "click-001", "affiliateLink": "link-001", "ipAddress": "41.90.10.12", "userAgent": "Mozilla/5.0", "clickedAt": "2026-08-26T10:00:00Z" },
+    { "id": "click-002", "affiliateLink": "link-001", "ipAddress": "105.112.20.5", "userAgent": "Mozilla/5.0", "clickedAt": "2026-08-26T11:30:00Z" },
+    { "id": "click-003", "affiliateLink": "link-002", "ipAddress": "197.210.50.8", "userAgent": "Mozilla/5.0", "clickedAt": "2026-08-27T08:15:00Z" }
+  ],
+  "requirements": {
+    "SocialMediaInfluencer": { "minimumFollowers": 1000, "minimumEngagementRate": 2.0, "requiresBusinessLicense": false, "requiresTaxNumber": false },
+    "Reseller": { "minimumFollowers": 0, "minimumEngagementRate": 0, "requiresBusinessLicense": true, "requiresTaxNumber": true },
+    "Partner": { "minimumFollowers": 0, "minimumEngagementRate": 0, "requiresBusinessLicense": true, "requiresTaxNumber": true }
+  }
+}

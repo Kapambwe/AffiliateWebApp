@@ -1,0 +1,44 @@
+{
+  "partnerId": "par-Tanzania-2",
+  "partnerName": "Tanzania Solutions Group",
+  "country": "Tanzania",
+  "currency": "TZS",
+  "commissionRate": 35.0,
+  "partnershipLevel": "Diamond",
+  "status": "Active",
+  "totalProjects": 120,
+  "activeProjects": 24,
+  "totalCustomers": 120,
+  "totalRevenue": 2500000.0,
+  "totalCommissionEarned": 500000.0,
+  "paidCommission": 500000.0,
+  "pendingCommission": 0.0,
+  "lastPaymentDate": "2024-10-01T00:00:00Z",
+  "lastPaymentAmount": 166666.67,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Wire Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "projects": 38,
+      "revenue": 800000.00,
+      "commission": 160000.00,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "projects": 41,
+      "revenue": 850000.00,
+      "commission": 170000.00,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "projects": 41,
+      "revenue": 850000.00,
+      "commission": 170000.00,
+      "status": "Pending"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 262119,
+      "EngagementRate": 2.1,
+      "Impressions": 1363019,
+      "ClickThroughRate": 0.63,
+      "Conversions": 2097
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 157271,
+      "EngagementRate": 2.52,
+      "Impressions": 812569,
+      "ClickThroughRate": 0.84,
+      "Conversions": 1573
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 104848,
+      "EngagementRate": 1.68,
+      "Impressions": 602874,
+      "ClickThroughRate": 0.52,
+      "Conversions": 1048
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Ghana-3-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Ama Osei helps businesses automate accounting...",
+      "Engagement": 20970,
+      "Clicks": 3145,
+      "Conversions": 393,
+      "PostDate": "2026-08-25T14:16:51.7179955Z"
+    },
+    {
+      "Id": "post-inf-Ghana-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 31454,
+      "Clicks": 4718,
+      "Conversions": 524,
+      "PostDate": "2026-08-22T14:16:51.7183200Z"
+    },
+    {
+      "Id": "post-inf-Ghana-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 13106,
+      "Clicks": 2097,
+      "Conversions": 262,
+      "PostDate": "2026-08-26T14:16:51.7185724Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.7191265Z",
+    "EndDate": "2026-08-27T14:16:51.7192787Z"
+  }
+}

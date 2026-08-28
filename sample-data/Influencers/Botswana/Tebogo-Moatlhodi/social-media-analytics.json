@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 74179,
+      "EngagementRate": 6.3,
+      "Impressions": 385731,
+      "ClickThroughRate": 1.89,
+      "Conversions": 593
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 44507,
+      "EngagementRate": 7.56,
+      "Impressions": 229955,
+      "ClickThroughRate": 2.52,
+      "Conversions": 445
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 29672,
+      "EngagementRate": 5.04,
+      "Impressions": 170612,
+      "ClickThroughRate": 1.58,
+      "Conversions": 297
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Botswana-0-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Tebogo Moatlhodi helps businesses automate accounting...",
+      "Engagement": 5934,
+      "Clicks": 890,
+      "Conversions": 111,
+      "PostDate": "2026-08-25T14:16:51.5266880Z"
+    },
+    {
+      "Id": "post-inf-Botswana-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 8901,
+      "Clicks": 1335,
+      "Conversions": 148,
+      "PostDate": "2026-08-22T14:16:51.5269839Z"
+    },
+    {
+      "Id": "post-inf-Botswana-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 3709,
+      "Clicks": 593,
+      "Conversions": 74,
+      "PostDate": "2026-08-26T14:16:51.5272271Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.5277617Z",
+    "EndDate": "2026-08-27T14:16:51.5278961Z"
+  }
+}

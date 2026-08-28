@@ -1,0 +1,24 @@
+{
+  "profiles": [
+    {
+      "affiliateId": "aff-001",
+      "name": "Tech Influencer Pro",
+      "referralCode": "TECH15",
+      "referralLink": "/register?ref=TECH15",
+      "level": "Gold",
+      "rank": 12,
+      "sponsorReferrerId": "",
+      "currentRank": "Gold"
+    },
+    {
+      "affiliateId": "aff-002",
+      "name": "Business Solutions Ltd",
+      "referralCode": "BIZ25",
+      "referralLink": "/register?ref=BIZ25",
+      "level": "Platinum",
+      "rank": 4,
+      "sponsorReferrerId": "",
+      "currentRank": "Platinum"
+    }
+  ]
+}

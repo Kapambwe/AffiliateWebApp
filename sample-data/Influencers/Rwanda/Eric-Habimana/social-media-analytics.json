@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 12194,
+      "EngagementRate": 2.4,
+      "Impressions": 63409,
+      "ClickThroughRate": 0.72,
+      "Conversions": 98
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 7316,
+      "EngagementRate": 2.88,
+      "Impressions": 37801,
+      "ClickThroughRate": 0.96,
+      "Conversions": 73
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 4878,
+      "EngagementRate": 1.92,
+      "Impressions": 28046,
+      "ClickThroughRate": 0.6,
+      "Conversions": 49
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Rwanda-2-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Eric Habimana helps businesses automate accounting...",
+      "Engagement": 976,
+      "Clicks": 146,
+      "Conversions": 18,
+      "PostDate": "2026-08-25T14:16:52.0267700Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 1463,
+      "Clicks": 219,
+      "Conversions": 24,
+      "PostDate": "2026-08-22T14:16:52.0272287Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 610,
+      "Clicks": 98,
+      "Conversions": 12,
+      "PostDate": "2026-08-26T14:16:52.0275793Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.0282853Z",
+    "EndDate": "2026-08-27T14:16:52.0284922Z"
+  }
+}

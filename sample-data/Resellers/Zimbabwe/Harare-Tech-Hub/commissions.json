@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Zimbabwe-0",
+  "resellerName": "Harare Tech Hub",
+  "country": "Zimbabwe",
+  "currency": "USD",
+  "commissionRate": 25.0,
+  "tier": "Gold",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 107133.0,
+  "totalCommissionEarned": 26783.25,
+  "paidCommission": 25176.25,
+  "pendingCommission": 1607.00,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 8392.08,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 34282.56,
+      "commission": 8570.64,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 36425.22,
+      "commission": 9106.30,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 36425.22,
+      "commission": 9106.30,
+      "status": "Pending"
+    }
+  ]
+}

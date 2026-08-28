@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Zimbabwe-1",
+  "resellerName": "Zimbabwe Digital Partners",
+  "country": "Zimbabwe",
+  "currency": "USD",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 847025.0,
+  "totalCommissionEarned": 211756.25,
+  "paidCommission": 199050.88,
+  "pendingCommission": 12705.37,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 66350.29,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 271048.00,
+      "commission": 67762.00,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 287988.50,
+      "commission": 71997.12,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 287988.50,
+      "commission": 71997.12,
+      "status": "Pending"
+    }
+  ]
+}

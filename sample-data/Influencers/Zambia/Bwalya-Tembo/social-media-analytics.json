@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 425553,
+      "EngagementRate": 3.9,
+      "Impressions": 2212876,
+      "ClickThroughRate": 1.17,
+      "Conversions": 3404
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 255332,
+      "EngagementRate": 4.68,
+      "Impressions": 1319214,
+      "ClickThroughRate": 1.56,
+      "Conversions": 2553
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 170221,
+      "EngagementRate": 3.12,
+      "Impressions": 978772,
+      "ClickThroughRate": 0.98,
+      "Conversions": 1702
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zambia-2-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Bwalya Tembo helps businesses automate accounting...",
+      "Engagement": 34044,
+      "Clicks": 5107,
+      "Conversions": 638,
+      "PostDate": "2026-08-25T14:16:52.2248889Z"
+    },
+    {
+      "Id": "post-inf-Zambia-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 51066,
+      "Clicks": 7660,
+      "Conversions": 851,
+      "PostDate": "2026-08-22T14:16:52.2250013Z"
+    },
+    {
+      "Id": "post-inf-Zambia-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 21278,
+      "Clicks": 3404,
+      "Conversions": 426,
+      "PostDate": "2026-08-26T14:16:52.2250888Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.2252498Z",
+    "EndDate": "2026-08-27T14:16:52.2252822Z"
+  }
+}

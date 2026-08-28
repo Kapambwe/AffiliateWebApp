@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 90200,
+      "EngagementRate": 3.7,
+      "Impressions": 469040,
+      "ClickThroughRate": 1.11,
+      "Conversions": 722
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 54120,
+      "EngagementRate": 4.44,
+      "Impressions": 279620,
+      "ClickThroughRate": 1.48,
+      "Conversions": 541
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 36080,
+      "EngagementRate": 2.96,
+      "Impressions": 207460,
+      "ClickThroughRate": 0.92,
+      "Conversions": 361
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Morocco-3-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Salma Tazi helps businesses automate accounting...",
+      "Engagement": 7216,
+      "Clicks": 1082,
+      "Conversions": 135,
+      "PostDate": "2026-08-25T14:16:51.9400803Z"
+    },
+    {
+      "Id": "post-inf-Morocco-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 10824,
+      "Clicks": 1624,
+      "Conversions": 180,
+      "PostDate": "2026-08-22T14:16:51.9404869Z"
+    },
+    {
+      "Id": "post-inf-Morocco-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 4510,
+      "Clicks": 722,
+      "Conversions": 90,
+      "PostDate": "2026-08-26T14:16:51.9408260Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9416305Z",
+    "EndDate": "2026-08-27T14:16:51.9419372Z"
+  }
+}

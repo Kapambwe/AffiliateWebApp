@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Uganda-1",
+  "resellerName": "Uganda Digital Solutions",
+  "country": "Uganda",
+  "currency": "UGX",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1064508.0,
+  "totalCommissionEarned": 266127.0,
+  "paidCommission": 250159.38,
+  "pendingCommission": 15967.62,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 83386.46,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 340642.56,
+      "commission": 85160.64,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 361932.72,
+      "commission": 90483.18,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 361932.72,
+      "commission": 90483.18,
+      "status": "Pending"
+    }
+  ]
+}

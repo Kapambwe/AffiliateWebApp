@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 6459,
+      "EngagementRate": 4.3,
+      "Impressions": 33587,
+      "ClickThroughRate": 1.29,
+      "Conversions": 52
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 3875,
+      "EngagementRate": 5.16,
+      "Impressions": 20023,
+      "ClickThroughRate": 1.72,
+      "Conversions": 39
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 2584,
+      "EngagementRate": 3.44,
+      "Impressions": 14856,
+      "ClickThroughRate": 1.08,
+      "Conversions": 26
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Ghana-4-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Yaw Asante helps businesses automate accounting...",
+      "Engagement": 517,
+      "Clicks": 78,
+      "Conversions": 10,
+      "PostDate": "2026-08-25T14:16:51.7640835Z"
+    },
+    {
+      "Id": "post-inf-Ghana-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 775,
+      "Clicks": 116,
+      "Conversions": 13,
+      "PostDate": "2026-08-22T14:16:51.7641905Z"
+    },
+    {
+      "Id": "post-inf-Ghana-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 323,
+      "Clicks": 52,
+      "Conversions": 6,
+      "PostDate": "2026-08-26T14:16:51.7642448Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.7643772Z",
+    "EndDate": "2026-08-27T14:16:51.7644061Z"
+  }
+}

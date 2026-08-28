@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 233411,
+      "EngagementRate": 7.3,
+      "Impressions": 1213737,
+      "ClickThroughRate": 2.19,
+      "Conversions": 1867
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 140047,
+      "EngagementRate": 8.76,
+      "Impressions": 723574,
+      "ClickThroughRate": 2.92,
+      "Conversions": 1400
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 93364,
+      "EngagementRate": 5.84,
+      "Impressions": 536845,
+      "ClickThroughRate": 1.82,
+      "Conversions": 934
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zimbabwe-2-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Takudzwa Mpofu helps businesses automate accounting...",
+      "Engagement": 18673,
+      "Clicks": 2801,
+      "Conversions": 350,
+      "PostDate": "2026-08-25T14:16:52.3678282Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 28009,
+      "Clicks": 4201,
+      "Conversions": 467,
+      "PostDate": "2026-08-22T14:16:52.3681828Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 11671,
+      "Clicks": 1867,
+      "Conversions": 233,
+      "PostDate": "2026-08-26T14:16:52.3684395Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3690471Z",
+    "EndDate": "2026-08-27T14:16:52.3692144Z"
+  }
+}

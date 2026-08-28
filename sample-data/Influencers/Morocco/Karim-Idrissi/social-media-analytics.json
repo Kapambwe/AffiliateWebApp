@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 401602,
+      "EngagementRate": 6.3,
+      "Impressions": 2088330,
+      "ClickThroughRate": 1.89,
+      "Conversions": 3213
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 240961,
+      "EngagementRate": 7.56,
+      "Impressions": 1244966,
+      "ClickThroughRate": 2.52,
+      "Conversions": 2410
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 160641,
+      "EngagementRate": 5.04,
+      "Impressions": 923685,
+      "ClickThroughRate": 1.58,
+      "Conversions": 1606
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Morocco-2-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Karim Idrissi helps businesses automate accounting...",
+      "Engagement": 32128,
+      "Clicks": 4819,
+      "Conversions": 602,
+      "PostDate": "2026-08-25T14:16:51.9156685Z"
+    },
+    {
+      "Id": "post-inf-Morocco-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 48192,
+      "Clicks": 7229,
+      "Conversions": 803,
+      "PostDate": "2026-08-22T14:16:51.9160290Z"
+    },
+    {
+      "Id": "post-inf-Morocco-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 20080,
+      "Clicks": 3213,
+      "Conversions": 402,
+      "PostDate": "2026-08-26T14:16:51.9163549Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9170191Z",
+    "EndDate": "2026-08-27T14:16:51.9172215Z"
+  }
+}

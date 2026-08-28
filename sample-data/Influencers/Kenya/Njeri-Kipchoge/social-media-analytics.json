@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 429424,
+      "EngagementRate": 4.5,
+      "Impressions": 2233005,
+      "ClickThroughRate": 1.35,
+      "Conversions": 3435
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 257654,
+      "EngagementRate": 5.4,
+      "Impressions": 1331214,
+      "ClickThroughRate": 1.8,
+      "Conversions": 2577
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 171770,
+      "EngagementRate": 3.6,
+      "Impressions": 987675,
+      "ClickThroughRate": 1.12,
+      "Conversions": 1718
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Kenya-3-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Njeri Kipchoge helps businesses automate accounting...",
+      "Engagement": 34354,
+      "Clicks": 5153,
+      "Conversions": 644,
+      "PostDate": "2026-08-25T14:16:51.8084028Z"
+    },
+    {
+      "Id": "post-inf-Kenya-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 51531,
+      "Clicks": 7730,
+      "Conversions": 859,
+      "PostDate": "2026-08-22T14:16:51.8087309Z"
+    },
+    {
+      "Id": "post-inf-Kenya-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 21471,
+      "Clicks": 3435,
+      "Conversions": 429,
+      "PostDate": "2026-08-26T14:16:51.8089666Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8095335Z",
+    "EndDate": "2026-08-27T14:16:51.8096811Z"
+  }
+}

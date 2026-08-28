@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 55483,
+      "EngagementRate": 4.8,
+      "Impressions": 288512,
+      "ClickThroughRate": 1.44,
+      "Conversions": 444
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 33290,
+      "EngagementRate": 5.76,
+      "Impressions": 171997,
+      "ClickThroughRate": 1.92,
+      "Conversions": 333
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 22193,
+      "EngagementRate": 3.84,
+      "Impressions": 127611,
+      "ClickThroughRate": 1.2,
+      "Conversions": 222
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Tanzania-0-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Juma Mwangi helps businesses automate accounting...",
+      "Engagement": 4439,
+      "Clicks": 666,
+      "Conversions": 83,
+      "PostDate": "2026-08-25T14:16:52.1830063Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 6658,
+      "Clicks": 999,
+      "Conversions": 111,
+      "PostDate": "2026-08-22T14:16:52.1831216Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 2774,
+      "Clicks": 444,
+      "Conversions": 55,
+      "PostDate": "2026-08-26T14:16:52.1831947Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1833594Z",
+    "EndDate": "2026-08-27T14:16:52.1833936Z"
+  }
+}

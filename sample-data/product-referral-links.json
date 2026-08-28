@@ -1,0 +1,35 @@
+[
+  {
+    "id": "prl-001",
+    "productId": "prod-accounting",
+    "productName": "Accrual Accounting Suite",
+    "referralUrl": "/register/ACCOUNTING?ref=TECH15",
+    "shortUrl": "/r/acc-tech15",
+    "totalVisits": 850,
+    "signups": 42,
+    "totalCommission": 628.00,
+    "isActive": true
+  },
+  {
+    "id": "prl-002",
+    "productId": "prod-school",
+    "productName": "School Management Hub",
+    "referralUrl": "/register/SCHOOL?ref=TECH15",
+    "shortUrl": "/r/sch-tech15",
+    "totalVisits": 420,
+    "signups": 28,
+    "totalCommission": 412.50,
+    "isActive": true
+  },
+  {
+    "id": "prl-003",
+    "productId": "prod-legal",
+    "productName": "Lawyer Practice Pro",
+    "referralUrl": "/register/LEGAL?ref=TECH15",
+    "shortUrl": "/r/leg-tech15",
+    "totalVisits": 2100,
+    "signups": 95,
+    "totalCommission": 1480.00,
+    "isActive": true
+  }
+]

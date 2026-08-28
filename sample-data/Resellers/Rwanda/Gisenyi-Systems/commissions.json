@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Rwanda-2",
+  "resellerName": "Gisenyi Systems",
+  "country": "Rwanda",
+  "currency": "RWF",
+  "commissionRate": 25.0,
+  "tier": "Gold",
+  "status": "Active",
+  "totalSales": 80,
+  "activeCustomers": 80,
+  "totalRevenue": 124704.0,
+  "totalCommissionEarned": 31176.0,
+  "paidCommission": 29305.44,
+  "pendingCommission": 1870.56,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 9768.48,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 26,
+      "revenue": 39905.28,
+      "commission": 9976.32,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 27,
+      "revenue": 42399.36,
+      "commission": 10599.84,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 27,
+      "revenue": 42399.36,
+      "commission": 10599.84,
+      "status": "Pending"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "applications": [
+    {
+      "id": "app-accounting",
+      "name": "Accrual Accounting Suite",
+      "slug": "accounting",
+      "description": "Cloud accounting for SMEs and enterprises.",
+      "currency": "USD",
+      "monthlyPrice": 499,
+      "annualPrice": 4990,
+      "features": ["General Ledger", "Invoicing", "Bank Feeds", "Multi-entity"],
+      "testimonials": [
+        {
+          "quote": "Cut month-end close by 40%.",
+          "customerName": "Grace Phiri",
+          "title": "CFO",
+          "company": "Lusaka Retail Group"
+        }
+      ]
+    },
+    {
+      "id": "app-school",
+      "name": "School Management Hub",
+      "slug": "school",
+      "description": "Admissions, fees, and academic operations.",
+      "currency": "USD",
+      "monthlyPrice": 899,
+      "annualPrice": 8990,
+      "features": ["Admissions", "Fees", "Timetable", "Parent Portal"],
+      "testimonials": []
+    }
+  ],
+  "referralLinks": [
+    {
+      "id": "rl-001",
+      "referralCode": "TECH15",
+      "applicationId": "app-accounting",
+      "affiliateId": "aff-001",
+      "affiliateName": "Tech Influencer Pro",
+      "affiliateType": "SocialMediaInfluencer",
+      "createdDate": "2026-01-10T00:00:00Z"
+    },
+    {
+      "id": "rl-002",
+      "referralCode": "BIZ25",
+      "applicationId": "app-school",
+      "affiliateId": "aff-002",
+      "affiliateName": "Business Solutions Ltd",
+      "affiliateType": "Reseller",
+      "createdDate": "2026-02-01T00:00:00Z"
+    }
+  ],
+  "commissionRules": [
+    {
+      "affiliateId": "aff-001",
+      "applicationId": "app-accounting",
+      "planType": "Monthly",
+      "amount": 74.85,
+      "commissionRate": 0.15,
+      "monthlyCommission": 74.85,
+      "durationMonths": 12,
+      "currency": "USD",
+      "description": "15% of monthly plan for 12 months"
+    },
+    {
+      "affiliateId": "aff-001",
+      "applicationId": "app-accounting",
+      "planType": "Annual",
+      "amount": 748.50,
+      "commissionRate": 0.15,
+      "monthlyCommission": 62.38,
+      "durationMonths": 12,
+      "currency": "USD",
+      "description": "15% of annual plan, paid monthly"
+    }
+  ],
+  "registeredEmails": ["existing@example.com", "admin@centralhigh.edu"]
+}

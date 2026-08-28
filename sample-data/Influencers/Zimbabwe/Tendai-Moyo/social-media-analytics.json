@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 331421,
+      "EngagementRate": 2.6,
+      "Impressions": 1723389,
+      "ClickThroughRate": 0.78,
+      "Conversions": 2651
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 198853,
+      "EngagementRate": 3.12,
+      "Impressions": 1027405,
+      "ClickThroughRate": 1.04,
+      "Conversions": 1989
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 132568,
+      "EngagementRate": 2.08,
+      "Impressions": 762268,
+      "ClickThroughRate": 0.65,
+      "Conversions": 1326
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zimbabwe-0-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Tendai Moyo helps businesses automate accounting...",
+      "Engagement": 26514,
+      "Clicks": 3977,
+      "Conversions": 497,
+      "PostDate": "2026-08-25T14:16:52.3785001Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 39771,
+      "Clicks": 5966,
+      "Conversions": 663,
+      "PostDate": "2026-08-22T14:16:52.3786586Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 16571,
+      "Clicks": 2651,
+      "Conversions": 331,
+      "PostDate": "2026-08-26T14:16:52.3787599Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3789804Z",
+    "EndDate": "2026-08-27T14:16:52.3790289Z"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "usageSummaries": [
+    {
+      "planName": "Professional",
+      "subscriptionId": "11111111-1111-1111-1111-111111111111",
+      "periodStart": "2026-07-28T00:00:00Z",
+      "periodEnd": "2026-08-27T00:00:00Z",
+      "totalBillingAmount": 612.40,
+      "usageOverageCharges": 113.40,
+      "baseSubscriptionFee": 499.00,
+      "alerts": [
+        {
+          "id": "alert-001",
+          "customerId": "cust-001",
+          "customerName": "Central High School",
+          "alertType": "Quota",
+          "message": "Storage usage exceeded 80% of plan limit.",
+          "severity": "Warning",
+          "resourceType": "Storage",
+          "createdDate": "2026-08-20T00:00:00Z",
+          "isResolved": false,
+          "isDismissed": false
+        }
+      ],
+      "quotaStatuses": [
+        { "resourceType": "Seats", "used": 42, "limit": 50, "unit": "users", "status": "OK" },
+        { "resourceType": "Storage", "used": 86, "limit": 100, "unit": "GB", "status": "Warning" },
+        { "resourceType": "API", "used": 120000, "limit": 250000, "unit": "requests", "status": "OK" }
+      ],
+      "usageMetrics": {
+        "activeSeats": 42,
+        "licensedSeats": 50,
+        "totalLogins": 1840,
+        "uniqueUsersThisMonth": 46,
+        "uniqueUsersToday": 18,
+        "engagementScore": 78,
+        "engagementLevel": "High",
+        "averageSessionDurationMinutes": 34.5,
+        "concurrentUsersMax": 22,
+        "lastAccessDate": "2026-08-27T08:00:00Z",
+        "peakUsageTime": "09 AM - 12 PM",
+        "mostUsedFeatures": ["Invoicing", "Reports", "Bank Feeds"]
+      },
+      "storageMetrics": {
+        "usedStorageGB": 86,
+        "availableStorageGB": 14,
+        "totalFiles": 12450,
+        "totalFolders": 320,
+        "averageFileSizeMB": 7.1,
+        "dailyGrowthMB": 180,
+        "monthlyGrowthGB": 5.2,
+        "projectedStorageIn3MonthsGB": 102,
+        "projectedStorageIn6MonthsGB": 118,
+        "fileTypeStats": [
+          { "fileType": "PDF", "count": 4200, "totalSizeGB": 28, "averageSizeMB": 6.8, "percentage": 32 },
+          { "fileType": "XLSX", "count": 3100, "totalSizeGB": 22, "averageSizeMB": 7.3, "percentage": 26 }
+        ]
+      },
+      "trafficMetrics": {
+        "totalAPIRequests": 120000,
+        "successfulRequests": 118200,
+        "failedRequests": 1800,
+        "averageResponseTimeMs": 210,
+        "totalBandwidthGB": 48.5,
+        "inboundTrafficGB": 18.2,
+        "outboundTrafficGB": 30.3,
+        "requestsPerMinuteLimit": 600,
+        "peakRequestsPerMinute": 420
+      },
+      "computeMetrics": {
+        "computeUnitsUsed": 720,
+        "computeUnitsRemaining": 280,
+        "averageCPUUsagePercent": 41,
+        "averageMemoryUsageGB": 6.2,
+        "cpuHoursConsumed": 180,
+        "totalJobsProcessed": 940,
+        "successfulJobs": 910,
+        "failedJobs": 30,
+        "averageJobDurationMinutes": 4.2,
+        "jobsQueuedCount": 3
+      }
+    }
+  ],
+  "usageHistoryByCustomer": {
+    "cust-001": [
+      { "label": "Jun", "revenue": 499, "acquisitions": 2, "usage": 62 },
+      { "label": "Jul", "revenue": 540, "acquisitions": 3, "usage": 71 },
+      { "label": "Aug", "revenue": 612, "acquisitions": 1, "usage": 86 }
+    ]
+  },
+  "billingByCustomer": {
+    "cust-001": [
+      {
+        "id": "bill-001",
+        "date": "2026-06-01T00:00:00Z",
+        "paymentDate": "2026-06-02T00:00:00Z",
+        "invoiceNumber": "INV-2026-0601",
+        "invoiceName": "June subscription",
+        "amount": 499.00,
+        "status": "Paid",
+        "notes": ""
+      },
+      {
+        "id": "bill-002",
+        "date": "2026-07-01T00:00:00Z",
+        "paymentDate": "2026-07-03T00:00:00Z",
+        "invoiceNumber": "INV-2026-0701",
+        "invoiceName": "July subscription + overage",
+        "amount": 540.00,
+        "status": "Paid",
+        "notes": "Storage overage"
+      },
+      {
+        "id": "bill-003",
+        "date": "2026-08-01T00:00:00Z",
+        "paymentDate": "2026-08-05T00:00:00Z",
+        "invoiceNumber": "INV-2026-0801",
+        "invoiceName": "August subscription + overage",
+        "amount": 612.40,
+        "status": "Paid",
+        "notes": "API + storage overage"
+      }
+    ],
+    "cust-002": [
+      {
+        "id": "bill-101",
+        "date": "2026-08-01T00:00:00Z",
+        "paymentDate": "2026-08-10T00:00:00Z",
+        "invoiceNumber": "INV-2026-0810",
+        "invoiceName": "August subscription",
+        "amount": 299.00,
+        "status": "Pending",
+        "notes": "Awaiting PO"
+      }
+    ]
+  },
+  "quotas": [
+    {
+      "subscriptionId": "11111111-1111-1111-1111-111111111111",
+      "resourceType": "Storage",
+      "used": 86,
+      "limit": 100,
+      "unit": "GB",
+      "status": "Warning"
+    },
+    {
+      "subscriptionId": "11111111-1111-1111-1111-111111111111",
+      "resourceType": "Seats",
+      "used": 42,
+      "limit": 50,
+      "unit": "users",
+      "status": "OK"
+    }
+  ]
+}

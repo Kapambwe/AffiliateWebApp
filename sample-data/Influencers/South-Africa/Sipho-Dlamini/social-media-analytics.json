@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 398727,
+      "EngagementRate": 7.8,
+      "Impressions": 2073380,
+      "ClickThroughRate": 2.34,
+      "Conversions": 3190
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 239236,
+      "EngagementRate": 9.36,
+      "Impressions": 1236054,
+      "ClickThroughRate": 3.12,
+      "Conversions": 2392
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 159491,
+      "EngagementRate": 6.24,
+      "Impressions": 917072,
+      "ClickThroughRate": 1.95,
+      "Conversions": 1595
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-South-Africa-2-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Sipho Dlamini helps businesses automate accounting...",
+      "Engagement": 31898,
+      "Clicks": 4785,
+      "Conversions": 598,
+      "PostDate": "2026-08-25T14:16:52.1149883Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 47847,
+      "Clicks": 7177,
+      "Conversions": 797,
+      "PostDate": "2026-08-22T14:16:52.1153200Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 19936,
+      "Clicks": 3190,
+      "Conversions": 399,
+      "PostDate": "2026-08-26T14:16:52.1156218Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1162718Z",
+    "EndDate": "2026-08-27T14:16:52.1164273Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "totalEarnedThisMonth": 1250.75,
+  "pendingCommission": 340.25,
+  "commissionRate": 0.25,
+  "customers": [
+    {
+      "customerId": "cust-001",
+      "customerName": "John Kamara",
+      "companyName": "Kamara Tech Solutions",
+      "industry": "IT Services",
+      "country": "Zambia",
+      "systemUsed": "Accounting Software",
+      "usagePercentage": 85,
+      "lastActivity": "2026-08-25T00:00:00Z",
+      "status": "Active",
+      "commissionEarned": 45.50
+    },
+    {
+      "customerId": "cust-002",
+      "customerName": "Sarah Johnson",
+      "companyName": "Johnson & Associates",
+      "industry": "Accounting",
+      "country": "Kenya",
+      "systemUsed": "School Management System",
+      "usagePercentage": 92,
+      "lastActivity": "2026-08-26T00:00:00Z",
+      "status": "Active",
+      "commissionEarned": 62.75
+    },
+    {
+      "customerId": "cust-003",
+      "customerName": "Michael Sesay",
+      "companyName": "Sesay Consulting",
+      "industry": "Business Consulting",
+      "country": "Nigeria",
+      "systemUsed": "Accounting Software",
+      "usagePercentage": 78,
+      "lastActivity": "2026-08-24T00:00:00Z",
+      "status": "Active",
+      "commissionEarned": 38.25
+    }
+  ],
+  "paymentsReceived": [
+    {
+      "paymentId": "pay-001",
+      "paymentDate": "2026-08-22T00:00:00Z",
+      "customerName": "Acme Corporation",
+      "invoiceNumber": "INV-2024-001",
+      "amount": 150.00,
+      "paymentMethod": "Bank Transfer",
+      "status": "Paid"
+    },
+    {
+      "paymentId": "pay-002",
+      "paymentDate": "2026-08-24T00:00:00Z",
+      "customerName": "Global Tech Ltd",
+      "invoiceNumber": "INV-2024-002",
+      "amount": 200.00,
+      "paymentMethod": "PayPal",
+      "status": "Paid"
+    },
+    {
+      "paymentId": "pay-003",
+      "paymentDate": "2026-08-26T00:00:00Z",
+      "customerName": "FinanceHub Inc",
+      "invoiceNumber": "INV-2024-003",
+      "amount": 175.00,
+      "paymentMethod": "Credit Card",
+      "status": "Paid"
+    }
+  ],
+  "outstandingPayments": [
+    {
+      "paymentId": "out-001",
+      "invoiceDate": "2026-07-13T00:00:00Z",
+      "dueDate": "2026-08-12T00:00:00Z",
+      "customerName": "SmallBiz Solutions",
+      "invoiceNumber": "INV-2023-1245",
+      "amount": 89.50
+    },
+    {
+      "paymentId": "out-002",
+      "invoiceDate": "2026-07-28T00:00:00Z",
+      "dueDate": "2026-08-27T00:00:00Z",
+      "customerName": "Medical Clinic Plus",
+      "invoiceNumber": "INV-2024-0089",
+      "amount": 124.75
+    }
+  ],
+  "monthlyEarnings": [
+    { "category": "Jan", "value": 980.50 },
+    { "category": "Feb", "value": 1050.25 },
+    { "category": "Mar", "value": 1120.75 },
+    { "category": "Apr", "value": 1080.00 },
+    { "category": "May", "value": 1210.50 },
+    { "category": "Jun", "value": 1250.75 }
+  ]
+}

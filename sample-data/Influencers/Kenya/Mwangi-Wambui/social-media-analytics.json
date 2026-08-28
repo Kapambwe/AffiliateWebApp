@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 61280,
+      "EngagementRate": 2.9,
+      "Impressions": 318656,
+      "ClickThroughRate": 0.87,
+      "Conversions": 490
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 36768,
+      "EngagementRate": 3.48,
+      "Impressions": 189968,
+      "ClickThroughRate": 1.16,
+      "Conversions": 368
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 24512,
+      "EngagementRate": 2.32,
+      "Impressions": 140944,
+      "ClickThroughRate": 0.72,
+      "Conversions": 245
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Kenya-2-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Mwangi Wambui helps businesses automate accounting...",
+      "Engagement": 4902,
+      "Clicks": 735,
+      "Conversions": 92,
+      "PostDate": "2026-08-25T14:16:51.7973600Z"
+    },
+    {
+      "Id": "post-inf-Kenya-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 7354,
+      "Clicks": 1103,
+      "Conversions": 123,
+      "PostDate": "2026-08-22T14:16:51.7976754Z"
+    },
+    {
+      "Id": "post-inf-Kenya-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 3064,
+      "Clicks": 490,
+      "Conversions": 61,
+      "PostDate": "2026-08-26T14:16:51.7979687Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.7985313Z",
+    "EndDate": "2026-08-27T14:16:51.7986695Z"
+  }
+}

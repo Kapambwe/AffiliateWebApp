@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 96968,
+      "EngagementRate": 4.4,
+      "Impressions": 504234,
+      "ClickThroughRate": 1.32,
+      "Conversions": 776
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 58181,
+      "EngagementRate": 5.28,
+      "Impressions": 300601,
+      "ClickThroughRate": 1.76,
+      "Conversions": 582
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 38787,
+      "EngagementRate": 3.52,
+      "Impressions": 223026,
+      "ClickThroughRate": 1.1,
+      "Conversions": 388
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Nigeria-3-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Amaka Nwosu helps businesses automate accounting...",
+      "Engagement": 7757,
+      "Clicks": 1164,
+      "Conversions": 145,
+      "PostDate": "2026-08-25T14:16:51.9628973Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 11636,
+      "Clicks": 1745,
+      "Conversions": 194,
+      "PostDate": "2026-08-22T14:16:51.9630517Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 4848,
+      "Clicks": 776,
+      "Conversions": 97,
+      "PostDate": "2026-08-26T14:16:51.9631293Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9633129Z",
+    "EndDate": "2026-08-27T14:16:51.9633595Z"
+  }
+}

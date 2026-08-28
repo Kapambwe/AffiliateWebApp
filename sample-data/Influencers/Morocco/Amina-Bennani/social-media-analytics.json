@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 209765,
+      "EngagementRate": 7.1,
+      "Impressions": 1090778,
+      "ClickThroughRate": 2.13,
+      "Conversions": 1678
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 125859,
+      "EngagementRate": 8.52,
+      "Impressions": 650272,
+      "ClickThroughRate": 2.84,
+      "Conversions": 1259
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 83906,
+      "EngagementRate": 5.68,
+      "Impressions": 482459,
+      "ClickThroughRate": 1.78,
+      "Conversions": 839
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Morocco-1-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Amina Bennani helps businesses automate accounting...",
+      "Engagement": 16781,
+      "Clicks": 2517,
+      "Conversions": 315,
+      "PostDate": "2026-08-25T14:16:51.8974535Z"
+    },
+    {
+      "Id": "post-inf-Morocco-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 25172,
+      "Clicks": 3776,
+      "Conversions": 420,
+      "PostDate": "2026-08-22T14:16:51.8980796Z"
+    },
+    {
+      "Id": "post-inf-Morocco-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 10488,
+      "Clicks": 1678,
+      "Conversions": 210,
+      "PostDate": "2026-08-26T14:16:51.8985612Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8995908Z",
+    "EndDate": "2026-08-27T14:16:51.8998376Z"
+  }
+}

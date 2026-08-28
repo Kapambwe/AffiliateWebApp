@@ -1,0 +1,49 @@
+{
+  "salesScripts": [
+    {
+      "id": "script-001",
+      "title": "Cold Call Script - Small Business",
+      "category": "Cold Call",
+      "targetAudience": "Small Business Owners",
+      "introduction": "Hi [Name], this is [Your Name] from [Company]. I'm reaching out because I help businesses like yours improve their operations and save money. Do you have 2 minutes?",
+      "mainScript": "Many businesses in [their industry] struggle with [common pain point]. We've helped companies like [similar example] reduce their administrative work by 40% and improve their customer service. Would you be interested in a free demo to see how this could work for your business?",
+      "objectionHandling": "If 'I'm busy': I completely understand. Would tomorrow at [time] be better?\n\nIf 'Not interested': May I ask what would make this more relevant for you?\n\nIf 'Send me an email': Absolutely! I'll send you a quick overview. What's the best email?",
+      "closingLine": "Great! Let me schedule a 15-minute demo for you. What day works best - [offer two options]?",
+      "exampleConversation": "Rep: Hi Mr. Johnson, this is Sarah from Tech Solutions. I'm calling because we help businesses streamline their operations. Do you have a moment?\n\nProspect: What kind of operations?\n\nRep: Things like billing, inventory management, and reporting. Many businesses like yours save several hours per week. Have you ever struggled with keeping track of all your customers and payments?\n\nProspect: Oh yes, that's a constant challenge.\n\nRep: I thought so. We've helped several businesses in [their area] solve that. Would you be open to a quick 15-minute demo to see how it works?",
+      "duration": 5,
+      "viewCount": 245,
+      "successRate": 68,
+      "isActive": true
+    },
+    {
+      "id": "script-002",
+      "title": "WhatsApp Message Script",
+      "category": "Follow-up",
+      "targetAudience": "Warm Leads / Referrals",
+      "introduction": "Hi [Name]! I'm [Your Name]. [Referral Name] suggested I reach out to you.",
+      "mainScript": "I help businesses like yours digitize their operations - things like invoicing, inventory, and reporting. It's the same software that helped [referral] save [specific benefit].\n\nWould you be open to a quick call this week to see if it could help your business too?",
+      "objectionHandling": "If 'What does it cost?': We offer flexible pricing starting from [price] per month. I can send you our pricing guide.\n\nIf 'I'm not sure': No problem! Would it help if I showed you how it works in just 10 minutes?\n\nIf 'Not right now': I completely understand. Can I check back with you in a few months?",
+      "closingLine": "Perfect! Are you free on [Day] at [Time] for a quick call?",
+      "exampleConversation": "Message: Hi Mr. Johnson! Sarah from Tech Solutions here. John Smith suggested I reach out to you.",
+      "duration": 3,
+      "viewCount": 180,
+      "successRate": 72,
+      "isActive": true
+    },
+    {
+      "id": "script-003",
+      "title": "Follow-up Message Script",
+      "category": "Follow-up",
+      "targetAudience": "Previous Conversations / Warm Leads",
+      "introduction": "Hi [Name]! Following up on our conversation about [topic discussed].",
+      "mainScript": "I wanted to check if you had any questions about the software demo I sent. Many businesses in [their industry] have found it helpful because [specific benefit].\n\nIf you're ready to get started, I can help you set up your account today. Or if you need more time, just let me know when you'd like to chat.",
+      "objectionHandling": "If 'Still thinking about it': Of course! Is there anything specific you'd like me to clarify?\n\nIf 'Need to discuss with partner': Absolutely, that makes sense. When do you think you'll have a chance to talk?\n\nIf 'Price is an issue': I hear you. Let me see what options we have - we do offer flexible plans.",
+      "closingLine": "Let me know how I can help! I'm here if you have any questions.",
+      "exampleConversation": "Message: Hi Mr. Johnson! Just wanted to follow up on our chat about the software.",
+      "duration": 4,
+      "viewCount": 95,
+      "successRate": 61,
+      "isActive": true
+    }
+  ]
+}

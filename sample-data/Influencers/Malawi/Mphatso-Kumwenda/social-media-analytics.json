@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 207185,
+      "EngagementRate": 4.4,
+      "Impressions": 1077362,
+      "ClickThroughRate": 1.32,
+      "Conversions": 1657
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 124311,
+      "EngagementRate": 5.28,
+      "Impressions": 642274,
+      "ClickThroughRate": 1.76,
+      "Conversions": 1243
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 82874,
+      "EngagementRate": 3.52,
+      "Impressions": 476525,
+      "ClickThroughRate": 1.1,
+      "Conversions": 829
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Malawi-4-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Mphatso Kumwenda helps businesses automate accounting...",
+      "Engagement": 16575,
+      "Clicks": 2486,
+      "Conversions": 311,
+      "PostDate": "2026-08-25T14:16:51.8649611Z"
+    },
+    {
+      "Id": "post-inf-Malawi-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 24862,
+      "Clicks": 3729,
+      "Conversions": 414,
+      "PostDate": "2026-08-22T14:16:51.8651435Z"
+    },
+    {
+      "Id": "post-inf-Malawi-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 10359,
+      "Clicks": 1657,
+      "Conversions": 207,
+      "PostDate": "2026-08-26T14:16:51.8652361Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8654496Z",
+    "EndDate": "2026-08-27T14:16:51.8654979Z"
+  }
+}

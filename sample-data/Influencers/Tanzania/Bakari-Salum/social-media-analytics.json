@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Twitter",
+      "Followers": 466292,
+      "EngagementRate": 3.2,
+      "Impressions": 2424718,
+      "ClickThroughRate": 0.96,
+      "Conversions": 3730
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 279775,
+      "EngagementRate": 3.84,
+      "Impressions": 1445505,
+      "ClickThroughRate": 1.28,
+      "Conversions": 2798
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 186517,
+      "EngagementRate": 2.56,
+      "Impressions": 1072472,
+      "ClickThroughRate": 0.8,
+      "Conversions": 1865
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Tanzania-2-1",
+      "Platform": "Twitter",
+      "ContentPreview": "How Bakari Salum helps businesses automate accounting...",
+      "Engagement": 37303,
+      "Clicks": 5596,
+      "Conversions": 699,
+      "PostDate": "2026-08-25T14:16:52.1579085Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-2-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 55955,
+      "Clicks": 8393,
+      "Conversions": 933,
+      "PostDate": "2026-08-22T14:16:52.1582901Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-2-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 23315,
+      "Clicks": 3730,
+      "Conversions": 466,
+      "PostDate": "2026-08-26T14:16:52.1585595Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1591523Z",
+    "EndDate": "2026-08-27T14:16:52.1592976Z"
+  }
+}

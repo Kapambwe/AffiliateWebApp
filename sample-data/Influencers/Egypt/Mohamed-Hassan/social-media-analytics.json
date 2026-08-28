@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 402836,
+      "EngagementRate": 5.3,
+      "Impressions": 2094747,
+      "ClickThroughRate": 1.59,
+      "Conversions": 3223
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 241702,
+      "EngagementRate": 6.36,
+      "Impressions": 1248792,
+      "ClickThroughRate": 2.12,
+      "Conversions": 2417
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 161134,
+      "EngagementRate": 4.24,
+      "Impressions": 926523,
+      "ClickThroughRate": 1.32,
+      "Conversions": 1611
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Egypt-0-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Mohamed Hassan helps businesses automate accounting...",
+      "Engagement": 32227,
+      "Clicks": 4834,
+      "Conversions": 604,
+      "PostDate": "2026-08-25T14:16:51.6054337Z"
+    },
+    {
+      "Id": "post-inf-Egypt-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 48340,
+      "Clicks": 7251,
+      "Conversions": 806,
+      "PostDate": "2026-08-22T14:16:51.6055723Z"
+    },
+    {
+      "Id": "post-inf-Egypt-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 20142,
+      "Clicks": 3223,
+      "Conversions": 403,
+      "PostDate": "2026-08-26T14:16:51.6056270Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.6057621Z",
+    "EndDate": "2026-08-27T14:16:51.6057975Z"
+  }
+}

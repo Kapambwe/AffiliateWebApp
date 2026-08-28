@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 353213,
+      "EngagementRate": 4.5,
+      "Impressions": 1836708,
+      "ClickThroughRate": 1.35,
+      "Conversions": 2826
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 211928,
+      "EngagementRate": 5.4,
+      "Impressions": 1094960,
+      "ClickThroughRate": 1.8,
+      "Conversions": 2119
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 141285,
+      "EngagementRate": 3.6,
+      "Impressions": 812390,
+      "ClickThroughRate": 1.12,
+      "Conversions": 1413
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zimbabwe-1-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Rudo Ncube helps businesses automate accounting...",
+      "Engagement": 28257,
+      "Clicks": 4239,
+      "Conversions": 530,
+      "PostDate": "2026-08-25T14:16:52.3571380Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 42386,
+      "Clicks": 6358,
+      "Conversions": 706,
+      "PostDate": "2026-08-22T14:16:52.3573467Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 17661,
+      "Clicks": 2826,
+      "Conversions": 353,
+      "PostDate": "2026-08-26T14:16:52.3574748Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3577564Z",
+    "EndDate": "2026-08-27T14:16:52.3578797Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Tanzania-0",
+  "resellerName": "Dar Tech Solutions",
+  "country": "Tanzania",
+  "currency": "TZS",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1016192.0,
+  "totalCommissionEarned": 254048.0,
+  "paidCommission": 238805.12,
+  "pendingCommission": 15242.88,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 79601.71,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 325181.44,
+      "commission": 81295.36,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 345505.28,
+      "commission": 86376.32,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 345505.28,
+      "commission": 86376.32,
+      "status": "Pending"
+    }
+  ]
+}

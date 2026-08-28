@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Ethiopia-2",
+  "resellerName": "Bahir Dar Systems",
+  "country": "Ethiopia",
+  "currency": "ETB",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 244728.0,
+  "totalCommissionEarned": 61182.0,
+  "paidCommission": 57511.08,
+  "pendingCommission": 3670.92,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 19170.36,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 78312.96,
+      "commission": 19578.24,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 83207.52,
+      "commission": 20801.88,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 83207.52,
+      "commission": 20801.88,
+      "status": "Pending"
+    }
+  ]
+}

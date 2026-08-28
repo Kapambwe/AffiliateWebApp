@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "monthlyTarget": 5000,
+    "monthlyActual": 3600,
+    "pipelineValue": 105000,
+    "openDeals": 12,
+    "dealsWon": 8,
+    "winRate": 65,
+    "avgDealSize": 450,
+    "avgCloseDays": 21
+  },
+  "deals": [
+    { "customerId": "c-001", "company": "Kabwe Freight Ltd", "contact": "Kabwe Transport Services", "stage": "Negotiation", "value": 1800, "probability": 84, "closeDate": "2026-09-03T00:00:00Z" },
+    { "customerId": "c-002", "company": "Ndola Grains Co", "contact": "Ndola Agro Processing", "stage": "Proposal", "value": 1200, "probability": 72, "closeDate": "2026-09-10T00:00:00Z" },
+    { "customerId": "c-003", "company": "Acme Corp", "contact": "Bob Wilson", "stage": "Won", "value": 600, "probability": 100, "closeDate": "2026-08-22T00:00:00Z" },
+    { "customerId": "c-004", "company": "StartUp Ltd", "contact": "Alice Brown", "stage": "Discovery", "value": 400, "probability": 30, "closeDate": "2026-09-26T00:00:00Z" },
+    { "customerId": "c-005", "company": "TechCorp", "contact": "John Smith", "stage": "Negotiation", "value": 800, "probability": 80, "closeDate": "2026-09-03T00:00:00Z" }
+  ]
+}

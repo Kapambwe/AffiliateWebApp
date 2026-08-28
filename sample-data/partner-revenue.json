@@ -1,0 +1,14 @@
+{
+  "totalRevenue": 452800,
+  "monthlyRecurring": 38400,
+  "outstandingInvoices": 12,
+  "records": [
+    { "affiliateId": "", "source": "Greenwood Academy", "product": "Accounting Basic", "amount": 1250.00, "date": "2026-08-25T00:00:00Z", "status": "Paid" },
+    { "affiliateId": "", "source": "City Hospital Group", "product": "Payroll Pro", "amount": 4500.00, "date": "2026-08-22T00:00:00Z", "status": "Paid" },
+    { "affiliateId": "", "source": "TechSolutions Ltd", "product": "Accounting Basic", "amount": 850.50, "date": "2026-08-26T00:00:00Z", "status": "Pending" },
+    { "affiliateId": "", "source": "Global Logistics", "product": "Inventory Manager", "amount": 2100.00, "date": "2026-08-17T00:00:00Z", "status": "Paid" },
+    { "affiliateId": "", "source": "Premier Law Firm", "product": "Payroll Pro", "amount": 3200.00, "date": "2026-08-12T00:00:00Z", "status": "Paid" },
+    { "affiliateId": "", "source": "Central High School", "product": "School Management Hub", "amount": 4500.00, "date": "2026-08-10T00:00:00Z", "status": "Paid" },
+    { "affiliateId": "", "source": "Sunshine Microfinance", "product": "Banking & Finance", "amount": 3200.00, "date": "2026-08-05T00:00:00Z", "status": "Paid" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "partnerId": "par-Ethiopia-0",
+  "partnerName": "Ethiopian Enterprise Group",
+  "country": "Ethiopia",
+  "currency": "ETB",
+  "commissionRate": 35.0,
+  "partnershipLevel": "Diamond",
+  "status": "Active",
+  "totalProjects": 120,
+  "activeProjects": 24,
+  "totalCustomers": 120,
+  "totalRevenue": 975896.0,
+  "totalCommissionEarned": 341563.6,
+  "paidCommission": 324485.42,
+  "pendingCommission": 17078.18,
+  "lastPaymentDate": "2024-10-01T00:00:00Z",
+  "lastPaymentAmount": 108161.81,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Wire Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "projects": 38,
+      "revenue": 312286.72,
+      "commission": 109300.35,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "projects": 41,
+      "revenue": 331804.64,
+      "commission": 116131.62,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "projects": 41,
+      "revenue": 331804.64,
+      "commission": 116131.62,
+      "status": "Pending"
+    }
+  ]
+}

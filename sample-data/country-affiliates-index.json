@@ -1,0 +1,1089 @@
+{
+  "profiles": [
+    {
+      "id": "inf-Botswana-1",
+      "path": "Influencers/Botswana/Kefilwe-Gabaraane/profile.json",
+      "type": "Influencer",
+      "country": "Botswana",
+      "name": "Kefilwe Gabaraane"
+    },
+    {
+      "id": "inf-Botswana-3",
+      "path": "Influencers/Botswana/Lorato-Mogapi/profile.json",
+      "type": "Influencer",
+      "country": "Botswana",
+      "name": "Lorato Mogapi"
+    },
+    {
+      "id": "inf-Botswana-0",
+      "path": "Influencers/Botswana/Tebogo-Moatlhodi/profile.json",
+      "type": "Influencer",
+      "country": "Botswana",
+      "name": "Tebogo Moatlhodi"
+    },
+    {
+      "id": "inf-Botswana-4",
+      "path": "Influencers/Botswana/Thato-Seretse/profile.json",
+      "type": "Influencer",
+      "country": "Botswana",
+      "name": "Thato Seretse"
+    },
+    {
+      "id": "inf-Botswana-2",
+      "path": "Influencers/Botswana/Tshepo-Kgosidintsi/profile.json",
+      "type": "Influencer",
+      "country": "Botswana",
+      "name": "Tshepo Kgosidintsi"
+    },
+    {
+      "id": "inf-Egypt-2",
+      "path": "Influencers/Egypt/Ahmed-Ibrahim/profile.json",
+      "type": "Influencer",
+      "country": "Egypt",
+      "name": "Ahmed Ibrahim"
+    },
+    {
+      "id": "inf-Egypt-1",
+      "path": "Influencers/Egypt/Fatima-Mahmoud/profile.json",
+      "type": "Influencer",
+      "country": "Egypt",
+      "name": "Fatima Mahmoud"
+    },
+    {
+      "id": "inf-Egypt-0",
+      "path": "Influencers/Egypt/Mohamed-Hassan/profile.json",
+      "type": "Influencer",
+      "country": "Egypt",
+      "name": "Mohamed Hassan"
+    },
+    {
+      "id": "inf-Egypt-3",
+      "path": "Influencers/Egypt/Nour-Khalil/profile.json",
+      "type": "Influencer",
+      "country": "Egypt",
+      "name": "Nour Khalil"
+    },
+    {
+      "id": "inf-Egypt-4",
+      "path": "Influencers/Egypt/Omar-Samir/profile.json",
+      "type": "Influencer",
+      "country": "Egypt",
+      "name": "Omar Samir"
+    },
+    {
+      "id": "inf-Ethiopia-0",
+      "path": "Influencers/Ethiopia/Abebe-Bekele/profile.json",
+      "type": "Influencer",
+      "country": "Ethiopia",
+      "name": "Abebe Bekele"
+    },
+    {
+      "id": "inf-Ethiopia-4",
+      "path": "Influencers/Ethiopia/Dawit-Girma/profile.json",
+      "type": "Influencer",
+      "country": "Ethiopia",
+      "name": "Dawit Girma"
+    },
+    {
+      "id": "inf-Ethiopia-3",
+      "path": "Influencers/Ethiopia/Mulu-Tesfaye/profile.json",
+      "type": "Influencer",
+      "country": "Ethiopia",
+      "name": "Mulu Tesfaye"
+    },
+    {
+      "id": "inf-Ethiopia-1",
+      "path": "Influencers/Ethiopia/Tigist-Alemayehu/profile.json",
+      "type": "Influencer",
+      "country": "Ethiopia",
+      "name": "Tigist Alemayehu"
+    },
+    {
+      "id": "inf-Ethiopia-2",
+      "path": "Influencers/Ethiopia/Yohannes-Haile/profile.json",
+      "type": "Influencer",
+      "country": "Ethiopia",
+      "name": "Yohannes Haile"
+    },
+    {
+      "id": "inf-Ghana-1",
+      "path": "Influencers/Ghana/Akosua-Agyeman/profile.json",
+      "type": "Influencer",
+      "country": "Ghana",
+      "name": "Akosua Agyeman"
+    },
+    {
+      "id": "inf-Ghana-3",
+      "path": "Influencers/Ghana/Ama-Osei/profile.json",
+      "type": "Influencer",
+      "country": "Ghana",
+      "name": "Ama Osei"
+    },
+    {
+      "id": "inf-Ghana-2",
+      "path": "Influencers/Ghana/Kofi-Boateng/profile.json",
+      "type": "Influencer",
+      "country": "Ghana",
+      "name": "Kofi Boateng"
+    },
+    {
+      "id": "inf-Ghana-0",
+      "path": "Influencers/Ghana/Kwame-Mensah/profile.json",
+      "type": "Influencer",
+      "country": "Ghana",
+      "name": "Kwame Mensah"
+    },
+    {
+      "id": "inf-Ghana-4",
+      "path": "Influencers/Ghana/Yaw-Asante/profile.json",
+      "type": "Influencer",
+      "country": "Ghana",
+      "name": "Yaw Asante"
+    },
+    {
+      "id": "inf-Kenya-0",
+      "path": "Influencers/Kenya/Akinyi-Maina/profile.json",
+      "type": "Influencer",
+      "country": "Kenya",
+      "name": "Akinyi Maina"
+    },
+    {
+      "id": "inf-Kenya-1",
+      "path": "Influencers/Kenya/Kamau-Omondi/profile.json",
+      "type": "Influencer",
+      "country": "Kenya",
+      "name": "Kamau Omondi"
+    },
+    {
+      "id": "inf-Kenya-2",
+      "path": "Influencers/Kenya/Mwangi-Wambui/profile.json",
+      "type": "Influencer",
+      "country": "Kenya",
+      "name": "Mwangi Wambui"
+    },
+    {
+      "id": "inf-Kenya-3",
+      "path": "Influencers/Kenya/Njeri-Kipchoge/profile.json",
+      "type": "Influencer",
+      "country": "Kenya",
+      "name": "Njeri Kipchoge"
+    },
+    {
+      "id": "inf-Kenya-4",
+      "path": "Influencers/Kenya/Wanjiku-Kariuki/profile.json",
+      "type": "Influencer",
+      "country": "Kenya",
+      "name": "Wanjiku Kariuki"
+    },
+    {
+      "id": "inf-Malawi-3",
+      "path": "Influencers/Malawi/Chimwemwe-Mwale/profile.json",
+      "type": "Influencer",
+      "country": "Malawi",
+      "name": "Chimwemwe Mwale"
+    },
+    {
+      "id": "inf-Malawi-0",
+      "path": "Influencers/Malawi/Chisomo-Banda/profile.json",
+      "type": "Influencer",
+      "country": "Malawi",
+      "name": "Chisomo Banda"
+    },
+    {
+      "id": "inf-Malawi-2",
+      "path": "Influencers/Malawi/Kondwani-Chirwa/profile.json",
+      "type": "Influencer",
+      "country": "Malawi",
+      "name": "Kondwani Chirwa"
+    },
+    {
+      "id": "inf-Malawi-4",
+      "path": "Influencers/Malawi/Mphatso-Kumwenda/profile.json",
+      "type": "Influencer",
+      "country": "Malawi",
+      "name": "Mphatso Kumwenda"
+    },
+    {
+      "id": "inf-Malawi-1",
+      "path": "Influencers/Malawi/Thoko-Phiri/profile.json",
+      "type": "Influencer",
+      "country": "Malawi",
+      "name": "Thoko Phiri"
+    },
+    {
+      "id": "inf-Morocco-1",
+      "path": "Influencers/Morocco/Amina-Bennani/profile.json",
+      "type": "Influencer",
+      "country": "Morocco",
+      "name": "Amina Bennani"
+    },
+    {
+      "id": "inf-Morocco-2",
+      "path": "Influencers/Morocco/Karim-Idrissi/profile.json",
+      "type": "Influencer",
+      "country": "Morocco",
+      "name": "Karim Idrissi"
+    },
+    {
+      "id": "inf-Morocco-4",
+      "path": "Influencers/Morocco/Mehdi-Fassi/profile.json",
+      "type": "Influencer",
+      "country": "Morocco",
+      "name": "Mehdi Fassi"
+    },
+    {
+      "id": "inf-Morocco-3",
+      "path": "Influencers/Morocco/Salma-Tazi/profile.json",
+      "type": "Influencer",
+      "country": "Morocco",
+      "name": "Salma Tazi"
+    },
+    {
+      "id": "inf-Morocco-0",
+      "path": "Influencers/Morocco/Youssef-Alami/profile.json",
+      "type": "Influencer",
+      "country": "Morocco",
+      "name": "Youssef Alami"
+    },
+    {
+      "id": "inf-Nigeria-3",
+      "path": "Influencers/Nigeria/Amaka-Nwosu/profile.json",
+      "type": "Influencer",
+      "country": "Nigeria",
+      "name": "Amaka Nwosu"
+    },
+    {
+      "id": "inf-Nigeria-0",
+      "path": "Influencers/Nigeria/Chukwu-Okafor/profile.json",
+      "type": "Influencer",
+      "country": "Nigeria",
+      "name": "Chukwu Okafor"
+    },
+    {
+      "id": "inf-Nigeria-1",
+      "path": "Influencers/Nigeria/Ngozi-Adeleke/profile.json",
+      "type": "Influencer",
+      "country": "Nigeria",
+      "name": "Ngozi Adeleke"
+    },
+    {
+      "id": "inf-Nigeria-2",
+      "path": "Influencers/Nigeria/Olumide-Balogun/profile.json",
+      "type": "Influencer",
+      "country": "Nigeria",
+      "name": "Olumide Balogun"
+    },
+    {
+      "id": "inf-Nigeria-4",
+      "path": "Influencers/Nigeria/Tunde-Adeyemi/profile.json",
+      "type": "Influencer",
+      "country": "Nigeria",
+      "name": "Tunde Adeyemi"
+    },
+    {
+      "id": "inf-Rwanda-3",
+      "path": "Influencers/Rwanda/Divine-Uwase/profile.json",
+      "type": "Influencer",
+      "country": "Rwanda",
+      "name": "Divine Uwase"
+    },
+    {
+      "id": "inf-Rwanda-2",
+      "path": "Influencers/Rwanda/Eric-Habimana/profile.json",
+      "type": "Influencer",
+      "country": "Rwanda",
+      "name": "Eric Habimana"
+    },
+    {
+      "id": "inf-Rwanda-1",
+      "path": "Influencers/Rwanda/Grace-Mukamana/profile.json",
+      "type": "Influencer",
+      "country": "Rwanda",
+      "name": "Grace Mukamana"
+    },
+    {
+      "id": "inf-Rwanda-0",
+      "path": "Influencers/Rwanda/Jean-Paul-Uwimana/profile.json",
+      "type": "Influencer",
+      "country": "Rwanda",
+      "name": "Jean Paul Uwimana"
+    },
+    {
+      "id": "inf-Rwanda-4",
+      "path": "Influencers/Rwanda/Patrick-Nkurunziza/profile.json",
+      "type": "Influencer",
+      "country": "Rwanda",
+      "name": "Patrick Nkurunziza"
+    },
+    {
+      "id": "inf-South-Africa-4",
+      "path": "Influencers/South-Africa/Mandla-Mbatha/profile.json",
+      "type": "Influencer",
+      "country": "South-Africa",
+      "name": "Mandla Mbatha"
+    },
+    {
+      "id": "inf-South-Africa-1",
+      "path": "Influencers/South-Africa/Nomsa-Khumalo/profile.json",
+      "type": "Influencer",
+      "country": "South-Africa",
+      "name": "Nomsa Khumalo"
+    },
+    {
+      "id": "inf-South-Africa-2",
+      "path": "Influencers/South-Africa/Sipho-Dlamini/profile.json",
+      "type": "Influencer",
+      "country": "South-Africa",
+      "name": "Sipho Dlamini"
+    },
+    {
+      "id": "inf-South-Africa-0",
+      "path": "Influencers/South-Africa/Thabo-Molefe/profile.json",
+      "type": "Influencer",
+      "country": "South-Africa",
+      "name": "Thabo Molefe"
+    },
+    {
+      "id": "inf-South-Africa-3",
+      "path": "Influencers/South-Africa/Zanele-Nkosi/profile.json",
+      "type": "Influencer",
+      "country": "South-Africa",
+      "name": "Zanele Nkosi"
+    },
+    {
+      "id": "inf-Tanzania-1",
+      "path": "Influencers/Tanzania/Amina-Hassan/profile.json",
+      "type": "Influencer",
+      "country": "Tanzania",
+      "name": "Amina Hassan"
+    },
+    {
+      "id": "inf-Tanzania-2",
+      "path": "Influencers/Tanzania/Bakari-Salum/profile.json",
+      "type": "Influencer",
+      "country": "Tanzania",
+      "name": "Bakari Salum"
+    },
+    {
+      "id": "inf-Tanzania-3",
+      "path": "Influencers/Tanzania/Fatuma-Ali/profile.json",
+      "type": "Influencer",
+      "country": "Tanzania",
+      "name": "Fatuma Ali"
+    },
+    {
+      "id": "inf-Tanzania-4",
+      "path": "Influencers/Tanzania/Hamisi-Rashid/profile.json",
+      "type": "Influencer",
+      "country": "Tanzania",
+      "name": "Hamisi Rashid"
+    },
+    {
+      "id": "inf-Tanzania-0",
+      "path": "Influencers/Tanzania/Juma-Mwangi/profile.json",
+      "type": "Influencer",
+      "country": "Tanzania",
+      "name": "Juma Mwangi"
+    },
+    {
+      "id": "inf-Uganda-1",
+      "path": "Influencers/Uganda/Kato-Ssemakula/profile.json",
+      "type": "Influencer",
+      "country": "Uganda",
+      "name": "Kato Ssemakula"
+    },
+    {
+      "id": "inf-Uganda-4",
+      "path": "Influencers/Uganda/Nabirye-Katende/profile.json",
+      "type": "Influencer",
+      "country": "Uganda",
+      "name": "Nabirye Katende"
+    },
+    {
+      "id": "inf-Uganda-0",
+      "path": "Influencers/Uganda/Nakato-Musoke/profile.json",
+      "type": "Influencer",
+      "country": "Uganda",
+      "name": "Nakato Musoke"
+    },
+    {
+      "id": "inf-Uganda-2",
+      "path": "Influencers/Uganda/Namuli-Okello/profile.json",
+      "type": "Influencer",
+      "country": "Uganda",
+      "name": "Namuli Okello"
+    },
+    {
+      "id": "inf-Uganda-3",
+      "path": "Influencers/Uganda/Wasswa-Mukasa/profile.json",
+      "type": "Influencer",
+      "country": "Uganda",
+      "name": "Wasswa Mukasa"
+    },
+    {
+      "id": "inf-Zambia-2",
+      "path": "Influencers/Zambia/Bwalya-Tembo/profile.json",
+      "type": "Influencer",
+      "country": "Zambia",
+      "name": "Bwalya Tembo"
+    },
+    {
+      "id": "inf-Zambia-1",
+      "path": "Influencers/Zambia/Chanda-Mwansa/profile.json",
+      "type": "Influencer",
+      "country": "Zambia",
+      "name": "Chanda Mwansa"
+    },
+    {
+      "id": "INF-ZM-001",
+      "path": "Influencers/Zambia/Chizara-Memory-Phiri/profile.json",
+      "type": null,
+      "country": "Zambia",
+      "name": "Chizara Memory Phiri"
+    },
+    {
+      "id": "inf-Zambia-4",
+      "path": "Influencers/Zambia/Kabwe-Sakala/profile.json",
+      "type": "Influencer",
+      "country": "Zambia",
+      "name": "Kabwe Sakala"
+    },
+    {
+      "id": "inf-Zambia-0",
+      "path": "Influencers/Zambia/Mulenga-Phiri/profile.json",
+      "type": "Influencer",
+      "country": "Zambia",
+      "name": "Mulenga Phiri"
+    },
+    {
+      "id": "inf-Zambia-3",
+      "path": "Influencers/Zambia/Mutale-Banda/profile.json",
+      "type": "Influencer",
+      "country": "Zambia",
+      "name": "Mutale Banda"
+    },
+    {
+      "id": "inf-Zimbabwe-3",
+      "path": "Influencers/Zimbabwe/Chipo-Sibanda/profile.json",
+      "type": "Influencer",
+      "country": "Zimbabwe",
+      "name": "Chipo Sibanda"
+    },
+    {
+      "id": "inf-Zimbabwe-4",
+      "path": "Influencers/Zimbabwe/Farai-Gumbo/profile.json",
+      "type": "Influencer",
+      "country": "Zimbabwe",
+      "name": "Farai Gumbo"
+    },
+    {
+      "id": "inf-Zimbabwe-1",
+      "path": "Influencers/Zimbabwe/Rudo-Ncube/profile.json",
+      "type": "Influencer",
+      "country": "Zimbabwe",
+      "name": "Rudo Ncube"
+    },
+    {
+      "id": "inf-Zimbabwe-2",
+      "path": "Influencers/Zimbabwe/Takudzwa-Mpofu/profile.json",
+      "type": "Influencer",
+      "country": "Zimbabwe",
+      "name": "Takudzwa Mpofu"
+    },
+    {
+      "id": "inf-Zimbabwe-0",
+      "path": "Influencers/Zimbabwe/Tendai-Moyo/profile.json",
+      "type": "Influencer",
+      "country": "Zimbabwe",
+      "name": "Tendai Moyo"
+    },
+    {
+      "id": "par-Botswana-1",
+      "path": "Partners/Botswana/Botswana-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "Botswana",
+      "name": "Botswana Integration Group"
+    },
+    {
+      "id": "par-Botswana-0",
+      "path": "Partners/Botswana/Kalahari-Enterprise-Partners/profile.json",
+      "type": "Partner",
+      "country": "Botswana",
+      "name": "Kalahari Enterprise Partners"
+    },
+    {
+      "id": "par-Botswana-2",
+      "path": "Partners/Botswana/Okavango-Solutions/profile.json",
+      "type": "Partner",
+      "country": "Botswana",
+      "name": "Okavango Solutions"
+    },
+    {
+      "id": "par-Egypt-1",
+      "path": "Partners/Egypt/Egyptian-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "Egypt",
+      "name": "Egyptian Integration Group"
+    },
+    {
+      "id": "par-Egypt-0",
+      "path": "Partners/Egypt/Nile-Valley-Enterprise/profile.json",
+      "type": "Partner",
+      "country": "Egypt",
+      "name": "Nile Valley Enterprise"
+    },
+    {
+      "id": "par-Egypt-2",
+      "path": "Partners/Egypt/Pyramid-Solutions-Partners/profile.json",
+      "type": "Partner",
+      "country": "Egypt",
+      "name": "Pyramid Solutions Partners"
+    },
+    {
+      "id": "par-Ethiopia-1",
+      "path": "Partners/Ethiopia/Abyssinia-Integration/profile.json",
+      "type": "Partner",
+      "country": "Ethiopia",
+      "name": "Abyssinia Integration"
+    },
+    {
+      "id": "par-Ethiopia-0",
+      "path": "Partners/Ethiopia/Ethiopian-Enterprise-Group/profile.json",
+      "type": "Partner",
+      "country": "Ethiopia",
+      "name": "Ethiopian Enterprise Group"
+    },
+    {
+      "id": "par-Ethiopia-2",
+      "path": "Partners/Ethiopia/Rift-Valley-Partners/profile.json",
+      "type": "Partner",
+      "country": "Ethiopia",
+      "name": "Rift Valley Partners"
+    },
+    {
+      "id": "par-Ghana-2",
+      "path": "Partners/Ghana/Ashanti-Solutions-Group/profile.json",
+      "type": "Partner",
+      "country": "Ghana",
+      "name": "Ashanti Solutions Group"
+    },
+    {
+      "id": "par-Ghana-1",
+      "path": "Partners/Ghana/Ghana-Integration-Partners/profile.json",
+      "type": "Partner",
+      "country": "Ghana",
+      "name": "Ghana Integration Partners"
+    },
+    {
+      "id": "par-Ghana-0",
+      "path": "Partners/Ghana/Gold-Coast-Enterprise/profile.json",
+      "type": "Partner",
+      "country": "Ghana",
+      "name": "Gold Coast Enterprise"
+    },
+    {
+      "id": "par-Kenya-0",
+      "path": "Partners/Kenya/East-Africa-Enterprise/profile.json",
+      "type": "Partner",
+      "country": "Kenya",
+      "name": "East Africa Enterprise"
+    },
+    {
+      "id": "par-Kenya-1",
+      "path": "Partners/Kenya/Kenya-Integration-Partners/profile.json",
+      "type": "Partner",
+      "country": "Kenya",
+      "name": "Kenya Integration Partners"
+    },
+    {
+      "id": "par-Kenya-2",
+      "path": "Partners/Kenya/Maasai-Solutions-Group/profile.json",
+      "type": "Partner",
+      "country": "Kenya",
+      "name": "Maasai Solutions Group"
+    },
+    {
+      "id": "par-Malawi-0",
+      "path": "Partners/Malawi/Lake-Malawi-Systems/profile.json",
+      "type": "Partner",
+      "country": "Malawi",
+      "name": "Lake Malawi Systems"
+    },
+    {
+      "id": "par-Malawi-1",
+      "path": "Partners/Malawi/Malawi-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "Malawi",
+      "name": "Malawi Integration Group"
+    },
+    {
+      "id": "par-Malawi-2",
+      "path": "Partners/Malawi/Shire-Partners/profile.json",
+      "type": "Partner",
+      "country": "Malawi",
+      "name": "Shire Partners"
+    },
+    {
+      "id": "par-Morocco-1",
+      "path": "Partners/Morocco/Atlas-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "Morocco",
+      "name": "Atlas Integration Group"
+    },
+    {
+      "id": "par-Morocco-0",
+      "path": "Partners/Morocco/Maghreb-Enterprise-Partners/profile.json",
+      "type": "Partner",
+      "country": "Morocco",
+      "name": "Maghreb Enterprise Partners"
+    },
+    {
+      "id": "par-Morocco-2",
+      "path": "Partners/Morocco/Moroccan-Solutions-Network/profile.json",
+      "type": "Partner",
+      "country": "Morocco",
+      "name": "Moroccan Solutions Network"
+    },
+    {
+      "id": "par-Nigeria-2",
+      "path": "Partners/Nigeria/Niger-Delta-Partners/profile.json",
+      "type": "Partner",
+      "country": "Nigeria",
+      "name": "Niger Delta Partners"
+    },
+    {
+      "id": "par-Nigeria-1",
+      "path": "Partners/Nigeria/Nigerian-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "Nigeria",
+      "name": "Nigerian Integration Group"
+    },
+    {
+      "id": "par-Nigeria-0",
+      "path": "Partners/Nigeria/West-Africa-Enterprise/profile.json",
+      "type": "Partner",
+      "country": "Nigeria",
+      "name": "West Africa Enterprise"
+    },
+    {
+      "id": "par-Rwanda-0",
+      "path": "Partners/Rwanda/Land-of-Thousand-Hills-Partners/profile.json",
+      "type": "Partner",
+      "country": "Rwanda",
+      "name": "Land of Thousand Hills Partners"
+    },
+    {
+      "id": "par-Rwanda-1",
+      "path": "Partners/Rwanda/Rwanda-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "Rwanda",
+      "name": "Rwanda Integration Group"
+    },
+    {
+      "id": "par-Rwanda-2",
+      "path": "Partners/Rwanda/Virunga-Solutions/profile.json",
+      "type": "Partner",
+      "country": "Rwanda",
+      "name": "Virunga Solutions"
+    },
+    {
+      "id": "par-South-Africa-0",
+      "path": "Partners/South-Africa/African-Enterprise-Partners/profile.json",
+      "type": "Partner",
+      "country": "South-Africa",
+      "name": "African Enterprise Partners"
+    },
+    {
+      "id": "par-South-Africa-1",
+      "path": "Partners/South-Africa/SA-Integration-Group/profile.json",
+      "type": "Partner",
+      "country": "South-Africa",
+      "name": "SA Integration Group"
+    },
+    {
+      "id": "par-South-Africa-2",
+      "path": "Partners/South-Africa/Ubuntu-Solutions/profile.json",
+      "type": "Partner",
+      "country": "South-Africa",
+      "name": "Ubuntu Solutions"
+    },
+    {
+      "id": "par-Tanzania-0",
+      "path": "Partners/Tanzania/Serengeti-Enterprise-Partners/profile.json",
+      "type": "Partner",
+      "country": "Tanzania",
+      "name": "Serengeti Enterprise Partners"
+    },
+    {
+      "id": "par-Tanzania-2",
+      "path": "Partners/Tanzania/Tanzania-Solutions-Group/profile.json",
+      "type": "Partner",
+      "country": "Tanzania",
+      "name": "Tanzania Solutions Group"
+    },
+    {
+      "id": "par-Tanzania-1",
+      "path": "Partners/Tanzania/Zanzibar-Integration/profile.json",
+      "type": "Partner",
+      "country": "Tanzania",
+      "name": "Zanzibar Integration"
+    },
+    {
+      "id": "par-Uganda-2",
+      "path": "Partners/Uganda/Nile-Integration-Systems/profile.json",
+      "type": "Partner",
+      "country": "Uganda",
+      "name": "Nile Integration Systems"
+    },
+    {
+      "id": "par-Uganda-0",
+      "path": "Partners/Uganda/Pearl-Africa-Partners/profile.json",
+      "type": "Partner",
+      "country": "Uganda",
+      "name": "Pearl Africa Partners"
+    },
+    {
+      "id": "par-Uganda-1",
+      "path": "Partners/Uganda/Uganda-Enterprise-Group/profile.json",
+      "type": "Partner",
+      "country": "Uganda",
+      "name": "Uganda Enterprise Group"
+    },
+    {
+      "id": "par-Zambia-2",
+      "path": "Partners/Zambia/Victoria-Falls-Solutions/profile.json",
+      "type": "Partner",
+      "country": "Zambia",
+      "name": "Victoria Falls Solutions"
+    },
+    {
+      "id": "par-Zambia-0",
+      "path": "Partners/Zambia/Zambezi-Enterprise-Group/profile.json",
+      "type": "Partner",
+      "country": "Zambia",
+      "name": "Zambezi Enterprise Group"
+    },
+    {
+      "id": "par-Zambia-1",
+      "path": "Partners/Zambia/Zambia-Integration-Partners/profile.json",
+      "type": "Partner",
+      "country": "Zambia",
+      "name": "Zambia Integration Partners"
+    },
+    {
+      "id": "par-Zimbabwe-2",
+      "path": "Partners/Zimbabwe/Victoria-Partners/profile.json",
+      "type": "Partner",
+      "country": "Zimbabwe",
+      "name": "Victoria Partners"
+    },
+    {
+      "id": "par-Zimbabwe-1",
+      "path": "Partners/Zimbabwe/Zambezi-Integration/profile.json",
+      "type": "Partner",
+      "country": "Zimbabwe",
+      "name": "Zambezi Integration"
+    },
+    {
+      "id": "par-Zimbabwe-0",
+      "path": "Partners/Zimbabwe/Zimbabwe-Enterprise-Systems/profile.json",
+      "type": "Partner",
+      "country": "Zimbabwe",
+      "name": "Zimbabwe Enterprise Systems"
+    },
+    {
+      "id": "res-Botswana-1",
+      "path": "Resellers/Botswana/Botswana-Digital-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Botswana",
+      "name": "Botswana Digital Solutions"
+    },
+    {
+      "id": "res-Botswana-2",
+      "path": "Resellers/Botswana/Francistown-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Botswana",
+      "name": "Francistown Systems"
+    },
+    {
+      "id": "res-Botswana-0",
+      "path": "Resellers/Botswana/Gaborone-Tech-Hub/profile.json",
+      "type": "Reseller",
+      "country": "Botswana",
+      "name": "Gaborone Tech Hub"
+    },
+    {
+      "id": "res-Egypt-2",
+      "path": "Resellers/Egypt/Alexandria-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Egypt",
+      "name": "Alexandria Systems"
+    },
+    {
+      "id": "res-Egypt-0",
+      "path": "Resellers/Egypt/Cairo-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Egypt",
+      "name": "Cairo Tech Solutions"
+    },
+    {
+      "id": "res-Egypt-1",
+      "path": "Resellers/Egypt/Egypt-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Egypt",
+      "name": "Egypt Digital Partners"
+    },
+    {
+      "id": "res-Ethiopia-0",
+      "path": "Resellers/Ethiopia/Addis-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Ethiopia",
+      "name": "Addis Tech Solutions"
+    },
+    {
+      "id": "res-Ethiopia-2",
+      "path": "Resellers/Ethiopia/Bahir-Dar-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Ethiopia",
+      "name": "Bahir Dar Systems"
+    },
+    {
+      "id": "res-Ethiopia-1",
+      "path": "Resellers/Ethiopia/Ethiopia-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Ethiopia",
+      "name": "Ethiopia Digital Partners"
+    },
+    {
+      "id": "res-Ghana-0",
+      "path": "Resellers/Ghana/Accra-Tech-Hub/profile.json",
+      "type": "Reseller",
+      "country": "Ghana",
+      "name": "Accra Tech Hub"
+    },
+    {
+      "id": "res-Ghana-1",
+      "path": "Resellers/Ghana/Ghana-Digital-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Ghana",
+      "name": "Ghana Digital Solutions"
+    },
+    {
+      "id": "res-Ghana-2",
+      "path": "Resellers/Ghana/Kumasi-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Ghana",
+      "name": "Kumasi Systems"
+    },
+    {
+      "id": "res-Kenya-1",
+      "path": "Resellers/Kenya/Kenya-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Kenya",
+      "name": "Kenya Digital Partners"
+    },
+    {
+      "id": "res-Kenya-2",
+      "path": "Resellers/Kenya/Mombasa-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Kenya",
+      "name": "Mombasa Systems"
+    },
+    {
+      "id": "res-Kenya-0",
+      "path": "Resellers/Kenya/Nairobi-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Kenya",
+      "name": "Nairobi Tech Solutions"
+    },
+    {
+      "id": "res-Malawi-2",
+      "path": "Resellers/Malawi/Blantyre-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Malawi",
+      "name": "Blantyre Solutions"
+    },
+    {
+      "id": "res-Malawi-0",
+      "path": "Resellers/Malawi/Lilongwe-Tech-Hub/profile.json",
+      "type": "Reseller",
+      "country": "Malawi",
+      "name": "Lilongwe Tech Hub"
+    },
+    {
+      "id": "res-Malawi-1",
+      "path": "Resellers/Malawi/Malawi-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Malawi",
+      "name": "Malawi Digital Partners"
+    },
+    {
+      "id": "res-Morocco-0",
+      "path": "Resellers/Morocco/Casablanca-Tech-Hub/profile.json",
+      "type": "Reseller",
+      "country": "Morocco",
+      "name": "Casablanca Tech Hub"
+    },
+    {
+      "id": "res-Morocco-1",
+      "path": "Resellers/Morocco/Morocco-Digital-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Morocco",
+      "name": "Morocco Digital Solutions"
+    },
+    {
+      "id": "res-Morocco-2",
+      "path": "Resellers/Morocco/Rabat-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Morocco",
+      "name": "Rabat Systems"
+    },
+    {
+      "id": "res-Nigeria-2",
+      "path": "Resellers/Nigeria/Abuja-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Nigeria",
+      "name": "Abuja Systems"
+    },
+    {
+      "id": "res-Nigeria-0",
+      "path": "Resellers/Nigeria/Lagos-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Nigeria",
+      "name": "Lagos Tech Solutions"
+    },
+    {
+      "id": "res-Nigeria-1",
+      "path": "Resellers/Nigeria/Nigeria-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Nigeria",
+      "name": "Nigeria Digital Partners"
+    },
+    {
+      "id": "res-Rwanda-2",
+      "path": "Resellers/Rwanda/Gisenyi-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Rwanda",
+      "name": "Gisenyi Systems"
+    },
+    {
+      "id": "res-Rwanda-0",
+      "path": "Resellers/Rwanda/Kigali-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Rwanda",
+      "name": "Kigali Tech Solutions"
+    },
+    {
+      "id": "res-Rwanda-1",
+      "path": "Resellers/Rwanda/Rwanda-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Rwanda",
+      "name": "Rwanda Digital Partners"
+    },
+    {
+      "id": "res-South-Africa-0",
+      "path": "Resellers/South-Africa/Cape-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "South-Africa",
+      "name": "Cape Tech Solutions"
+    },
+    {
+      "id": "res-South-Africa-2",
+      "path": "Resellers/South-Africa/Durban-Systems/profile.json",
+      "type": "Reseller",
+      "country": "South-Africa",
+      "name": "Durban Systems"
+    },
+    {
+      "id": "res-South-Africa-1",
+      "path": "Resellers/South-Africa/Johannesburg-Digital/profile.json",
+      "type": "Reseller",
+      "country": "South-Africa",
+      "name": "Johannesburg Digital"
+    },
+    {
+      "id": "res-Tanzania-0",
+      "path": "Resellers/Tanzania/Dar-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Tanzania",
+      "name": "Dar Tech Solutions"
+    },
+    {
+      "id": "res-Tanzania-2",
+      "path": "Resellers/Tanzania/Kilimanjaro-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Tanzania",
+      "name": "Kilimanjaro Systems"
+    },
+    {
+      "id": "res-Tanzania-1",
+      "path": "Resellers/Tanzania/Tanzania-Digital/profile.json",
+      "type": "Reseller",
+      "country": "Tanzania",
+      "name": "Tanzania Digital"
+    },
+    {
+      "id": "res-Uganda-2",
+      "path": "Resellers/Uganda/Entebbe-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Uganda",
+      "name": "Entebbe Systems"
+    },
+    {
+      "id": "res-Uganda-0",
+      "path": "Resellers/Uganda/Kampala-Tech-Hub/profile.json",
+      "type": "Reseller",
+      "country": "Uganda",
+      "name": "Kampala Tech Hub"
+    },
+    {
+      "id": "res-Uganda-1",
+      "path": "Resellers/Uganda/Uganda-Digital-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Uganda",
+      "name": "Uganda Digital Solutions"
+    },
+    {
+      "id": "res-Zambia-0",
+      "path": "Resellers/Zambia/Lusaka-Tech-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Zambia",
+      "name": "Lusaka Tech Solutions"
+    },
+    {
+      "id": "res-Zambia-2",
+      "path": "Resellers/Zambia/Ndola-Systems/profile.json",
+      "type": "Reseller",
+      "country": "Zambia",
+      "name": "Ndola Systems"
+    },
+    {
+      "id": "res-Zambia-1",
+      "path": "Resellers/Zambia/Zambia-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Zambia",
+      "name": "Zambia Digital Partners"
+    },
+    {
+      "id": "res-Zimbabwe-2",
+      "path": "Resellers/Zimbabwe/Bulawayo-Solutions/profile.json",
+      "type": "Reseller",
+      "country": "Zimbabwe",
+      "name": "Bulawayo Solutions"
+    },
+    {
+      "id": "res-Zimbabwe-0",
+      "path": "Resellers/Zimbabwe/Harare-Tech-Hub/profile.json",
+      "type": "Reseller",
+      "country": "Zimbabwe",
+      "name": "Harare Tech Hub"
+    },
+    {
+      "id": "res-Zimbabwe-1",
+      "path": "Resellers/Zimbabwe/Zimbabwe-Digital-Partners/profile.json",
+      "type": "Reseller",
+      "country": "Zimbabwe",
+      "name": "Zimbabwe Digital Partners"
+    }
+  ]
+}

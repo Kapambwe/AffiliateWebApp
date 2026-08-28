@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Nigeria-2",
+  "resellerName": "Abuja Systems",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1509816.0,
+  "totalCommissionEarned": 377454.0,
+  "paidCommission": 354806.76,
+  "pendingCommission": 22647.24,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 118268.92,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 483141.12,
+      "commission": 120785.28,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 513337.44,
+      "commission": 128334.36,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 513337.44,
+      "commission": 128334.36,
+      "status": "Pending"
+    }
+  ]
+}

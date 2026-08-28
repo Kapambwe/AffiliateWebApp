@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 304042,
+      "EngagementRate": 4.6,
+      "Impressions": 1581018,
+      "ClickThroughRate": 1.38,
+      "Conversions": 2432
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 182425,
+      "EngagementRate": 5.52,
+      "Impressions": 942530,
+      "ClickThroughRate": 1.84,
+      "Conversions": 1824
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 121617,
+      "EngagementRate": 3.68,
+      "Impressions": 699297,
+      "ClickThroughRate": 1.15,
+      "Conversions": 1216
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Rwanda-1-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Grace Mukamana helps businesses automate accounting...",
+      "Engagement": 24323,
+      "Clicks": 3649,
+      "Conversions": 456,
+      "PostDate": "2026-08-25T14:16:52.0400983Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 36485,
+      "Clicks": 5473,
+      "Conversions": 608,
+      "PostDate": "2026-08-22T14:16:52.0405992Z"
+    },
+    {
+      "Id": "post-inf-Rwanda-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 15202,
+      "Clicks": 2432,
+      "Conversions": 304,
+      "PostDate": "2026-08-26T14:16:52.0409381Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.0416935Z",
+    "EndDate": "2026-08-27T14:16:52.0418246Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Ghana-0",
+  "resellerName": "Accra Tech Hub",
+  "country": "Ghana",
+  "currency": "GHS",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 637200.0,
+  "totalCommissionEarned": 159300.0,
+  "paidCommission": 149742.0,
+  "pendingCommission": 9558.0,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 49914.0,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 203904.00,
+      "commission": 50976.00,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 216648.00,
+      "commission": 54162.00,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 216648.00,
+      "commission": 54162.00,
+      "status": "Pending"
+    }
+  ]
+}

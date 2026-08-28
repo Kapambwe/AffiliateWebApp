@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 103659,
+      "EngagementRate": 3.9,
+      "Impressions": 539027,
+      "ClickThroughRate": 1.17,
+      "Conversions": 829
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 62195,
+      "EngagementRate": 4.68,
+      "Impressions": 321343,
+      "ClickThroughRate": 1.56,
+      "Conversions": 622
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 41464,
+      "EngagementRate": 3.12,
+      "Impressions": 238416,
+      "ClickThroughRate": 0.98,
+      "Conversions": 415
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Egypt-4-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Omar Samir helps businesses automate accounting...",
+      "Engagement": 8293,
+      "Clicks": 1244,
+      "Conversions": 155,
+      "PostDate": "2026-08-25T14:16:51.6245457Z"
+    },
+    {
+      "Id": "post-inf-Egypt-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 12439,
+      "Clicks": 1866,
+      "Conversions": 207,
+      "PostDate": "2026-08-22T14:16:51.6248959Z"
+    },
+    {
+      "Id": "post-inf-Egypt-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 5183,
+      "Clicks": 829,
+      "Conversions": 104,
+      "PostDate": "2026-08-26T14:16:51.6250218Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.6252552Z",
+    "EndDate": "2026-08-27T14:16:51.6253346Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 99370,
+      "EngagementRate": 5.6,
+      "Impressions": 516724,
+      "ClickThroughRate": 1.68,
+      "Conversions": 795
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 59622,
+      "EngagementRate": 6.72,
+      "Impressions": 308047,
+      "ClickThroughRate": 2.24,
+      "Conversions": 596
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 39748,
+      "EngagementRate": 4.48,
+      "Impressions": 228551,
+      "ClickThroughRate": 1.4,
+      "Conversions": 397
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zimbabwe-3-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Chipo Sibanda helps businesses automate accounting...",
+      "Engagement": 7950,
+      "Clicks": 1192,
+      "Conversions": 149,
+      "PostDate": "2026-08-25T14:16:52.3350913Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 11924,
+      "Clicks": 1789,
+      "Conversions": 199,
+      "PostDate": "2026-08-22T14:16:52.3354437Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 4968,
+      "Clicks": 795,
+      "Conversions": 99,
+      "PostDate": "2026-08-26T14:16:52.3357128Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3363227Z",
+    "EndDate": "2026-08-27T14:16:52.3364773Z"
+  }
+}

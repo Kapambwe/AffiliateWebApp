@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 473917,
+      "EngagementRate": 4.5,
+      "Impressions": 2464368,
+      "ClickThroughRate": 1.35,
+      "Conversions": 3791
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 284350,
+      "EngagementRate": 5.4,
+      "Impressions": 1469143,
+      "ClickThroughRate": 1.8,
+      "Conversions": 2844
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 189567,
+      "EngagementRate": 3.6,
+      "Impressions": 1090009,
+      "ClickThroughRate": 1.12,
+      "Conversions": 1896
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Morocco-0-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Youssef Alami helps businesses automate accounting...",
+      "Engagement": 37913,
+      "Clicks": 5687,
+      "Conversions": 711,
+      "PostDate": "2026-08-25T14:16:51.9550648Z"
+    },
+    {
+      "Id": "post-inf-Morocco-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 56870,
+      "Clicks": 8531,
+      "Conversions": 948,
+      "PostDate": "2026-08-22T14:16:51.9554539Z"
+    },
+    {
+      "Id": "post-inf-Morocco-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 23696,
+      "Clicks": 3791,
+      "Conversions": 474,
+      "PostDate": "2026-08-26T14:16:51.9558341Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9561378Z",
+    "EndDate": "2026-08-27T14:16:51.9562362Z"
+  }
+}

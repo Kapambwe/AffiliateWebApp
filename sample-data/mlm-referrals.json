@@ -1,0 +1,130 @@
+{
+  "plan": {
+    "name": "Standard Unilevel",
+    "maxLevels": 5,
+    "payoutFrequencyDays": 30,
+    "commissionCap": 25000,
+    "levelRates": [
+      { "level": 1, "rate": 0.10, "description": "Direct referrals" },
+      { "level": 2, "rate": 0.05, "description": "Second level" },
+      { "level": 3, "rate": 0.03, "description": "Third level" },
+      { "level": 4, "rate": 0.02, "description": "Fourth level" },
+      { "level": 5, "rate": 0.01, "description": "Fifth level" }
+    ],
+    "qualificationRules": [
+      {
+        "rank": "Silver",
+        "minimumActive": 3,
+        "minimumPersonalVolume": 500,
+        "minimumGroupVolume": 2000,
+        "requiredQualifiedLegs": 2
+      },
+      {
+        "rank": "Gold",
+        "minimumActive": 8,
+        "minimumPersonalVolume": 1500,
+        "minimumGroupVolume": 10000,
+        "requiredQualifiedLegs": 3
+      }
+    ],
+    "compressionRules": [
+      {
+        "inactivityDays": 60,
+        "rollUpCommissions": true,
+        "notes": "Inactive nodes compress upward"
+      }
+    ]
+  },
+  "downlineByReferrer": {
+    "aff-001": {
+      "directReferrals": 12,
+      "indirectReferrals": 47,
+      "totalDownline": 59,
+      "activeCount": 41,
+      "qualifiedCount": 18,
+      "groupVolume": 28400,
+      "personalVolume": 4200,
+      "legVolume": 24200,
+      "currentRank": "Gold",
+      "legs": [
+        { "legName": "Leg A", "volume": 12000, "activeCount": 18, "isQualified": true },
+        { "legName": "Leg B", "volume": 8200, "activeCount": 14, "isQualified": true },
+        { "legName": "Leg C", "volume": 4000, "activeCount": 9, "isQualified": false }
+      ]
+    }
+  },
+  "genealogyByReferrer": {
+    "aff-001": [
+      {
+        "id": "node-1",
+        "referrerId": "aff-101",
+        "name": "Akinyi Maina",
+        "level": 1,
+        "rank": "Silver",
+        "isActive": true,
+        "children": [
+          {
+            "id": "node-1a",
+            "referrerId": "aff-201",
+            "name": "Kamau Omondi",
+            "level": 2,
+            "rank": "Unranked",
+            "isActive": true,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "node-2",
+        "referrerId": "aff-102",
+        "name": "Wanjiku Kariuki",
+        "level": 1,
+        "rank": "Gold",
+        "isActive": true,
+        "children": []
+      }
+    ]
+  },
+  "commissionsByReferrer": {
+    "aff-001": [
+      {
+        "id": "mlm-c-001",
+        "sourceName": "Akinyi Maina",
+        "productName": "Accrual Accounting Suite",
+        "level": 1,
+        "rate": 0.10,
+        "amount": 49.90,
+        "date": "2026-08-15T00:00:00Z",
+        "status": "Paid"
+      },
+      {
+        "id": "mlm-c-002",
+        "sourceName": "Kamau Omondi",
+        "productName": "School Management Hub",
+        "level": 2,
+        "rate": 0.05,
+        "amount": 22.50,
+        "date": "2026-08-20T00:00:00Z",
+        "status": "Pending"
+      }
+    ]
+  },
+  "rankHistoryByReferrer": {
+    "aff-001": [
+      {
+        "rank": "Silver",
+        "date": "2025-11-01T00:00:00Z",
+        "achievedDate": "2025-11-01T00:00:00Z",
+        "achievement": "Reached Silver",
+        "notes": "3 active directs"
+      },
+      {
+        "rank": "Gold",
+        "date": "2026-04-12T00:00:00Z",
+        "achievedDate": "2026-04-12T00:00:00Z",
+        "achievement": "Reached Gold",
+        "notes": "Group volume exceeded 10k"
+      }
+    ]
+  }
+}

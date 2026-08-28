@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Rwanda-0",
+  "resellerName": "Kigali Tech Solutions",
+  "country": "Rwanda",
+  "currency": "RWF",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1177446.0,
+  "totalCommissionEarned": 294361.5,
+  "paidCommission": 276699.81,
+  "pendingCommission": 17661.69,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 92233.27,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 376782.72,
+      "commission": 94195.68,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 400331.64,
+      "commission": 100082.91,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 400331.64,
+      "commission": 100082.91,
+      "status": "Pending"
+    }
+  ]
+}

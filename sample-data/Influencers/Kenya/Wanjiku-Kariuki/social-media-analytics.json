@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 272620,
+      "EngagementRate": 4.8,
+      "Impressions": 1417624,
+      "ClickThroughRate": 1.44,
+      "Conversions": 2181
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 163572,
+      "EngagementRate": 5.76,
+      "Impressions": 845122,
+      "ClickThroughRate": 1.92,
+      "Conversions": 1636
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 109048,
+      "EngagementRate": 3.84,
+      "Impressions": 627026,
+      "ClickThroughRate": 1.2,
+      "Conversions": 1090
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Kenya-4-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Wanjiku Kariuki helps businesses automate accounting...",
+      "Engagement": 21810,
+      "Clicks": 3271,
+      "Conversions": 409,
+      "PostDate": "2026-08-25T14:16:51.8199153Z"
+    },
+    {
+      "Id": "post-inf-Kenya-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 32714,
+      "Clicks": 4907,
+      "Conversions": 545,
+      "PostDate": "2026-08-22T14:16:51.8200916Z"
+    },
+    {
+      "Id": "post-inf-Kenya-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 13631,
+      "Clicks": 2181,
+      "Conversions": 273,
+      "PostDate": "2026-08-26T14:16:51.8201994Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8205139Z",
+    "EndDate": "2026-08-27T14:16:51.8205882Z"
+  }
+}

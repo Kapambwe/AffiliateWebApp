@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "title": "Documentation",
+      "description": "Explore user guides, integration documentation, and marketing manuals.",
+      "icon": "article",
+      "actionLabel": "View Guides",
+      "actionStyle": "Secondary"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to common questions regarding commissions, tracking links, and payouts.",
+      "icon": "contact_support",
+      "actionLabel": "Browse FAQs",
+      "actionStyle": "Secondary"
+    },
+    {
+      "title": "Contact Support",
+      "description": "Get in touch with our partner support team for specialized assistance.",
+      "icon": "headset_mic",
+      "actionLabel": "Submit Ticket",
+      "actionStyle": "Primary",
+      "isContactAction": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do affiliate tracking links work?",
+      "answer": "Each product tracking link contains a unique affiliate code attributed to your account. When a prospect clicks the link and registers for a service, our attribution system credits the conversion and commission to your account automatically.",
+      "icon": "link"
+    },
+    {
+      "question": "When and how are commissions paid?",
+      "answer": "Commissions are calculated monthly and processed on the 15th of each following month for all active conversions exceeding the payout threshold.",
+      "icon": "payments"
+    },
+    {
+      "question": "What if a product action is disabled?",
+      "answer": "Products marked as under maintenance or in development have Details and Tracking Links temporarily disabled until the software release is complete.",
+      "icon": "info"
+    },
+    {
+      "question": "How do I invite my team?",
+      "answer": "Partners and resellers can invite teammates from Team Access. Assign a role, send the invitation email, and the member activates access after accepting.",
+      "icon": "group_add"
+    },
+    {
+      "question": "Where can I find marketing assets?",
+      "answer": "Open the Affiliate Portal and use Marketing Assets Library to download approved banners, one-pagers, and social creatives for your campaigns.",
+      "icon": "campaign"
+    }
+  ]
+}

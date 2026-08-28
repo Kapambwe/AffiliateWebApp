@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "name": "Demo Reseller",
+    "tier": "Gold",
+    "resellerCode": "RSL-001",
+    "commissionRate": 25,
+    "email": "reseller@example.com",
+    "company": "Demo Reseller Corp",
+    "memberSince": "2025-08-27T00:00:00Z"
+  },
+  "stats": {
+    "activeCustomers": 45,
+    "newCustomersThisMonth": 8,
+    "monthlyRevenue": 3600,
+    "revenueGrowthPercent": 12.5,
+    "commissionsEarned": 900,
+    "pendingPayout": 450,
+    "openDeals": 12,
+    "dealsClosingThisMonth": 5
+  },
+  "recentActivity": [
+    { "date": "2026-08-26T10:00:00Z", "type": "New Customer", "description": "TechCorp signed up", "amount": 80 },
+    { "date": "2026-08-24T10:00:00Z", "type": "Commission", "description": "Monthly payout received", "amount": 450 },
+    { "date": "2026-08-22T10:00:00Z", "type": "Renewal", "description": "Acme Corp renewed", "amount": 120 },
+    { "date": "2026-08-20T10:00:00Z", "type": "New Deal", "description": "Global Inc in pipeline", "amount": 200 }
+  ]
+}

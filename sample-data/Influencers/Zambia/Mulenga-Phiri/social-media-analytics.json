@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 239683,
+      "EngagementRate": 6.8,
+      "Impressions": 1246352,
+      "ClickThroughRate": 2.04,
+      "Conversions": 1917
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 143810,
+      "EngagementRate": 8.16,
+      "Impressions": 743017,
+      "ClickThroughRate": 2.72,
+      "Conversions": 1438
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 95873,
+      "EngagementRate": 5.44,
+      "Impressions": 551271,
+      "ClickThroughRate": 1.7,
+      "Conversions": 959
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zambia-0-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Mulenga Phiri helps businesses automate accounting...",
+      "Engagement": 19175,
+      "Clicks": 2876,
+      "Conversions": 360,
+      "PostDate": "2026-08-25T14:16:52.3152357Z"
+    },
+    {
+      "Id": "post-inf-Zambia-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 28762,
+      "Clicks": 4314,
+      "Conversions": 479,
+      "PostDate": "2026-08-22T14:16:52.3156091Z"
+    },
+    {
+      "Id": "post-inf-Zambia-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 11984,
+      "Clicks": 1917,
+      "Conversions": 240,
+      "PostDate": "2026-08-26T14:16:52.3158619Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3164199Z",
+    "EndDate": "2026-08-27T14:16:52.3165595Z"
+  }
+}

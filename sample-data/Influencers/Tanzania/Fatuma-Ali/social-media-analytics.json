@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 247699,
+      "EngagementRate": 5.4,
+      "Impressions": 1288035,
+      "ClickThroughRate": 1.62,
+      "Conversions": 1982
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 148619,
+      "EngagementRate": 6.48,
+      "Impressions": 767867,
+      "ClickThroughRate": 2.16,
+      "Conversions": 1486
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 99080,
+      "EngagementRate": 4.32,
+      "Impressions": 569708,
+      "ClickThroughRate": 1.35,
+      "Conversions": 991
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Tanzania-3-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Fatuma Ali helps businesses automate accounting...",
+      "Engagement": 19816,
+      "Clicks": 2972,
+      "Conversions": 372,
+      "PostDate": "2026-08-25T14:16:52.1675044Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 29724,
+      "Clicks": 4459,
+      "Conversions": 495,
+      "PostDate": "2026-08-22T14:16:52.1676211Z"
+    },
+    {
+      "Id": "post-inf-Tanzania-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 12385,
+      "Clicks": 1982,
+      "Conversions": 248,
+      "PostDate": "2026-08-26T14:16:52.1676928Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1678546Z",
+    "EndDate": "2026-08-27T14:16:52.1678874Z"
+  }
+}

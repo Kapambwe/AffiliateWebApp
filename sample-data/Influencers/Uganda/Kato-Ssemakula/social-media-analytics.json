@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "TikTok",
+      "Followers": 225634,
+      "EngagementRate": 5.5,
+      "Impressions": 1173297,
+      "ClickThroughRate": 1.65,
+      "Conversions": 1805
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 135380,
+      "EngagementRate": 6.6,
+      "Impressions": 699465,
+      "ClickThroughRate": 2.2,
+      "Conversions": 1354
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 90254,
+      "EngagementRate": 4.4,
+      "Impressions": 518958,
+      "ClickThroughRate": 1.38,
+      "Conversions": 903
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Uganda-1-1",
+      "Platform": "TikTok",
+      "ContentPreview": "How Kato Ssemakula helps businesses automate accounting...",
+      "Engagement": 18051,
+      "Clicks": 2708,
+      "Conversions": 338,
+      "PostDate": "2026-08-25T14:16:52.1889277Z"
+    },
+    {
+      "Id": "post-inf-Uganda-1-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 27076,
+      "Clicks": 4061,
+      "Conversions": 451,
+      "PostDate": "2026-08-22T14:16:52.1890488Z"
+    },
+    {
+      "Id": "post-inf-Uganda-1-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 11282,
+      "Clicks": 1805,
+      "Conversions": 226,
+      "PostDate": "2026-08-26T14:16:52.1891188Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1892734Z",
+    "EndDate": "2026-08-27T14:16:52.1893054Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "performanceByReferrer": {
+    "aff-001": {
+      "referrerName": "Tech Influencer Pro",
+      "totalClicks": 5060,
+      "totalRegistrals": 312,
+      "totalReferrals": 124,
+      "activeCustomers": 86,
+      "convertedReferrals": 98,
+      "totalRevenueGenerated": 84200,
+      "monthlyRecurringRevenue": 12600,
+      "totalCommissionsEarned": 1250.50,
+      "pendingCommissions": 340.25,
+      "referralTrends": [
+        { "month": "Jun", "referralCount": 18, "conversionCount": 14, "commission": 210.00 },
+        { "month": "Jul", "referralCount": 22, "conversionCount": 17, "commission": 280.50 },
+        { "month": "Aug", "referralCount": 26, "conversionCount": 20, "commission": 340.25 }
+      ],
+      "commissionTrends": [
+        { "month": "Jun", "referralCount": 18, "conversionCount": 14, "commission": 210.00 },
+        { "month": "Jul", "referralCount": 22, "conversionCount": 17, "commission": 280.50 },
+        { "month": "Aug", "referralCount": 26, "conversionCount": 20, "commission": 340.25 }
+      ]
+    }
+  },
+  "referralsByReferrer": {
+    "aff-001": [
+      {
+        "id": "cr-001",
+        "customerName": "Central High School",
+        "companyName": "Central Education Trust",
+        "productName": "School Management Hub",
+        "date": "2026-07-12T00:00:00Z",
+        "referralDate": "2026-07-12T00:00:00Z",
+        "status": "Active",
+        "monthlyRecurringRevenue": 899,
+        "totalRevenueGenerated": 2697,
+        "commissionRate": 0.20,
+        "totalCommissionEarned": 539.40,
+        "monthsActive": 3
+      },
+      {
+        "id": "cr-002",
+        "customerName": "Apex Law Chambers",
+        "companyName": "Apex Legal Group",
+        "productName": "Lawyer Practice Pro",
+        "date": "2026-08-05T00:00:00Z",
+        "referralDate": "2026-08-05T00:00:00Z",
+        "status": "Trial",
+        "monthlyRecurringRevenue": 299,
+        "totalRevenueGenerated": 0,
+        "commissionRate": 0.18,
+        "totalCommissionEarned": 0,
+        "monthsActive": 0
+      }
+    ]
+  }
+}

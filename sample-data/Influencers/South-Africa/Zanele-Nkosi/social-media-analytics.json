@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 153355,
+      "EngagementRate": 4.0,
+      "Impressions": 797446,
+      "ClickThroughRate": 1.2,
+      "Conversions": 1227
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 92013,
+      "EngagementRate": 4.8,
+      "Impressions": 475400,
+      "ClickThroughRate": 1.6,
+      "Conversions": 920
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 61342,
+      "EngagementRate": 3.2,
+      "Impressions": 352716,
+      "ClickThroughRate": 1.0,
+      "Conversions": 613
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-South-Africa-3-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Zanele Nkosi helps businesses automate accounting...",
+      "Engagement": 12268,
+      "Clicks": 1840,
+      "Conversions": 230,
+      "PostDate": "2026-08-25T14:16:52.1413178Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 18403,
+      "Clicks": 2760,
+      "Conversions": 307,
+      "PostDate": "2026-08-22T14:16:52.1416282Z"
+    },
+    {
+      "Id": "post-inf-South-Africa-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 7668,
+      "Clicks": 1227,
+      "Conversions": 153,
+      "PostDate": "2026-08-26T14:16:52.1419052Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.1424587Z",
+    "EndDate": "2026-08-27T14:16:52.1425984Z"
+  }
+}

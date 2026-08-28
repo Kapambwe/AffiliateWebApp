@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Tanzania-1",
+  "resellerName": "Tanzania Digital",
+  "country": "Tanzania",
+  "currency": "TZS",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 1535976.0,
+  "totalCommissionEarned": 383994.0,
+  "paidCommission": 360954.36,
+  "pendingCommission": 23039.64,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 120318.12,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 491512.32,
+      "commission": 122878.08,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 522231.84,
+      "commission": 130557.96,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 522231.84,
+      "commission": 130557.96,
+      "status": "Pending"
+    }
+  ]
+}

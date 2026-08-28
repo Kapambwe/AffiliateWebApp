@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 460336,
+      "EngagementRate": 4.1,
+      "Impressions": 2393747,
+      "ClickThroughRate": 1.23,
+      "Conversions": 3683
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 276202,
+      "EngagementRate": 4.92,
+      "Impressions": 1427042,
+      "ClickThroughRate": 1.64,
+      "Conversions": 2762
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 184134,
+      "EngagementRate": 3.28,
+      "Impressions": 1058773,
+      "ClickThroughRate": 1.02,
+      "Conversions": 1841
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Malawi-3-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Chimwemwe Mwale helps businesses automate accounting...",
+      "Engagement": 36827,
+      "Clicks": 5524,
+      "Conversions": 691,
+      "PostDate": "2026-08-25T14:16:51.8323574Z"
+    },
+    {
+      "Id": "post-inf-Malawi-3-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 55240,
+      "Clicks": 8286,
+      "Conversions": 921,
+      "PostDate": "2026-08-22T14:16:51.8328423Z"
+    },
+    {
+      "Id": "post-inf-Malawi-3-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 23017,
+      "Clicks": 3683,
+      "Conversions": 460,
+      "PostDate": "2026-08-26T14:16:51.8330548Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.8333409Z",
+    "EndDate": "2026-08-27T14:16:51.8334201Z"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "completedCourses": 12,
+    "totalCourses": 20,
+    "certifications": 3,
+    "pendingCerts": 2,
+    "hoursLearned": 45,
+    "currentLevel": "Gold",
+    "nextLevel": "Platinum",
+    "coursesToNextLevel": 4
+  },
+  "courses": [
+    { "title": "Product Overview", "category": "Product", "duration": "2h", "level": "Beginner", "status": "Completed", "progress": 100 },
+    { "title": "Sales Fundamentals", "category": "Sales", "duration": "4h", "level": "Beginner", "status": "Completed", "progress": 100 },
+    { "title": "Advanced Selling", "category": "Sales", "duration": "6h", "level": "Advanced", "status": "In Progress", "progress": 65 },
+    { "title": "Customer Onboarding", "category": "Customer", "duration": "3h", "level": "Intermediate", "status": "Not Started", "progress": 0 },
+    { "title": "Technical Integration", "category": "Technical", "duration": "5h", "level": "Advanced", "status": "Not Started", "progress": 0 }
+  ],
+  "certifications": [
+    { "name": "Product Certified", "description": "Complete product knowledge certification", "earned": true, "earnedDate": "2026-05-27T00:00:00Z" },
+    { "name": "Sales Professional", "description": "Advanced sales techniques certification", "earned": true, "earnedDate": "2026-06-27T00:00:00Z" },
+    { "name": "Customer Success", "description": "Customer onboarding best practices", "earned": true, "earnedDate": "2026-07-27T00:00:00Z" },
+    { "name": "Technical Expert", "description": "Technical integration specialist", "earned": false, "requirement": "Complete Technical Integration course" }
+  ],
+  "resources": [
+    { "title": "Sales Playbook", "description": "Complete guide for closing deals", "type": "PDF" },
+    { "title": "Product Datasheet", "description": "Feature comparison document", "type": "Document" },
+    { "title": "Demo Video Series", "description": "Product demonstration videos", "type": "Media" }
+  ]
+}

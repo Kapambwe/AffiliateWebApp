@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "Instagram",
+      "Followers": 49136,
+      "EngagementRate": 4.5,
+      "Impressions": 255507,
+      "ClickThroughRate": 1.35,
+      "Conversions": 393
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 29482,
+      "EngagementRate": 5.4,
+      "Impressions": 152322,
+      "ClickThroughRate": 1.8,
+      "Conversions": 295
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 19654,
+      "EngagementRate": 3.6,
+      "Impressions": 113013,
+      "ClickThroughRate": 1.12,
+      "Conversions": 197
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Nigeria-0-1",
+      "Platform": "Instagram",
+      "ContentPreview": "How Chukwu Okafor helps businesses automate accounting...",
+      "Engagement": 3931,
+      "Clicks": 590,
+      "Conversions": 74,
+      "PostDate": "2026-08-25T14:16:51.9691214Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-0-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 5896,
+      "Clicks": 884,
+      "Conversions": 98,
+      "PostDate": "2026-08-22T14:16:51.9693263Z"
+    },
+    {
+      "Id": "post-inf-Nigeria-0-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 2457,
+      "Clicks": 393,
+      "Conversions": 49,
+      "PostDate": "2026-08-26T14:16:51.9694283Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:51.9696316Z",
+    "EndDate": "2026-08-27T14:16:51.9696712Z"
+  }
+}

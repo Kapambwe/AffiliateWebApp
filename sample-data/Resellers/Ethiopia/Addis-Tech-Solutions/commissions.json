@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Ethiopia-0",
+  "resellerName": "Addis Tech Solutions",
+  "country": "Ethiopia",
+  "currency": "ETB",
+  "commissionRate": 25.0,
+  "tier": "Platinum",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 648508.0,
+  "totalCommissionEarned": 162127.0,
+  "paidCommission": 152399.38,
+  "pendingCommission": 9727.62,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 50799.79,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 207522.56,
+      "commission": 51880.64,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 220492.72,
+      "commission": 55123.18,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 220492.72,
+      "commission": 55123.18,
+      "status": "Pending"
+    }
+  ]
+}

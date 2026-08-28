@@ -1,0 +1,61 @@
+{
+  "PlatformMetrics": [
+    {
+      "Platform": "YouTube",
+      "Followers": 270781,
+      "EngagementRate": 3.5,
+      "Impressions": 1408061,
+      "ClickThroughRate": 1.05,
+      "Conversions": 2166
+    },
+    {
+      "Platform": "Instagram",
+      "Followers": 162469,
+      "EngagementRate": 4.2,
+      "Impressions": 839421,
+      "ClickThroughRate": 1.4,
+      "Conversions": 1625
+    },
+    {
+      "Platform": "Twitter",
+      "Followers": 108312,
+      "EngagementRate": 2.8,
+      "Impressions": 622796,
+      "ClickThroughRate": 0.88,
+      "Conversions": 1083
+    }
+  ],
+  "TopPerformingPosts": [
+    {
+      "Id": "post-inf-Zimbabwe-4-1",
+      "Platform": "YouTube",
+      "ContentPreview": "How Farai Gumbo helps businesses automate accounting...",
+      "Engagement": 21662,
+      "Clicks": 3249,
+      "Conversions": 406,
+      "PostDate": "2026-08-25T14:16:52.3496909Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-4-2",
+      "Platform": "Instagram",
+      "ContentPreview": "Behind the scenes with local finance teams...",
+      "Engagement": 32494,
+      "Clicks": 4874,
+      "Conversions": 542,
+      "PostDate": "2026-08-22T14:16:52.3499039Z"
+    },
+    {
+      "Id": "post-inf-Zimbabwe-4-3",
+      "Platform": "Twitter",
+      "ContentPreview": "Saved hours on bookkeeping this week #accounting",
+      "Engagement": 13539,
+      "Clicks": 2166,
+      "Conversions": 271,
+      "PostDate": "2026-08-26T14:16:52.3499772Z"
+    }
+  ],
+  "DateRange": {
+    "StartDate": "2026-07-28T14:16:52.3501458Z",
+    "EndDate": "2026-08-27T14:16:52.3501779Z"
+  }
+}

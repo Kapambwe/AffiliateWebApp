@@ -1,0 +1,43 @@
+{
+  "resellerId": "res-Zambia-2",
+  "resellerName": "Ndola Systems",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "commissionRate": 25.0,
+  "tier": "Gold",
+  "status": "Active",
+  "totalSales": 120,
+  "activeCustomers": 120,
+  "totalRevenue": 136452.0,
+  "totalCommissionEarned": 34113.0,
+  "paidCommission": 32066.22,
+  "pendingCommission": 2046.78,
+  "lastPaymentDate": "2024-11-01T00:00:00Z",
+  "lastPaymentAmount": 10688.74,
+  "nextPaymentDate": "2025-01-01T00:00:00Z",
+  "paymentMethod": "Bank Transfer",
+  "taxRate": 0.12,
+  "monthlyCommissions": [
+    {
+      "month": "2024-09",
+      "sales": 38,
+      "revenue": 43664.64,
+      "commission": 10916.16,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-10",
+      "sales": 41,
+      "revenue": 46393.68,
+      "commission": 11598.42,
+      "status": "Paid"
+    },
+    {
+      "month": "2024-11",
+      "sales": 41,
+      "revenue": 46393.68,
+      "commission": 11598.42,
+      "status": "Pending"
+    }
+  ]
+}
